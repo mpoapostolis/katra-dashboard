@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import * as styles from './css';
 import actions from '../../redux/actions';
 import TextField from '../../components/TextField';
-import Button from 'material-ui/Button';
+import Button from '@material-ui/core/Button';
 import {bindActionCreators} from 'redux';
 import {connect} from 'react-redux';
 

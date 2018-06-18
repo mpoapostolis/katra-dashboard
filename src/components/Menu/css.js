@@ -10,6 +10,7 @@ export const logo = css`
   display: flex;
   flex-direction: center;
   max-width: 150px;
+  margin-top:20px;
   margin-bottom: 35px;
 `;
 

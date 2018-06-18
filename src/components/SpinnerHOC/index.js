@@ -1,5 +1,5 @@
 import React from 'react';
-import { CircularProgress } from 'material-ui/Progress';
+import { CircularProgress } from '@material-ui/core/Progress';
 import { css } from 'emotion';
 
 const container = css`

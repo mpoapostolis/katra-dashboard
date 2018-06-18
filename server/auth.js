@@ -7,7 +7,7 @@ const generateToken = user_name => {
       user_name
     },
     SUPER_SECRET,
-    { expiresIn: "10s" }
+    { expiresIn: "600s" }
   );
 
   const refresh_token = jwt.sign(

@@ -3,7 +3,7 @@ import * as styles from './css';
 import {connect} from 'react-redux';
 import actions from '../../redux/actions';
 import {bindActionCreators} from 'redux';
-import Popover from 'material-ui/Popover';
+import Popover from '@material-ui/core/Popover';
 
 class Header extends Component {
   state = {

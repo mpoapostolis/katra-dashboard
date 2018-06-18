@@ -4,8 +4,7 @@ export const container = css`
   color: #fff;
   height: 100vh;
   width: 100vw;
-  background: black url('/images/bg_login.jpg') no-repeat 0 -1%;
-  background-size: 100% 49%;
+  background: black url('/images/bg.jpg') no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,9 +14,8 @@ export const boxContainer = css`
   padding: 15px;
   width: 450px;
   height: 420px;
-  background: red;
   border-radius: 2px;
-  background: #000;
+  background: #0000009F;
   border: solid 1px #2e2d2d;
   display: flex;
   flex-direction: column;

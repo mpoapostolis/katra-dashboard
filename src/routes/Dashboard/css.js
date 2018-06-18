@@ -4,44 +4,46 @@ export const container = css`
   width: 100%;
 `;
 
-export const layout = css`
-  display: grid;
-  grid-gap: 3px;
-  grid-template-rows: 100px repeat(3, 1fr);
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-areas:
-    'headInfo headInfo headInfo headInfo headInfo'
-    'topPerfomCampain topPerfomCampain flameChart flameChart flameChart'
-    'runningContest runningContest scratchAndWinChart scratchAndWinChart scratchAndWinChart'
-    '. . contestReport contestReport contestReport';
+export const header = css`
+  display: flex;
+  font-size:large;
+  font-weight:600;
+  align-items: center;
+  padding:5px;
+  justify-content:space-between;
 `;
 
-export const headInfo = css`
-  border: solid 1px #dae0e7;
-  grid-area: headInfo;
+export const filterBox = css`
+  width:150px;
+  color: #999999;
+  display:flex;
 `;
 
-export const topPerfomCampain = css`
-  border: solid 1px #dae0e7;
-  grid-area: topPerfomCampain;
+export const filters = css`
+  label{
+    font-weight:600;
+    color: #777777;
+    font-size:large;
+    margin-right:30px;
+  }
+  padding:30px 0;
+  display:flex;
+  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.15);
 `;
 
-export const flameChart = css`
-  border: solid 1px #dae0e7;
-  grid-area: flameChart;
-`;
+export const datePickerClass = css`
 
-export const scratchAndWinChart = css`
-  border: solid 1px #dae0e7;
-  grid-area: scratchAndWinChart;
-`;
+  &:active {
+    outline: none;
+  }
 
-export const runningContest = css`
-  border: solid 1px #dae0e7;
-  grid-area: runningContest;
-`;
-
-export const contestReport = css`
-  border: solid 1px #dae0e7;
-  grid-area: contestReport;
+  &:focus {
+    outline: none;
+  }
+  color: rgba(0, 0, 0, 0.75);
+  font-weight: bolder;
+  border: none;
+  margin-left: 5px;
+  width: 100px;
+  background: transparent;
 `;

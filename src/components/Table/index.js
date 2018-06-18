@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import pluck from 'ramda/src/pluck';
 import format from 'date-fns/format';
-import Popover from 'material-ui/Popover';
-import Checkbox from 'material-ui/Checkbox';
+import Popover from '@material-ui/core/Popover';
+import Checkbox from '@material-ui/core/Checkbox';
 import SpinnerHOC from '../SpinnerHOC';
 import * as styles from './css';
 
