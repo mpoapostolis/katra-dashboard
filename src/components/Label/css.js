@@ -4,8 +4,7 @@ export const labelName = css`
   font-weight: 500;
   font-family: Arial;
   color: #585858;
-  margin-top:20px;
-  font-size: xx-large;
+  font-size: large;
   &:first-letter {
     text-transform: uppercase;
 `;

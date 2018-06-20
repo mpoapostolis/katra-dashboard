@@ -11,12 +11,7 @@ export const header = css`
   align-items: center;
   padding:5px;
   justify-content:space-between;
-`;
-
-export const filterBox = css`
-  width:150px;
-  color: #999999;
-  display:flex;
+  align-content: center;
 `;
 
 export const filters = css`
@@ -28,7 +23,6 @@ export const filters = css`
   }
   padding:30px 0;
   display:flex;
-  box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.15);
 `;
 
 export const datePickerClass = css`
@@ -46,4 +40,34 @@ export const datePickerClass = css`
   margin-left: 5px;
   width: 100px;
   background: transparent;
+`;
+
+export const dateCont = css`
+  display: flex;
+  color: #999999;
+  width:500px;
+  align-content: center;
+  margin: 20px 0 50px 0;
+`;
+
+export const filterCont = css`
+  display:flex;
+  margin-left:40px;
+`;
+
+export const inputCont = css`
+  display: flex;
+  color: #999999;
+  align-content: center;
+  justify-content:space-around;
+`;
+
+export const input = css`
+  width:45%;
+`;
+
+export const modelCont = css`
+  margin:10px 0 10px 0;
+  display:flex;
+  justify-content:space-between;
 `;

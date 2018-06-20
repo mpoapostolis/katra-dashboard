@@ -109,6 +109,7 @@ class TextField extends Component {
       field,
       extraClass,
       labelClass,
+      disabled,
     } = this.props;
     const {inputCont, input, hideIcon} = styles;
     const {errorClass, value, asyncList} = this.state;
@@ -137,8 +138,9 @@ class TextField extends Component {
           />
         ) : (
           <input
+            disabled={disabled}
             value={value}
-            className={`${input} ${errorClass} ${extraClass}`}
+            className={`${input} ${disabled ? 'disabled' : ''} ${errorClass} ${extraClass}`}
             onChange={this.handleChange}
             onKeyDown={this.props.pressEnter}
             type={inputType}

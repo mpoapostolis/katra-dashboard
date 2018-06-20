@@ -23,9 +23,13 @@ export const input = css`
     border-bottom: solid 0.1em rgb(0, 0, 0, 0.8);
     outline: none;
   }
+
   &.error {
     color: red;
     border-bottom: solid 0.08em #ff0000;
+  }
+  &.disabled{
+    cursor: not-allowed;
   }
 `;
 
@@ -63,4 +67,4 @@ export const inputCont = css`
 
 export const hideIcon = css`
   cursor:pointer
-`
+`;
