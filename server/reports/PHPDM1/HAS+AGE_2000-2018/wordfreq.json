@@ -1,0 +1,352 @@
+[
+  {
+    "term": "level",
+    "freq": 51,
+    "assocs": "area, auge, chile, chilean, geographic, knew, percentage, residence",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "research",
+    "freq": 51,
+    "assocs": "design",
+    "group": 1,
+    "_row": "research"
+  },
+  {
+    "term": "self",
+    "freq": 52,
+    "assocs": "form, members",
+    "group": 1,
+    "_row": "self"
+  },
+  {
+    "term": "include",
+    "freq": 53,
+    "assocs": "",
+    "group": 1,
+    "_row": "include"
+  },
+  {
+    "term": "ioi",
+    "freq": 55,
+    "assocs": "item, veteran, properties, psychometric, resemblance, introspection, affiliated, cbocs, francisco, insignificant, ip, migration, noninferiority, pgt, san, september, ta, teleaudiology, monaural, plt, sd, distinction, receive, meaning, outpatient, nationwide, preserved, six, male, retrospective",
+    "group": 1,
+    "_row": "ioi"
+  },
+  {
+    "term": "amplifica",
+    "freq": 57,
+    "assocs": "ii",
+    "group": 1,
+    "_row": "amplifica"
+  },
+  {
+    "term": "sample",
+    "freq": 58,
+    "assocs": "chance, chronbachs, colleagues, copies, critical, lambda, pay, replace, original, categories, establish, normal, published, identical, instructed, veteran, none, private, alpha, current, properties, psychometric",
+    "group": 1,
+    "_row": "sample"
+  },
+  {
+    "term": "show",
+    "freq": 58,
+    "assocs": "anova, ansd, spectrum, cut, free, mixed, attempt",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "individual",
+    "freq": 58,
+    "assocs": "channel",
+    "group": 1,
+    "_row": "individual"
+  },
+  {
+    "term": "analysis",
+    "freq": 58,
+    "assocs": "",
+    "group": 1,
+    "_row": "analysis"
+  },
+  {
+    "term": "clinic",
+    "freq": 59,
+    "assocs": "affiliated, cbocs, francisco, insignificant, ip, migration, noninferiority, pgt, san, september, ta, teleaudiology, receive, meaning",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "speech",
+    "freq": 59,
+    "assocs": "conjoint, noise, attributable, quiet, attained, branches, cologne, decompositional, giessen, hardly, interindividual, multifactorial, narrow, outstanding, scatter",
+    "group": 1,
+    "_row": "speech"
+  },
+  {
+    "term": "two",
+    "freq": 59,
+    "assocs": "",
+    "group": 1,
+    "_row": "two"
+  },
+  {
+    "term": "health",
+    "freq": 61,
+    "assocs": "state, adpi, d, euroqol, framed, intraclass, latter, marker, transformation, valuation, feasible",
+    "group": 1,
+    "_row": "health"
+  },
+  {
+    "term": "perform",
+    "freq": 63,
+    "assocs": "abilities, conflict, excellent, explanation, format, misperception, perceptual, permitting, ppdis, ppt, quotmisjudgequot, saunders, srtn, srtns, turn, underestimate, underscores",
+    "group": 1,
+    "_row": "perform"
+  },
+  {
+    "term": "conclus",
+    "freq": 66,
+    "assocs": "",
+    "group": 1,
+    "_row": "conclus"
+  },
+  {
+    "term": "improve",
+    "freq": 67,
+    "assocs": "nct, recent",
+    "group": 1,
+    "_row": "improve"
+  },
+  {
+    "term": "comparable",
+    "freq": 68,
+    "assocs": "acquisition, beyond, commutes, distance, expand, laryngoscope, onset, recipients, rural, untreated, vulnerable, urban, like, school, delay, job, socioeconomic, minutes, medicaid, impact, achieve",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "data",
+    "freq": 68,
+    "assocs": "collected, matter, adoption, certain, eurotrak, exhausted, forgetfulness, get, intervals, pooled, renewals, sales, exhibit, countries, hr, similar, stable, approximately, slight, france, corresponding, weighted, higher, increase, across, analyze, around, growing, product, period, balanced",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "factor",
+    "freq": 68,
+    "assocs": "",
+    "group": 1,
+    "_row": "factor"
+  },
+  {
+    "term": "mean",
+    "freq": 71,
+    "assocs": "sd, eigenvaluegt, intercorrelations, nigeria, favorable",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "life",
+    "freq": 71,
+    "assocs": "another, marital, waiting, qualities",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "relate",
+    "freq": 71,
+    "assocs": "",
+    "group": 1,
+    "_row": "relate"
+  },
+  {
+    "term": "device",
+    "freq": 71,
+    "assocs": "electroacoustic, sufficient, counter, otc, review, characteristic",
+    "group": 1,
+    "_row": "device"
+  },
+  {
+    "term": "evaluate",
+    "freq": 75,
+    "assocs": "",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "assess",
+    "freq": 76,
+    "assocs": "",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "effect",
+    "freq": 77,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "impaired",
+    "freq": 79,
+    "assocs": "identification, describe, form, read, members, partner, sos, spousal, disablement, partial, third, communities, relationship, bisexual, diffferences, disease, gay, generic, learning, lesbian, lgbt, qol, readers, transgender",
+    "group": 1,
+    "_row": "impaired"
+  },
+  {
+    "term": "report",
+    "freq": 83,
+    "assocs": "generalizability, always, casually, commonplace, enough, half, hrs, pp, transferring, wks, seen, va",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "score",
+    "freq": 87,
+    "assocs": "global",
+    "group": 1,
+    "_row": "score"
+  },
+  {
+    "term": "subject",
+    "freq": 93,
+    "assocs": "",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "adult",
+    "freq": 94,
+    "assocs": "urban, access, communities, hypothesis",
+    "group": 1,
+    "_row": "adult"
+  },
+  {
+    "term": "measure",
+    "freq": 100,
+    "assocs": "accurate, brief, captured, collaborative, housed, indiana, institute, iu, nidcd, shell, tutorial, conflict, explanation, format, misperception, perceptual, permitting, ppdis, ppt, quotmisjudgequot, saunders, srtn, srtns, turn, underestimate, underscores, unaidable, linear, single",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "benefit",
+    "freq": 104,
+    "assocs": "",
+    "group": 1,
+    "_row": "benefit"
+  },
+  {
+    "term": "year",
+    "freq": 104,
+    "assocs": "growth, certain, eurotrak, exhausted, forgetfulness, get, intervals, pooled, renewals, sales, stable, slight, exhibit, countries, growing",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 105,
+    "assocs": "",
+    "group": 1,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "user",
+    "freq": 109,
+    "assocs": "",
+    "group": 1,
+    "_row": "user"
+  },
+  {
+    "term": "differ",
+    "freq": 113,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "significance",
+    "freq": 126,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "outcome",
+    "freq": 130,
+    "assocs": "single, resemblance, accurate, brief, captured, collaborative, housed, indiana, institute, iu, nidcd, output, shell, tutorial",
+    "group": 1,
+    "_row": "outcome"
+  },
+  {
+    "term": "ha",
+    "freq": 144,
+    "assocs": "introspection, item",
+    "group": 2,
+    "_row": "ha"
+  },
+  {
+    "term": "group",
+    "freq": 148,
+    "assocs": "b, deployed, devided, junior, paragraph",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "fit",
+    "freq": 158,
+    "assocs": "",
+    "group": 1,
+    "_row": "fit"
+  },
+  {
+    "term": "age",
+    "freq": 171,
+    "assocs": "",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "loss",
+    "freq": 172,
+    "assocs": "possess",
+    "group": 2,
+    "_row": "loss"
+  },
+  {
+    "term": "participant",
+    "freq": 176,
+    "assocs": "",
+    "group": 2,
+    "_row": "participant"
+  },
+  {
+    "term": "patient",
+    "freq": 182,
+    "assocs": "",
+    "group": 2,
+    "_row": "patient"
+  },
+  {
+    "term": "satisfaction",
+    "freq": 204,
+    "assocs": "",
+    "group": 2,
+    "_row": "satisfaction"
+  },
+  {
+    "term": "studied",
+    "freq": 221,
+    "assocs": "five, acquiescence, big, claim, composition, equation, full, ps, tendency, text",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "hear",
+    "freq": 1087,
+    "assocs": "",
+    "group": 3,
+    "_row": "hear"
+  }
+]

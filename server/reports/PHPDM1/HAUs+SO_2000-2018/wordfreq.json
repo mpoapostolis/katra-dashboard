@@ -1,0 +1,352 @@
+[
+  {
+    "term": "normal",
+    "freq": 4,
+    "assocs": "data, according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, adult, methods, present, related, problems, qualities, suggest",
+    "group": 1,
+    "_row": "normal"
+  },
+  {
+    "term": "old",
+    "freq": 4,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, clinical, scale, adult, least, methods, present, referral, related",
+    "group": 1,
+    "_row": "old"
+  },
+  {
+    "term": "question",
+    "freq": 4,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, clinical, scale, adult, least, methods, present, referral, related",
+    "group": 1,
+    "_row": "question"
+  },
+  {
+    "term": "reduced",
+    "freq": 4,
+    "assocs": "adult, methods, present, related, based, data, addition, control, according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, well, absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread",
+    "group": 1,
+    "_row": "reduced"
+  },
+  {
+    "term": "single",
+    "freq": 4,
+    "assocs": "especially, questionnaire, well, anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, least, referral",
+    "group": 2,
+    "_row": "single"
+  },
+  {
+    "term": "threshold",
+    "freq": 4,
+    "assocs": "especially, questionnaire, anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, least, referral",
+    "group": 2,
+    "_row": "threshold"
+  },
+  {
+    "term": "year",
+    "freq": 4,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, clinical, scale, adult, least, methods, present, referral, related",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "also",
+    "freq": 4,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "also"
+  },
+  {
+    "term": "changes",
+    "freq": 4,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "changes"
+  },
+  {
+    "term": "decreased",
+    "freq": 4,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "decreased"
+  },
+  {
+    "term": "evaluated",
+    "freq": 4,
+    "assocs": "anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, especially, questionnaire",
+    "group": 2,
+    "_row": "evaluated"
+  },
+  {
+    "term": "hg",
+    "freq": 4,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "hg"
+  },
+  {
+    "term": "increased",
+    "freq": 4,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based",
+    "group": 3,
+    "_row": "increased"
+  },
+  {
+    "term": "compression",
+    "freq": 5,
+    "assocs": "administered, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, treatment, trial, wide, two, unaided, although, center, design, included, limitations, outcome, quiet, clinical, demonstrated, improved, scale, superior",
+    "group": 2,
+    "_row": "compression"
+  },
+  {
+    "term": "condition",
+    "freq": 5,
+    "assocs": "administered, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, treatment, trial, wide, two, unaided, although, center, design, included, limitations, outcome, quiet, clinical, scale",
+    "group": 2,
+    "_row": "condition"
+  },
+  {
+    "term": "loss",
+    "freq": 5,
+    "assocs": "anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, especially, questionnaire, demonstrated, improved, least, referral, sound",
+    "group": 2,
+    "_row": "loss"
+  },
+  {
+    "term": "provide",
+    "freq": 5,
+    "assocs": "administered, although, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, included, limitations, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, treatment, trial, wide, two, unaided, center, design, outcome, quiet, superior",
+    "group": 2,
+    "_row": "provide"
+  },
+  {
+    "term": "test",
+    "freq": 5,
+    "assocs": "administered, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, treatment, trial, wide, two, unaided, although, center, design, included, limitations, outcome, quiet, clinical, demonstrated, improved, scale, superior",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "db",
+    "freq": 5,
+    "assocs": "especially, questionnaire, anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, least, referral",
+    "group": 2,
+    "_row": "db"
+  },
+  {
+    "term": "determine",
+    "freq": 5,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, clinical, scale, adult, least, methods, present, referral, related",
+    "group": 1,
+    "_row": "determine"
+  },
+  {
+    "term": "noise",
+    "freq": 5,
+    "assocs": "least, referral, according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, especially, questionnaire, n, sound, well, problems, qualities, suggest, data",
+    "group": 1,
+    "_row": "noise"
+  },
+  {
+    "term": "microstructural",
+    "freq": 5,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "microstructural"
+  },
+  {
+    "term": "device",
+    "freq": 5,
+    "assocs": "anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, especially, questionnaire, demonstrated, improved, least, referral",
+    "group": 2,
+    "_row": "device"
+  },
+  {
+    "term": "conducted",
+    "freq": 6,
+    "assocs": "demonstrated, improved, anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, center, design, outcome, quiet, especially, questionnaire, sound",
+    "group": 2,
+    "_row": "conducted"
+  },
+  {
+    "term": "observed",
+    "freq": 6,
+    "assocs": "bilateral, superior, absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, although, included, limitations, based, addition, control",
+    "group": 3,
+    "_row": "observed"
+  },
+  {
+    "term": "subjective",
+    "freq": 6,
+    "assocs": "anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week",
+    "group": 2,
+    "_row": "subjective"
+  },
+  {
+    "term": "age",
+    "freq": 6,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, data, n, problems, qualities, suggest, adult, methods, present, related",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "impaired",
+    "freq": 6,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, clinical, scale, adult, least, methods, present, referral, related",
+    "group": 1,
+    "_row": "impaired"
+  },
+  {
+    "term": "measured",
+    "freq": 6,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, data, n, problems, qualities, suggest, adult, least, methods, present, referral, related, well",
+    "group": 1,
+    "_row": "measured"
+  },
+  {
+    "term": "persons",
+    "freq": 6,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, clinical, scale, adult, least, methods, present, referral, related",
+    "group": 1,
+    "_row": "persons"
+  },
+  {
+    "term": "showed",
+    "freq": 6,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, based, bilateral, adult, methods, present, related, well",
+    "group": 3,
+    "_row": "showed"
+  },
+  {
+    "term": "structural",
+    "freq": 6,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "structural"
+  },
+  {
+    "term": "circuit",
+    "freq": 7,
+    "assocs": "administered, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, treatment, trial, wide, two, unaided, although, center, design, included, limitations, outcome, quiet, clinical, demonstrated, improved, scale, superior",
+    "group": 2,
+    "_row": "circuit"
+  },
+  {
+    "term": "compare",
+    "freq": 7,
+    "assocs": "problems, qualities, suggest, n, clinical, scale, according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, data, addition, control, sound",
+    "group": 1,
+    "_row": "compare"
+  },
+  {
+    "term": "alteration",
+    "freq": 7,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "alteration"
+  },
+  {
+    "term": "brain",
+    "freq": 7,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "brain"
+  },
+  {
+    "term": "benefit",
+    "freq": 8,
+    "assocs": "demonstrated, improved, center, design, outcome, quiet, two, unaided, administered, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, sound, treatment, trial, wide, anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week",
+    "group": 2,
+    "_row": "benefit"
+  },
+  {
+    "term": "population",
+    "freq": 8,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, data, n, problems, qualities, suggest, adult, methods, present, related, clinical, scale, least, referral",
+    "group": 1,
+    "_row": "population"
+  },
+  {
+    "term": "gm",
+    "freq": 8,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "gm"
+  },
+  {
+    "term": "differ",
+    "freq": 9,
+    "assocs": "bilateral, absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, based, superior, addition, control, adult, methods, present, related",
+    "group": 3,
+    "_row": "differ"
+  },
+  {
+    "term": "speech",
+    "freq": 9,
+    "assocs": "sound, problems, qualities, suggest, clinical, scale, n, according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, least, referral",
+    "group": 1,
+    "_row": "speech"
+  },
+  {
+    "term": "three",
+    "freq": 9,
+    "assocs": "two, unaided, center, design, outcome, quiet, administered, appear, baseline, better, blind, carefully, clipping, commonly, communication, conversationally, crossover, double, dynamic, encountered, experience, fit, frequently, greater, linear, listening, loud, markedly, mo, multi, numerous, order, overall, peak, period, preferred, programmable, range, rank, recognition, reduction, sensorineural, situations, smaller, soft, treatment, trial, wide, demonstrated, improved, although, included, limitations, sound, clinical, scale",
+    "group": 2,
+    "_row": "three"
+  },
+  {
+    "term": "volume",
+    "freq": 9,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "volume"
+  },
+  {
+    "term": "significant",
+    "freq": 10,
+    "assocs": "bilateral, superior, addition, control, absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, although, included, limitations, based",
+    "group": 3,
+    "_row": "significant"
+  },
+  {
+    "term": "wm",
+    "freq": 10,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "wm"
+  },
+  {
+    "term": "area",
+    "freq": 12,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "area"
+  },
+  {
+    "term": "patient",
+    "freq": 13,
+    "assocs": "demonstrated, improved, anchored, average, bone, case, consecutive, corresponding, danish, day, discrimination, duration, examination, field, follow, frequencies, gain, good, ha, hearingquot, high, hospitals, implanted, insignificantly, intervention, involving, ioi, khz, less, level, lost, lowered, mean, mixed, month, multicenter, new, post, promising, prospective, pta, pure, quotquality, reception, rehabilitative, satisfaction, score, sds, series, sided, spl, srt, ssd, tone, total, transcutaneous, university, validated, warble, week, sound, especially, questionnaire, center, design, outcome, quiet",
+    "group": 2,
+    "_row": "patient"
+  },
+  {
+    "term": "studied",
+    "freq": 13,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related, addition, control",
+    "group": 3,
+    "_row": "studied"
+  },
+  {
+    "term": "ssq",
+    "freq": 14,
+    "assocs": "according, achievable, advised, analyses, answers, ask, available, candidate, cluster, correlation, derived, despite, e, ent, first, five, general, get, goals, hl, hz, implement, impression, instead, item, like, logistic, lossquot, make, maximum, middle, minimal, nevertheless, number, one, part, performance, policies, power, predicting, prevalence, profile, purposes, quotdo, regression, replace, respectively, responses, robust, routine, screening, second, seemed, sensitivity, settings, similar, simple, spatial, specificity, status, subgroups, therefore, twofold, understanding, version, versus, n, problems, qualities, suggest, data, least, referral, clinical, scale, adult, methods, present, related",
+    "group": 1,
+    "_row": "ssq"
+  },
+  {
+    "term": "deaf",
+    "freq": 17,
+    "assocs": "absence, ad, aforementioned, analysis, assessed, axial, cerebellar, cerebellum, conclude, congenitally, cortex, cross, degradation, described, diffusion, directly, diverse, dti, due, elsewhere, extensive, fa, findings, focused, found, four, fractional, functional, grey, groups, gyrus, hemisphere, heschls, however, image, information, input, interest, investigate, language, left, majority, manual, matched, matter, modal, morphology, never, outside, overcome, participating, planum, polare, possibly, prelingually, preserved, previous, probably, processing, properties, reflect, regions, reorganisation, reported, researchers, revealed, right, sample, selected, several, sex, sign, size, statistically, support, surface, techniques, temporal, tensor, thickness, uniform, vbm, voxel, white, whole, widespread, bilateral, based, superior, adult, methods, present, related",
+    "group": 3,
+    "_row": "deaf"
+  }
+]

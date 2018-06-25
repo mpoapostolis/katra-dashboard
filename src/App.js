@@ -1,25 +1,25 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import Router from './routes';
-import {connect} from 'react-redux';
-import {bindActionCreators} from 'redux';
+import { connect } from 'react-redux';
+import { bindActionCreators } from 'redux';
 import actions from './redux/actions';
 
 import './App.css';
 
 class App extends Component {
-  componentDidMount () {
+  componentDidMount() {
     const {
-      auth: {tokenExp, refrershTokenExp},
+      auth: { tokenExp, refrershTokenExp },
       logout,
       getRefreshToken,
     } = this.props;
-    const now = Date.now ();
-    if (refrershTokenExp < now) logout ();
-    if (tokenExp < now) getRefreshToken ();
-    else if (tokenExp > now) setTimeout (getRefreshToken, tokenExp - now);
+    const now = Date.now();
+    if (refrershTokenExp < now) logout();
+    if (tokenExp < now) getRefreshToken();
+    else if (tokenExp > now) setTimeout(getRefreshToken, tokenExp - now);
   }
 
-  render () {
+  render() {
     return (
       <main className="App">
         <Router {...this.props} />
@@ -28,17 +28,17 @@ class App extends Component {
   }
 }
 
-function mapStateToProps (state) {
+function mapStateToProps(state) {
   return {
     auth: state.auth,
   };
 }
 
-function mapDispatchToProps (dispatch) {
-  return bindActionCreators (
-    {logout: actions.logout, getRefreshToken: actions.getRefreshToken},
+function mapDispatchToProps(dispatch) {
+  return bindActionCreators(
+    { logout: actions.logout, getRefreshToken: actions.getRefreshToken },
     dispatch
   );
 }
 
-export default connect (mapStateToProps, mapDispatchToProps) (App);
+export default connect(mapStateToProps, mapDispatchToProps)(App);

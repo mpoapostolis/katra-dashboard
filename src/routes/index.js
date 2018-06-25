@@ -10,12 +10,15 @@ import Dashboard from './Dashboard';
 import Login from './Login';
 import AuthWrapper from '../components/AuthWrapper';
 import Error404 from '../components/Error404';
+import Reports from './Reports';
 import { menuItems } from '../utils';
 
 const mapPathToComponents = (path) => {
   switch (path) {
     case '/':
       return Dashboard;
+    case 'reports':
+      return Reports;
 
     default:
       return Error404;

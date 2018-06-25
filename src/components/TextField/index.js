@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import * as styles from './css';
 
 class TextField extends Component {
@@ -9,12 +9,12 @@ class TextField extends Component {
   };
 
   componentDidMount() {
-    const {type} = this.props;
-    if (type === 'password') this.setState({isHide: true});
-    this.setState({value: this.props.defaultValue || ''});
+    const { type } = this.props;
+    if (type === 'password') this.setState({ isHide: true });
+    this.setState({ value: this.props.defaultValue || '' });
   }
 
-  isValid = ({currentTarget}) => {
+  isValid = ({ currentTarget }) => {
     const {
       setFormData,
       type,
@@ -24,7 +24,7 @@ class TextField extends Component {
       id,
       multiple,
     } = this.props;
-    const {asyncList} = this.state;
+    const { asyncList } = this.state;
     let isValid;
     if (id || type === 'file' || type === 'date') return;
     const value = currentTarget.value;
@@ -40,26 +40,26 @@ class TextField extends Component {
         break;
 
       case 'select':
-        isValid = Boolean(options.find(e => e === value));
+        isValid = Boolean(options.find((e) => e === value));
         if (multiple && value === '') isValid = multiple;
-        if (!isValid) this.setState({value: ''});
+        if (!isValid) this.setState({ value: '' });
         break;
 
       default:
         isValid = true;
         break;
     }
-    if (!isValid) return this.setState({errorClass: 'error'});
+    if (!isValid) return this.setState({ errorClass: 'error' });
     else if (!multiple) {
-      this.setState({errorClass: ''});
-      setFormData({[field]: value});
-    } else if (multiple) this.setState({value: ''});
+      this.setState({ errorClass: '' });
+      setFormData({ [field]: value });
+    } else if (multiple) this.setState({ value: '' });
   };
 
-  handleMultiple = currentTarget => {
-    const {value} = currentTarget;
-    const {async, multiple, list, setMultipleFormData, field} = this.props;
-    const {asyncList} = this.state;
+  handleMultiple = (currentTarget) => {
+    const { value } = currentTarget;
+    const { async, multiple, list, setMultipleFormData, field } = this.props;
+    const { asyncList } = this.state;
     const options = asyncList || list || [];
     if (value.length > 2 && value.length % 2 === 0 && async) {
       this.setState({
@@ -83,21 +83,27 @@ class TextField extends Component {
         ],
       });
     }
-    if (multiple && options.find(e => value.match(new RegExp(e, 'i')))) {
+    if (multiple && options.find((e) => value.match(new RegExp(e, 'i')))) {
       currentTarget.value = '';
-      setMultipleFormData({[field]: value});
-      this.setState({errorClass: ''});
+      setMultipleFormData({ [field]: value });
+      this.setState({ errorClass: '' });
     }
   };
 
-  handleChange = ({currentTarget}) => {
-    const {saveParrent, field, multiple} = this.props;
+  handleChange = ({ currentTarget }) => {
+    const { saveParrent, field, multiple } = this.props;
     if (multiple) this.handleMultiple(currentTarget);
-    this.setState({value: currentTarget.value});
-    if (saveParrent) saveParrent({[field]: currentTarget.value});
+    this.setState({ value: currentTarget.value });
+    if (saveParrent) saveParrent({ [field]: currentTarget.value });
   };
 
-  handleEnder = ({keyCode}) => {};
+  handleEnter = (evt) => {
+    const { pressEnter } = this.props;
+    if (evt.keyCode === 13 && pressEnter) {
+      this.setState({ value: '' });
+      this.props.pressEnter(evt);
+    }
+  };
 
   render() {
     const {
@@ -111,19 +117,17 @@ class TextField extends Component {
       labelClass,
       disabled,
     } = this.props;
-    const {inputCont, input, hideIcon} = styles;
-    const {errorClass, value, asyncList} = this.state;
+    const { inputCont, input, hideIcon } = styles;
+    const { errorClass, value, asyncList } = this.state;
     const labelExtraClass = value ? 'notEmpty' : '';
     const finalList = list || asyncList;
     const inputClass = extraClass || input;
-    const {isHide} = this.state;
+    const { isHide } = this.state;
     const svgSrc = isHide ? 'open' : 'closed';
     const inputType =
       type === 'password' && isHide
         ? 'password'
-        : type === 'password' && !isHide
-          ? 'text'
-          : type;
+        : type === 'password' && !isHide ? 'text' : type;
     return (
       <div className={inputCont}>
         <label
@@ -140,9 +144,11 @@ class TextField extends Component {
           <input
             disabled={disabled}
             value={value}
-            className={`${input} ${disabled ? 'disabled' : ''} ${errorClass} ${extraClass}`}
+            className={`${input} ${disabled
+              ? 'disabled'
+              : ''} ${errorClass} ${extraClass}`}
             onChange={this.handleChange}
-            onKeyDown={this.props.pressEnter}
+            onKeyDown={this.handleEnter}
             type={inputType}
             onBlur={this.isValid}
             list={field}
@@ -153,7 +159,7 @@ class TextField extends Component {
           <img
             alt=":)"
             className={hideIcon}
-            onClick={e => this.setState({isHide: !this.state.isHide})}
+            onClick={(e) => this.setState({ isHide: !this.state.isHide })}
             src={`/images/eye-${svgSrc}.svg`}
           />
         ) : null}

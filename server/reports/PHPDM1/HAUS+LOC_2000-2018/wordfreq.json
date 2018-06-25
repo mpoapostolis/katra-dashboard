@@ -1,0 +1,352 @@
+[
+  {
+    "term": "significant",
+    "freq": 2,
+    "assocs": "",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "sonifed",
+    "freq": 2,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "sonifed"
+  },
+  {
+    "term": "subjective",
+    "freq": 2,
+    "assocs": "",
+    "group": 1,
+    "_row": "subjective"
+  },
+  {
+    "term": "tablet",
+    "freq": 2,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "tablet"
+  },
+  {
+    "term": "tactile",
+    "freq": 2,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "tactile"
+  },
+  {
+    "term": "understanding",
+    "freq": 2,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "understanding"
+  },
+  {
+    "term": "usage",
+    "freq": 2,
+    "assocs": "",
+    "group": 1,
+    "_row": "usage"
+  },
+  {
+    "term": "affect",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "affect"
+  },
+  {
+    "term": "background",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "background"
+  },
+  {
+    "term": "design",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "design"
+  },
+  {
+    "term": "examination",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "examination"
+  },
+  {
+    "term": "influence",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "influence"
+  },
+  {
+    "term": "left",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "left"
+  },
+  {
+    "term": "logged",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "logged"
+  },
+  {
+    "term": "may",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "may"
+  },
+  {
+    "term": "nondefault",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "nondefault"
+  },
+  {
+    "term": "obtained",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "obtained"
+  },
+  {
+    "term": "often",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "often"
+  },
+  {
+    "term": "pda",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "pda"
+  },
+  {
+    "term": "preferred",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "preferred"
+  },
+  {
+    "term": "right",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "right"
+  },
+  {
+    "term": "situations",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "situations"
+  },
+  {
+    "term": "surveys",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "surveys"
+  },
+  {
+    "term": "synchronization",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "synchronization"
+  },
+  {
+    "term": "world",
+    "freq": 2,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 2,
+    "_row": "world"
+  },
+  {
+    "term": "blind",
+    "freq": 3,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "blind"
+  },
+  {
+    "term": "completed",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 1,
+    "_row": "completed"
+  },
+  {
+    "term": "exploration",
+    "freq": 3,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "exploration"
+  },
+  {
+    "term": "four",
+    "freq": 3,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "four"
+  },
+  {
+    "term": "information",
+    "freq": 3,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "information"
+  },
+  {
+    "term": "listened",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 1,
+    "_row": "listened"
+  },
+  {
+    "term": "purpose",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 1,
+    "_row": "purpose"
+  },
+  {
+    "term": "satisfaction",
+    "freq": 3,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "satisfaction"
+  },
+  {
+    "term": "adjustments",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "adjustments"
+  },
+  {
+    "term": "characteristics",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "characteristics"
+  },
+  {
+    "term": "environmental",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "environmental"
+  },
+  {
+    "term": "real",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "real"
+  },
+  {
+    "term": "symmetric",
+    "freq": 3,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "symmetric"
+  },
+  {
+    "term": "map",
+    "freq": 4,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "map"
+  },
+  {
+    "term": "report",
+    "freq": 4,
+    "assocs": "",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "task",
+    "freq": 4,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "task"
+  },
+  {
+    "term": "users",
+    "freq": 4,
+    "assocs": "",
+    "group": 1,
+    "_row": "users"
+  },
+  {
+    "term": "devices",
+    "freq": 4,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "devices"
+  },
+  {
+    "term": "mm",
+    "freq": 4,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "mm"
+  },
+  {
+    "term": "vc",
+    "freq": 4,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "vc"
+  },
+  {
+    "term": "bilateral",
+    "freq": 5,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "bilateral"
+  },
+  {
+    "term": "control",
+    "freq": 5,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "control"
+  },
+  {
+    "term": "data",
+    "freq": 5,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "data"
+  },
+  {
+    "term": "setting",
+    "freq": 5,
+    "assocs": "adults, advances, allowed, although, amplification, analysis, analyzed, assistant, behind, broadband, bte, button, circumstances, clinical, collection, conclusions, connected, continue, decisions, default, descriptively, desire, despite, difficult, digital, distance, drive, e, ear, equipped, exceptions, experience, express, factors, findings, fitted, following, gathered, generally, guiding, hr, input, intervention, known, little, loss, manipulate, microphone, mild, mms, moderate, nature, noise, nonparametric, operation, overall, pair, personal, presence, prevalence, previous, programmed, quotusequot, research, sample, selection, sensorineural, showed, signal, stored, suitable, summarized, support, technology, ten, time, utility, various, vcs, volume, well, wheel, wk, yet",
+    "group": 3,
+    "_row": "setting"
+  },
+  {
+    "term": "participant",
+    "freq": 10,
+    "assocs": "achieved, acquired, across, aims, among, answered, asked, blindfolded, congenitally, corresponds, crossmodally, current, difference, discrimination, effectiveness, either, emerged, evaluating, finally, first, five, found, geo, groups, high, impairments, interfaces, just, keyboard, mean, move, neither, one, performance, progressive, provide, questionnaire, referenced, regions, self, sighted, sonification, sounds, strategies, three, tools, visual",
+    "group": 1,
+    "_row": "participant"
+  }
+]

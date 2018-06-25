@@ -1,0 +1,352 @@
+[
+  {
+    "term": "clinic",
+    "freq": 22,
+    "assocs": "competence, practical, qualitative, comprehension, healthcare, avoiding, engender, enter, evolving, hhc, offering, preconceived, rather, sales, static, technical, thematically, transcripts, trust, relevant, clinician",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "individual",
+    "freq": 22,
+    "assocs": "analytical, brazil, gerais, minas, municipalities, northern, poisson, region, work, recorded, lower, veteran, affairs, review",
+    "group": 1,
+    "_row": "individual"
+  },
+  {
+    "term": "score",
+    "freq": 22,
+    "assocs": "higher, binaural, c, deployed, devided, females, growth, highest, image, junior, lowest, moderate, paragraph, telephone, b, among, normative, sadl, sensorineural, burden, china, imposing, mainland, pencil, skewed, slightly",
+    "group": 1,
+    "_row": "score"
+  },
+  {
+    "term": "follow",
+    "freq": 23,
+    "assocs": "immediate, prior, choice, covariate, declining, later, moreover, remember, spend, standpoint, whereas, recognition, hao, handicap, month, content, random",
+    "group": 1,
+    "_row": "follow"
+  },
+  {
+    "term": "health",
+    "freq": 23,
+    "assocs": "according, adequate, african, aggressive, apparent, ci, comfort, dementia, disparities, doctors, due, eighth, incorporating, marginal, medicine, ninth, odds, oral, overcome, predictor, race, rapid, realm, seventh, sixth, unadjusted, whites, low, advanced, grade, description, prefer, american, viewed, video, independent, distribution, end, life, verbal, categories, interval, dichotomized, ensure, logistic, ratio, respect, several, since, stepwise, asked, confidence, analysed, decision, model, watched, may",
+    "group": 1,
+    "_row": "health"
+  },
+  {
+    "term": "skill",
+    "freq": 23,
+    "assocs": "identified, able, itemised, load, nineteen, save, sensitivity, handle, accurately, prospective, administered, frequent, exist, list, owners, evaluate, face, around, aud, crucial, events, excellent, externship, fourth, hask, hundred, iccs, inter, interrater, intraclass, intrarater, notion, occasion, pair, part, place, portland, took, va, abilities, current, require, provide, lack, whether, survey, good, wk, allow, pilot, systematically",
+    "group": 1,
+    "_row": "skill"
+  },
+  {
+    "term": "test",
+    "freq": 23,
+    "assocs": "contain, well, easier, aloudquot, appreciated, depth, edition, gave, led, navigating, oar, quotthink, scope, find, feedback, structure, coach, virtual, topic, material, optimal, iterative, testimonial, given, second, describe, learned, major, basic, deliver, manner, paper, consisted",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "analysis",
+    "freq": 23,
+    "assocs": "perception, analyze, bearing, chi, cluster, come, crosssectional, etiology, external, india, insights, iran, kingdom, mind, occupation, phrases, portugal, quot, quothearing, re, seem, societal, square, strong, thinking, unique, united, uptake, words, toward, attitude, main, countries, five, origin, categories, public, general, initial, factor, decision, addition",
+    "group": 1,
+    "_row": "analysis"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 23,
+    "assocs": "client, accommodation, arrangement, cqi, disorders, expertise, index, instrument, monitor, open, past, power, properties, thoroughly, mail, psychometric, waiting, central, appointments, steps, scale, pose, large, seven, future, aspects, n, consumer, importance, implementation, small, treatment, valid, perspective, conduct, concern, e, reveal, employed, question, among, facilitate, complex, limitations, balance, systematically",
+    "group": 2,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "rehabilitation",
+    "freq": 23,
+    "assocs": "online, combination, contact, hospital, professional, residual, started, supervised, symptoms, tactics, underwent, without, depression, handicap, yr, control, forum, intervention, include, mo, discussed, guidance, deliver, referral, assigned, measure, topic",
+    "group": 1,
+    "_row": "rehabilitation"
+  },
+  {
+    "term": "manage",
+    "freq": 23,
+    "assocs": "known, amount, asymmetrical, bilaterally, build, companion, decided, dedicated, despite, diagnosed, diagnosis, dominance, dynamics, exchanged, filmed, infrequently, input, length, min, phasequot, planning, quotcounseling, rarely, requesting, roter, shift, solely, speakers, therapeutic, throughout, utterances, yet, consultation, proportion, involvement, thus, nature, addition, recommendations, center, leading, little, option, around, aud, crucial, events, excellent, externship, fourth, hask, hundred, iccs, inter, interrater, intraclass, intrarater, notion, occasion, pair, part, place, portland, took, va, provide, profile, good, interaction",
+    "group": 1,
+    "_row": "manage"
+  },
+  {
+    "term": "significant",
+    "freq": 24,
+    "assocs": "arms, broad, clips, duration, dvd, enjoyable, establish, furthermore, half, illustrations, pc, photos, posthearing, reusable, rlo, rlos, shown, suboptimal, subtitled, tv, waitlist, standard, take",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "sample",
+    "freq": 24,
+    "assocs": "collect, case, adoption, authors, bluetooth, borrowing, calls, composed, connected, constant, constructivist, credited, critically, culminated, discreet, document, explains, features, frame, frustration, geotagging, grounded, heuristic, incompetent, innovation, judgments, knowquot, look, matter, media, methodology, mobile, news, phones, quotconnectedquot, quotgetting, quotnormalizationquot, quotnormalquot, resounding, smartphone, spent, stigmatizing, tablets, theme, theoretical, tracking, trends, triangulated, unintended, wherein, wireless, clinician, qualitative, ten, influence, increased, field, purpose, way, application, possible, introduction, opportunities, integral, troubleshooting, technological, specific",
+    "group": 1,
+    "_row": "sample"
+  },
+  {
+    "term": "research",
+    "freq": 24,
+    "assocs": "ten, related, clinician",
+    "group": 1,
+    "_row": "research"
+  },
+  {
+    "term": "fit",
+    "freq": 25,
+    "assocs": "believe, board, enough, feeling, gain, held, long, neglect, optimise, organisations, provision, scottish, stakeholders, people, enable, key",
+    "group": 1,
+    "_row": "fit"
+  },
+  {
+    "term": "improve",
+    "freq": 25,
+    "assocs": "chen, chosen, fixed, genetic, intelligibility, j, markedly, masker, parameter, produced, selected, smr, smrs, soc, spectral, spectrum, ssn, stimuli, talker, tended, tts, unprocessed, speech, algorithm, process, valuable, beneficial, large",
+    "group": 1,
+    "_row": "improve"
+  },
+  {
+    "term": "data",
+    "freq": 25,
+    "assocs": "integral, troubleshooting, lack, collect, recruited, around, aud, crucial, events, excellent, externship, fourth, hask, hundred, iccs, inter, interrater, intraclass, intrarater, notion, occasion, pair, part, place, portland, took, va, addition, new, good, wk, therefore, highlight, quantitative, six, normative, known, purpose, tool, reliable",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "assess",
+    "freq": 26,
+    "assocs": "accommodation, arrangement, cqi, disorders, expertise, index, instrument, monitor, open, past, power, properties, thoroughly, small, central, seven, importance, scale, psychometric, waiting, appointments, client, n, investigate, large, mail, pose, steps, future, aspects, treatment, valid, perspective, coverage, least, facilitate, reliable, rural, achieve, acquisition, beyond, caused, commutes, delayed, distance, expand, laryngoscope, onset, recipients, risk, socioeconomic, specialists, untreated, vulnerable, communities, urban",
+    "group": 2,
+    "_row": "assess"
+  },
+  {
+    "term": "develop",
+    "freq": 26,
+    "assocs": "iterative, given, modulated, testimonial, feedback, aloudquot, appreciated, depth, edition, gave, led, navigating, oar, quotthink, scope, describe, coach, learned, second, internet, deliver, manner, major, well, virtual, topic, material, contain, optimal, easier, steps",
+    "group": 1,
+    "_row": "develop"
+  },
+  {
+    "term": "system",
+    "freq": 26,
+    "assocs": "approved, aweb, built, closure, cognitive, complaints, comprised, database, deficiency, defined, discrimination, dsa, hhia, hhie, hrac, inclusion, linguistic, minimizing, minimum, mysql, networks, opinions, php, portal, reactions, rejection, release, sequence, sistha, third, typically, undergo, usp, usually, web, g, along, linear, therapist, comprehension, healthcare, final, expert, form, modulated, present, base, suffer, exercise, introduction, invited, named, elderly, psychosocial, guideline, fewer, acceptability, computed, given",
+    "group": 1,
+    "_row": "system"
+  },
+  {
+    "term": "subject",
+    "freq": 27,
+    "assocs": "stepwise, ratio, estimate, distribution, independent, pointed, divided, algorithm, according, adequate, african, aggressive, apparent, ci, comfort, dementia, disparities, doctors, due, eighth, incorporating, marginal, medicine, ninth, odds, oral, overcome, predictor, race, rapid, realm, seventh, sixth, unadjusted, whites, actual, axis, done, ear, even, financial, household, housemate, interpreted, khz, plotted, predicted, reduction, regardless, scattergrams, stage, thresholdgtdb, went, x, y, prefer, low, grade, men, possess, responded, advanced, video",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "audiologist",
+    "freq": 28,
+    "assocs": "known, amount, asymmetrical, bilaterally, build, companion, decided, dedicated, despite, diagnosed, diagnosis, dominance, dynamics, exchanged, filmed, infrequently, input, length, min, phasequot, planning, quotcounseling, rarely, requesting, roter, shift, solely, speakers, therapeutic, throughout, utterances, yet, nature, addition, involvement, thus, proportion, knowledge, successful, consultation, provide, encourage, recommendations, center, purpose, opportunities",
+    "group": 1,
+    "_row": "audiologist"
+  },
+  {
+    "term": "ioi",
+    "freq": 28,
+    "assocs": "favorable, ai, burden, china, imposing, mainland, pencil, skewed, slightly, international, another, favourably, hours, last, principal, simple, somewhat",
+    "group": 1,
+    "_row": "ioi"
+  },
+  {
+    "term": "program",
+    "freq": 29,
+    "assocs": "active, strategies, feedback, deal, per, ai, structure, alternative, intervention, session, ace, attempt, australia, calculated, cosi, dillon, draw, elsa, hickson, inhabitants, link, linkoping, modified, noble, ping, postprogram, preprogram, proceed, screening, size, stated, sweden, swedish, undertake, wish, aloudquot, appreciated, depth, edition, gave, led, navigating, oar, quotthink, scope",
+    "group": 1,
+    "_row": "program"
+  },
+  {
+    "term": "self",
+    "freq": 29,
+    "assocs": "handle, able, itemised, load, nineteen, save, sensitivity, accurately, administered, prospective, evaluate, frequent, exist, list, owners, require, face, current, survey, although, explorative, whether, pilot, identified, allow, systematically, however, reduce",
+    "group": 1,
+    "_row": "self"
+  },
+  {
+    "term": "older",
+    "freq": 30,
+    "assocs": "area, people, represent, national, attributed, auge, chile, chilean, direct, geographic, knew, know, programme, prevalence, income, residence, percentage, believe, board, enough, feeling, gain, held, long, neglect, optimise, organisations, provision, scottish, stakeholders, level, key",
+    "group": 2,
+    "_row": "older"
+  },
+  {
+    "term": "year",
+    "freq": 31,
+    "assocs": "school, comparative, lt, universal",
+    "group": 2,
+    "_row": "year"
+  },
+  {
+    "term": "informal",
+    "freq": 31,
+    "assocs": "content, prior, immediate, approximately, recognition, well, choice, covariate, declining, later, major, moreover, remember, spend, standpoint, whereas, hao, month, internet",
+    "group": 1,
+    "_row": "informal"
+  },
+  {
+    "term": "outcome",
+    "freq": 32,
+    "assocs": "international, alternative",
+    "group": 1,
+    "_row": "outcome"
+  },
+  {
+    "term": "differed",
+    "freq": 32,
+    "assocs": "several, b, binaural, c, deployed, devided, females, growth, highest, image, junior, lowest, moderate, paragraph, telephone, among",
+    "group": 1,
+    "_row": "differed"
+  },
+  {
+    "term": "audiologic",
+    "freq": 32,
+    "assocs": "appointments, accommodation, arrangement, cqi, disorders, expertise, index, instrument, monitor, open, past, power, properties, thoroughly, waiting, psychometric, central, future, client, scale, importance, n, mail, pose, large, seven, steps, treatment, concern, aspects, perspective, facilitate, small, balance, valid, conduct, reveal, complex, consumer, employed, implementation, limitations, systematically, e, question, translate",
+    "group": 2,
+    "_row": "audiologic"
+  },
+  {
+    "term": "report",
+    "freq": 32,
+    "assocs": "list, administered, handle, able, itemised, load, nineteen, save, sensitivity, accurately, exist, owners, frequent, face, reduce, prospective, explorative, survey, current, pilot, evaluate, whether, require",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "education",
+    "freq": 33,
+    "assocs": "intervention, mo, component, combination, contact, hospital, residual, started, supervised, symptoms, tactics, underwent, assigned",
+    "group": 1,
+    "_row": "education"
+  },
+  {
+    "term": "care",
+    "freq": 33,
+    "assocs": "accommodation, arrangement, cqi, disorders, expertise, index, instrument, monitor, open, past, power, properties, thoroughly, waiting, psychometric, central, appointments, treatment, client, complex, scale, mail, pose, large, seven, steps, future, importance, aspects, n, small, facilitate, valid, perspective, consumer, concern, conduct, limitations, balance, systematically, implementation, reveal, translate, employed, three, e, question, end, investigate",
+    "group": 2,
+    "_row": "care"
+  },
+  {
+    "term": "effect",
+    "freq": 33,
+    "assocs": "depression, mo, range",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "trainable",
+    "freq": 34,
+    "assocs": "made, comparison, automatically, bands, classes, compression, hl, median, nonlinear, prescription, procedure, prototype, quotlow, reasonable, reset, subsequently, sufficient, trainersquot, unreliable, variations, versa, vice, volunteers, repeat, trial, acoust, commercial, guideline, consisted, change, environment, average, available, laboratories, db, characteristics, displayed, four, leading, prescribed, tone, adjust, device, response, week, fewer",
+    "group": 1,
+    "_row": "trainable"
+  },
+  {
+    "term": "loss",
+    "freq": 38,
+    "assocs": "possess, job, actual, axis, done, ear, even, financial, household, housemate, interpreted, khz, plotted, predicted, reduction, regardless, scattergrams, stage, thresholdgtdb, went, x, y, pointed, estimate, men, women, responded, often, indicated, worse, statistical, better, criteria, multiple, gender, achieve, acquisition, beyond, caused, commutes, delayed, distance, expand, laryngoscope, onset, recipients, risk, socioeconomic, specialists, untreated, vulnerable, rural, urban, cohort, threshold, stepwise, candidacy, common, contribute, db, either, s, impact",
+    "group": 2,
+    "_row": "loss"
+  },
+  {
+    "term": "time",
+    "freq": 39,
+    "assocs": "coverage, least, achieve, acquisition, beyond, caused, commutes, delayed, distance, expand, laryngoscope, onset, recipients, risk, socioeconomic, specialists, untreated, vulnerable, rural, urban, greater, comparative, school, lt, referral, status, barriers, longer, job, impact, degree, medicaid, hypothesis, minute, like, demographic, impair, correlated, amplification, investigate",
+    "group": 2,
+    "_row": "time"
+  },
+  {
+    "term": "ha",
+    "freq": 40,
+    "assocs": "rural, achieve, acquisition, beyond, caused, commutes, delayed, distance, expand, laryngoscope, onset, recipients, risk, socioeconomic, specialists, untreated, vulnerable, urban, comparative, school, impact, barriers, longer, job, coverage, international, lt, sectional, greater, degree, medicaid, hypothesis, minute, cross, less, referral, least, amplification, like, status, demographic",
+    "group": 2,
+    "_row": "ha"
+  },
+  {
+    "term": "experience",
+    "freq": 41,
+    "assocs": "integral, troubleshooting, lack, collect, highlight, around, aud, crucial, events, excellent, externship, fourth, hask, hundred, iccs, inter, interrater, intraclass, intrarater, notion, occasion, pair, part, place, portland, took, va, new, reliable, good, recruited, specific, wk, two, reveal, tool, cleaning, importance, communities, addition",
+    "group": 1,
+    "_row": "experience"
+  },
+  {
+    "term": "age",
+    "freq": 42,
+    "assocs": "negative, responded, b, actual, axis, done, ear, even, financial, household, housemate, interpreted, khz, plotted, possess, predicted, reduction, regardless, scattergrams, stage, thresholdgtdb, went, x, y, binaural, c, deployed, devided, females, growth, highest, image, junior, lowest, moderate, paragraph, telephone, women, decrease, men, pointed, estimate, statistical",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "user",
+    "freq": 42,
+    "assocs": "acceptability, psychosocial, approved, aweb, built, closure, cognitive, complaints, comprised, database, deficiency, defined, discrimination, dsa, hhia, hhie, hrac, inclusion, linguistic, minimizing, minimum, mysql, networks, opinions, php, portal, reactions, rejection, release, sequence, sistha, third, typically, undergo, usp, usually, web, g, rate, lack, computed, tool, expert, form, single, therapist, fewer, take, along, linear",
+    "group": 1,
+    "_row": "user"
+  },
+  {
+    "term": "satisfaction",
+    "freq": 46,
+    "assocs": "person, usage, situation, anticipated, details, discomfort, disconfirmation, dissatisfaction, likelihood, mismatch, percent, product, satisfied, thought, wearer, wong, listening",
+    "group": 1,
+    "_row": "satisfaction"
+  },
+  {
+    "term": "communication",
+    "freq": 47,
+    "assocs": "amount, asymmetrical, bilaterally, build, companion, decided, dedicated, despite, diagnosed, diagnosis, dominance, dynamics, exchanged, filmed, infrequently, input, length, min, phasequot, planning, quotcounseling, rarely, requesting, roter, shift, solely, speakers, therapeutic, throughout, utterances, yet, talk, involvement, aim, recommendations, thus, proportion, nature, consultation, number, center, balance, control, interaction, profile, little, option, initial, practitioner, missed, leading, eight, mixed, occurred, known, opportunities, acted, adjunct, choose, concluded, keep, solving, substantial",
+    "group": 1,
+    "_row": "communication"
+  },
+  {
+    "term": "adult",
+    "freq": 48,
+    "assocs": "sectional, urban, cross, rural, attributed, auge, chile, chilean, direct, geographic, knew, know, programme, achieve, acquisition, beyond, caused, commutes, delayed, distance, expand, laryngoscope, onset, recipients, risk, socioeconomic, specialists, untreated, vulnerable, prevalence, represent, income, residence, hypothesis, minute, national, barriers, longer, area, impact, level, job, school, percentage, coverage",
+    "group": 2,
+    "_row": "adult"
+  },
+  {
+    "term": "patient",
+    "freq": 59,
+    "assocs": "nature, opportunities, profile, little, amount, asymmetrical, bilaterally, build, companion, decided, dedicated, despite, diagnosed, diagnosis, dominance, dynamics, exchanged, filmed, infrequently, input, length, min, phasequot, planning, quotcounseling, rarely, requesting, roter, shift, solely, speakers, therapeutic, throughout, utterances, yet, decision, interaction, involvement, thus, proportion, relationship, consultation, recommendations, center, initial, influence, verbal, encourage, aim, eight, mixed, related, case, adoption, authors, bluetooth, borrowing, calls, composed, connected, constant, constructivist, credited, critically, culminated, discreet, document, explains, features, frame, frustration, geotagging, grounded, heuristic, incompetent, innovation, judgments, knowquot, look, matter, media, methodology, mobile, news, phones, quotconnectedquot, quotgetting, quotnormalizationquot, quotnormalquot, resounding, smartphone, spent, stigmatizing, tablets, theme, theoretical, tracking, trends, triangulated, unintended, wherein, wireless, affected, recorded, practitioner, missed, leading, occurred, number, balance, known",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "group",
+    "freq": 67,
+    "assocs": "b, binaural, c, deployed, devided, females, growth, highest, image, junior, lowest, moderate, paragraph, telephone, suffer, decrease, among, higher",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "participants",
+    "freq": 84,
+    "assocs": "consisted, topic, structure, feedback, active, show, deliver, contain, easier, well, aloudquot, appreciated, depth, edition, gave, led, navigating, oar, quotthink, scope",
+    "group": 2,
+    "_row": "participants"
+  },
+  {
+    "term": "studies",
+    "freq": 84,
+    "assocs": "ten, yr, qualitative, number, collect, obtain, ace, attempt, australia, calculated, cosi, dillon, draw, elsa, hickson, inhabitants, link, linkoping, modified, noble, ping, postprogram, preprogram, proceed, screening, size, stated, sweden, swedish, undertake, wish, purpose, addition, popular, al, et",
+    "group": 1,
+    "_row": "studies"
+  },
+  {
+    "term": "hear",
+    "freq": 321,
+    "assocs": "contribute, better, possess, perform, job",
+    "group": 3,
+    "_row": "hear"
+  }
+]

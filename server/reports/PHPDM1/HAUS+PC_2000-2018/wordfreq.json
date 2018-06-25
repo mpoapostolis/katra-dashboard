@@ -1,0 +1,352 @@
+[
+  {
+    "term": "moderate",
+    "freq": 5,
+    "assocs": "high, c, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, clinic, follow, appropriate, selected, setting, bilateral, found, however, mild, influence, assign, evaluate, lower, performed, pre, profile, programme, university, years, complete, period, recruit, different, randomised",
+    "group": 1,
+    "_row": "moderate"
+  },
+  {
+    "term": "intervention",
+    "freq": 5,
+    "assocs": "assign, evaluate, lower, performed, pre, profile, programme, university, years, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, period, recruit, follow, appropriate, selected, setting, bilateral, found, however, mild, influence, c, randomised, age, clinic, complete, different",
+    "group": 1,
+    "_row": "intervention"
+  },
+  {
+    "term": "also",
+    "freq": 6,
+    "assocs": "complete, clinic, c, high, algorithm, analyzing, behaviors, birth, boy, brothers, choice, clementine, consanguineous, cousins, deaf, decision, degree, discovering, equal, especially, fact, factors, families, findings, follow, form, forum, gathered, gender, girl, hidden, huge, impact, implemented, interested, iran, kind, known, less, life, make, marriage, men, methods, nd, net, order, oriented, parents, patient, people, population, provinces, resource, role, rules, said, server, social, software, sql, suitable, survey, table, techniques, tools, understand, valuable, volume, written, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, appropriate, selected, setting, bilateral, found, however, important, mild, related",
+    "group": 1,
+    "_row": "also"
+  },
+  {
+    "term": "control",
+    "freq": 6,
+    "assocs": "different, period, recruit, bilateral, found, however, mild, age, complete, absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, clinic, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, appropriate, selected, setting, assign, evaluate, lower, performed, pre, profile, programme, university, years, dispenser, n",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "device",
+    "freq": 6,
+    "assocs": "administer, allow, ambient, assistance, audiogram, audiometer, automated, challenges, characteristics, component, conductive, contraindicative, depends, entirely, equipment, feasible, instant, instructions, investigation, key, levels, manage, overall, prescribe, procedures, produce, range, seems, situ, special, success, therefore, thorough, tip, transducer, validity, wearer, wide, without, enable, appropriate, contained, need, selected, setting",
+    "group": 1,
+    "_row": "device"
+  },
+  {
+    "term": "threshold",
+    "freq": 6,
+    "assocs": "administer, allow, ambient, assistance, audiogram, audiometer, automated, challenges, characteristics, component, conductive, contraindicative, depends, entirely, equipment, feasible, instant, instructions, investigation, key, levels, manage, overall, prescribe, procedures, produce, range, seems, situ, special, success, therefore, thorough, tip, transducer, validity, wearer, wide, without, enable, contained, need, achieve, baseline, concept, developed, discuss, insertion, noise, professional",
+    "group": 1,
+    "_row": "threshold"
+  },
+  {
+    "term": "average",
+    "freq": 6,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, collected, dispenser, n, concept, discuss, associated, cluster, contribute, different, greater, reason, regarding, time",
+    "group": 2,
+    "_row": "average"
+  },
+  {
+    "term": "day",
+    "freq": 6,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, collected, dispenser, n, concept, discuss, associated, cluster, contribute, different, greater, reason, regarding, time",
+    "group": 2,
+    "_row": "day"
+  },
+  {
+    "term": "online",
+    "freq": 6,
+    "assocs": "age, randomised, impaired, period, recruit, adjustment, advice, advised, amsterdam, approved, asked, beyond, board, booklet, burden, called, center, conferences, contact, cp, cps, disseminated, dutch, educational, email, ethics, exercises, experienced, finally, functionality, handling, hau, haus, home, institutional, intensively, involved, isrctn, medical, months, noncommittal, occur, offered, partners, peer, process, publications, registration, scientific, skills, strategies, subscales, supr, teaches, testimonials, usual, videos, vu, consisted, assign, evaluate, lower, performed, pre, profile, programme, university, years, cluster, contribute, time, follow, support, material",
+    "group": 1,
+    "_row": "online"
+  },
+  {
+    "term": "pattern",
+    "freq": 6,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, collected, associated, greater, reason, regarding, dispenser, n, concept, discuss, cluster, contribute, different, time, two",
+    "group": 2,
+    "_row": "pattern"
+  },
+  {
+    "term": "audiological",
+    "freq": 6,
+    "assocs": "influence, satisfaction, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, research, high, appropriate, selected, setting, bilateral, found, however, mild, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow",
+    "group": 1,
+    "_row": "audiological"
+  },
+  {
+    "term": "review",
+    "freq": 6,
+    "assocs": "aim, total, acceptance, adoption, among, articles, cinahl, consultation, current, depicted, documented, elderly, evidence, expectation, explaining, four, future, gain, limited, manual, medline, non, perceived, potential, presbycusis, problems, progression, readiness, rehabilitation, science, search, seven, stage, synthesize, systematic, theoretical, trans, ttm, type, web, well, demographic, support, include, explore",
+    "group": 1,
+    "_row": "review"
+  },
+  {
+    "term": "best",
+    "freq": 6,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 1,
+    "_row": "best"
+  },
+  {
+    "term": "placebo",
+    "freq": 6,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 1,
+    "_row": "placebo"
+  },
+  {
+    "term": "price",
+    "freq": 6,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 1,
+    "_row": "price"
+  },
+  {
+    "term": "purchase",
+    "freq": 6,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 1,
+    "_row": "purchase"
+  },
+  {
+    "term": "design",
+    "freq": 7,
+    "assocs": "age, period, recruit, cluster, contribute, different, time, randomised, dispenser, n, bilateral, consisted, found, however, mild, assign, evaluate, lower, performed, pre, profile, programme, university, years, impaired",
+    "group": 1,
+    "_row": "design"
+  },
+  {
+    "term": "typical",
+    "freq": 7,
+    "assocs": "different, bilateral, found, however, mild, clinic, period, recruit, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, complete, satisfaction, high, appropriate, selected, setting, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, age, research",
+    "group": 1,
+    "_row": "typical"
+  },
+  {
+    "term": "group",
+    "freq": 7,
+    "assocs": "satisfaction, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, influence, high, appropriate, selected, setting, bilateral, found, however, mild, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, research, complete, different, randomised, age",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "communication",
+    "freq": 7,
+    "assocs": "adjustment, advice, advised, amsterdam, approved, asked, beyond, board, booklet, burden, called, center, conferences, contact, cp, cps, disseminated, dutch, educational, email, ethics, exercises, experienced, finally, functionality, handling, hau, haus, home, institutional, intensively, involved, isrctn, medical, months, noncommittal, occur, offered, partners, peer, process, publications, registration, scientific, skills, strategies, subscales, supr, teaches, testimonials, usual, videos, vu, material, impaired, care, consisted, support, provides, baseline, developed, cluster, contribute, time, aim, total, randomised, age",
+    "group": 1,
+    "_row": "communication"
+  },
+  {
+    "term": "effect",
+    "freq": 7,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, assign, evaluate, lower, performed, pre, profile, programme, university, years, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, period, recruit, influence, c, follow, clinic, randomised, age, complete, different, research",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "significant",
+    "freq": 8,
+    "assocs": "different, research, absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, two, bilateral, collected, found, however, mild, clinic",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "benefit",
+    "freq": 8,
+    "assocs": "satisfaction, influence, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, high, appropriate, selected, setting, bilateral, found, however, mild, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, research, clinic, period, recruit, follow, complete, different, randomised",
+    "group": 1,
+    "_row": "benefit"
+  },
+  {
+    "term": "determinants",
+    "freq": 8,
+    "assocs": "acceptance, adoption, among, articles, cinahl, consultation, current, depicted, documented, elderly, evidence, expectation, explaining, four, future, gain, limited, manual, medline, non, perceived, potential, presbycusis, problems, progression, readiness, rehabilitation, science, search, seven, stage, synthesize, systematic, theoretical, trans, ttm, type, web, well, demographic, research, explore, affecting, individuals, influence",
+    "group": 1,
+    "_row": "determinants"
+  },
+  {
+    "term": "fit",
+    "freq": 9,
+    "assocs": "baseline, developed, randomised, administer, allow, ambient, assistance, audiogram, audiometer, automated, care, challenges, characteristics, component, conductive, contraindicative, depends, entirely, equipment, feasible, instant, instructions, investigation, key, levels, manage, overall, prescribe, procedures, produce, range, seems, situ, special, success, therefore, thorough, tip, transducer, validity, wearer, wide, without, adjustment, advice, advised, amsterdam, approved, asked, beyond, board, booklet, burden, called, center, conferences, contact, cp, cps, disseminated, dutch, educational, email, ethics, exercises, experienced, finally, functionality, handling, hau, haus, home, institutional, intensively, involved, isrctn, medical, months, noncommittal, occur, offered, partners, peer, process, publications, registration, scientific, skills, strategies, subscales, supr, teaches, testimonials, usual, videos, vu, age",
+    "group": 1,
+    "_row": "fit"
+  },
+  {
+    "term": "loss",
+    "freq": 9,
+    "assocs": "algorithm, analyzing, behaviors, birth, boy, brothers, choice, clementine, consanguineous, cousins, deaf, decision, degree, discovering, equal, especially, fact, factors, families, findings, form, forum, gathered, gender, girl, hidden, huge, impact, implemented, interested, iran, kind, known, less, life, make, marriage, men, methods, nd, net, order, oriented, parents, patient, people, population, provinces, resource, role, rules, said, server, social, software, sql, suitable, survey, table, techniques, tools, understand, valuable, volume, written, health, first, important, related, information, number, person, achieve, affecting, individuals, c, questionnaire",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "several",
+    "freq": 9,
+    "assocs": "algorithm, analyzing, behaviors, birth, boy, brothers, choice, clementine, consanguineous, cousins, deaf, decision, degree, discovering, equal, especially, fact, factors, families, findings, form, forum, gathered, gender, girl, hidden, huge, impact, implemented, interested, iran, kind, known, less, life, make, marriage, men, methods, nd, net, order, oriented, parents, patient, people, population, provinces, resource, role, rules, said, server, social, software, sql, suitable, survey, table, techniques, tools, understand, valuable, volume, written, important, related, first, health, information, number, person, questionnaire, achieve, associated, greater, reason, regarding, affecting, individuals, two, provides",
+    "group": 1,
+    "_row": "several"
+  },
+  {
+    "term": "user",
+    "freq": 10,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, dispenser, n, concept, discuss, cluster, contribute, time, collected, consisted",
+    "group": 2,
+    "_row": "user"
+  },
+  {
+    "term": "overreport",
+    "freq": 10,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, collected, dispenser, n, concept, discuss, associated, cluster, contribute, different, greater, reason, regarding, time",
+    "group": 2,
+    "_row": "overreport"
+  },
+  {
+    "term": "sample",
+    "freq": 10,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, different, collected, dispenser, n, concept, discuss, associated, bilateral, cluster, contribute, found, greater, however, mild, reason, regarding, time",
+    "group": 2,
+    "_row": "sample"
+  },
+  {
+    "term": "older",
+    "freq": 10,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, influence, assign, evaluate, lower, performed, pre, profile, programme, university, years, appropriate, selected, setting, bilateral, found, however, mild, c, period, recruit, follow, clinic, randomised, complete, age, research, different",
+    "group": 3,
+    "_row": "older"
+  },
+  {
+    "term": "otc",
+    "freq": 10,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 3,
+    "_row": "otc"
+  },
+  {
+    "term": "identification",
+    "freq": 11,
+    "assocs": "insertion, noise, professional, explore, need, acceptance, adoption, among, articles, cinahl, consultation, current, depicted, documented, elderly, evidence, expectation, explaining, four, future, gain, limited, manual, medline, non, perceived, potential, presbycusis, problems, progression, readiness, rehabilitation, science, search, seven, stage, synthesize, systematic, theoretical, trans, ttm, type, web, well, two, concept, discuss",
+    "group": 1,
+    "_row": "identification"
+  },
+  {
+    "term": "usage",
+    "freq": 11,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, research, different",
+    "group": 1,
+    "_row": "usage"
+  },
+  {
+    "term": "trial",
+    "freq": 11,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, assign, evaluate, lower, performed, pre, profile, programme, university, years, high, satisfaction, follow, c, period, recruit, appropriate, selected, setting, bilateral, found, however, mild, influence, randomised, clinic, age, complete, different",
+    "group": 3,
+    "_row": "trial"
+  },
+  {
+    "term": "practical",
+    "freq": 11,
+    "assocs": "randomised, assign, evaluate, lower, performed, pre, profile, programme, university, years, age, period, recruit, follow, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, adjustment, advice, advised, amsterdam, approved, asked, beyond, board, booklet, burden, called, center, conferences, contact, cp, cps, disseminated, dutch, educational, email, ethics, exercises, experienced, finally, functionality, handling, hau, haus, home, institutional, intensively, involved, isrctn, medical, months, noncommittal, occur, offered, partners, peer, process, publications, registration, scientific, skills, strategies, subscales, supr, teaches, testimonials, usual, videos, vu",
+    "group": 1,
+    "_row": "practical"
+  },
+  {
+    "term": "adult",
+    "freq": 12,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, bilateral, found, however, mild, influence, appropriate, selected, setting, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, complete, follow, different, research, randomised, age",
+    "group": 3,
+    "_row": "adult"
+  },
+  {
+    "term": "report",
+    "freq": 12,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, collected, different, dispenser, n, concept, discuss, associated, cluster, contribute, greater, reason, regarding, time",
+    "group": 2,
+    "_row": "report"
+  },
+  {
+    "term": "efficacious",
+    "freq": 12,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 3,
+    "_row": "efficacious"
+  },
+  {
+    "term": "service",
+    "freq": 13,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, high, satisfaction, c, appropriate, selected, setting, bilateral, found, however, mild, influence, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, follow, complete, period, recruit, different, randomised, age, research",
+    "group": 3,
+    "_row": "service"
+  },
+  {
+    "term": "logged",
+    "freq": 14,
+    "assocs": "absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, collected, dispenser, n, concept, discuss, associated, cluster, contribute, different, greater, reason, regarding, time",
+    "group": 2,
+    "_row": "logged"
+  },
+  {
+    "term": "studies",
+    "freq": 14,
+    "assocs": "clinic, different, bilateral, found, however, mild, collected, c, high, associated, greater, period, reason, recruit, regarding, complete, research, absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded",
+    "group": 1,
+    "_row": "studies"
+  },
+  {
+    "term": "outcome",
+    "freq": 16,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, bilateral, found, however, mild, assign, evaluate, lower, performed, pre, profile, programme, university, years, appropriate, selected, setting, influence, c, period, recruit, clinic, follow, complete, different, randomised, age, research",
+    "group": 3,
+    "_row": "outcome"
+  },
+  {
+    "term": "participants",
+    "freq": 16,
+    "assocs": "bilateral, found, however, mild, different, clinic, period, recruit, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, complete, satisfaction, high, appropriate, selected, setting, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, age, research, follow",
+    "group": 3,
+    "_row": "participants"
+  },
+  {
+    "term": "ab",
+    "freq": 16,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 3,
+    "_row": "ab"
+  },
+  {
+    "term": "cd",
+    "freq": 16,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, appropriate, selected, setting, bilateral, found, however, mild, influence, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, randomised, age, research",
+    "group": 3,
+    "_row": "cd"
+  },
+  {
+    "term": "measure",
+    "freq": 19,
+    "assocs": "appropriate, selected, setting, accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, complete, assign, evaluate, lower, performed, pre, profile, programme, university, years, bilateral, found, however, mild, period, recruit, influence, c, follow, randomised, clinic",
+    "group": 3,
+    "_row": "measure"
+  },
+  {
+    "term": "model",
+    "freq": 19,
+    "assocs": "accessibility, additional, affordability, alexander, alternative, analyses, audiologists, b, based, behind, blind, branches, clinicaltrials, cohens, connected, consumer, counter, cox, d, decides, digital, double, ear, eligible, end, enrolled, examine, flyers, general, gilmore, gov, increase, initially, item, large, likely, lt, mainly, may, millions, mini, nct, newspaper, obtained, paid, parallel, per, percentage, poorer, prospective, protocol, received, rejected, similar, single, site, sizes, slightly, speech, test, three, volunteer, week, yielded, satisfaction, high, influence, appropriate, selected, setting, bilateral, found, however, mild, c, assign, evaluate, lower, performed, pre, profile, programme, university, years, clinic, period, recruit, follow, complete, different, research, randomised, age",
+    "group": 3,
+    "_row": "model"
+  },
+  {
+    "term": "self",
+    "freq": 21,
+    "assocs": "concept, discuss, absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, different",
+    "group": 1,
+    "_row": "self"
+  },
+  {
+    "term": "data",
+    "freq": 24,
+    "assocs": "collected, associated, greater, reason, regarding, absolute, amount, analysis, assessed, audiometric, available, binaurally, clients, compared, cost, covariates, denmark, denotes, described, divided, expressed, fewer, financially, hours, hr, international, least, linear, min, muchquot, multiple, netherlands, observational, offquot, point, positive, powered, predicted, predictors, previous, private, purpose, quothow, quothowquot, quoton, quotregularquot, rate, regression, retired, shorter, showed, switched, terms, unclear, important, related, two, dispenser, n, questionnaire",
+    "group": 2,
+    "_row": "data"
+  }
+]

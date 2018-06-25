@@ -1,0 +1,352 @@
+[
+  {
+    "term": "life",
+    "freq": 32,
+    "assocs": "presbycusis, elder, answered, general, bref, disorder, feelings, leisure, psychiatric, psychological, whoqol, social, even, negative, qualities",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "condition",
+    "freq": 32,
+    "assocs": "variance, unaidable, course, restricted, incorporate, none, transmitter, restore",
+    "group": 1,
+    "_row": "condition"
+  },
+  {
+    "term": "db",
+    "freq": 33,
+    "assocs": "pure",
+    "group": 1,
+    "_row": "db"
+  },
+  {
+    "term": "direct",
+    "freq": 33,
+    "assocs": "omnidirectional, accuracy, hence, later, rarely, replicate, robust, simultaneously, live, express, basis",
+    "group": 2,
+    "_row": "direct"
+  },
+  {
+    "term": "present",
+    "freq": 33,
+    "assocs": "nonuse, b, differentiate, growth, part, global, fixed, full",
+    "group": 1,
+    "_row": "present"
+  },
+  {
+    "term": "comparable",
+    "freq": 33,
+    "assocs": "articulation, ddhs, drawn, electromagnetic, exemption, fda, inferences, listed, multicenter, ongoing, phase, postoperative, soundtec",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "evaluate",
+    "freq": 34,
+    "assocs": "fixed, arcsine, hoc, rationalized, instructed, arrangement, bonferroni, cb, circumvented, convenient, dream, highlighted, noted, proper, rau, aidable, remainder, ssq, localization, switch, also",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "recognition",
+    "freq": 34,
+    "assocs": "arcsine, hoc, rationalized, unilateral, routed, wireless, variance, challenge, constraints, converted, coupling, eighteen, led, seated, streaming, telecoil, traditional, tukey, venting, telephone, may, unit, post, arrangement, bonferroni, cb, circumvented, convenient, dream, highlighted, noted, proper, rau",
+    "group": 1,
+    "_row": "recognition"
+  },
+  {
+    "term": "ear",
+    "freq": 35,
+    "assocs": "cros, contralateral, localization, source, aidable, ssq, head, azimuth, alleviating, authors, averting, baha, center, conductor, d, entific, exhibits, gt, incremental, mastoid, outweigh, saint, shadow, snhldesign, sp, stimulation, unchanged, vibromechanical, arrangement, bonferroni, cb, circumvented, convenient, dream, highlighted, noted, proper, rau, function, monaural, side, deaf, especially, poor",
+    "group": 1,
+    "_row": "ear"
+  },
+  {
+    "term": "group",
+    "freq": 35,
+    "assocs": "returned, ameliorated, av, become, capable, domains, era, evidence, hundred, lie, objectionably, private, progress, states, transitioned, undertaken, divide, hf, mailed, preset, screening",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "data",
+    "freq": 35,
+    "assocs": "intervention, symmetric, counseling, alter, anecdotally, appointment, ave, beltone, cautiously, contact, demotivating, disappointment, discouraging, emphasize, enjoyed, exercise, fine, image, learned, oria, postfitting, postulated, prefitting, psychosocial, tuned, unrealistic, verbal, button, circumstances, distance, hr, left, logged, mm, mms, nondefault, pda, prevalence, right, stored, summarized, synchronization, vc, vcs, wheel, position, set, nonparametric, drive, small, purpose, expectation, manipulate, supplemented, guideline, quotusequot, demonstrate, world, follow, experimental",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "patient",
+    "freq": 36,
+    "assocs": "presbycusis, elder, pta, affordability, counter, electroacoustic, emotions, label, monocentric, nct, otc, sa, silence, teo, tv, watching, conversation, lt, recent, month, decrease, moreover, regard, first, people, glasgow, lack, without, qualities, prospective, silent, suitable, one, negative",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "effect",
+    "freq": 36,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "report",
+    "freq": 36,
+    "assocs": "account, apparent, attended, computed, conflict, discrepancy, excellent, explanation, hhie, misperception, ppdis, ppt, quotmisjudgequot, residual, routine, saunders, srtn, srtns, stepwise, taken, third, turn, underestimate, underscores, underwent, perceptual, s, second, handicap, abilities, regression, retest, wk, interpret, seen, linear, multiple, permit, worn, difficulties, visit",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "individual",
+    "freq": 37,
+    "assocs": "regression, attended, public",
+    "group": 1,
+    "_row": "individual"
+  },
+  {
+    "term": "outcome",
+    "freq": 37,
+    "assocs": "expectation, counseling, alter, anecdotally, appointment, ave, beltone, cautiously, contact, demotivating, disappointment, discouraging, emphasize, enjoyed, exercise, fine, image, learned, oria, postfitting, postulated, prefitting, psychosocial, tuned, unrealistic, verbal, demonstrate, small, position, address, follow, beneficial, format, prior, interest, show, poor, recommend, conclude, supplemented, thus",
+    "group": 1,
+    "_row": "outcome"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 37,
+    "assocs": "visit, pattern, complete",
+    "group": 1,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "frequencies",
+    "freq": 38,
+    "assocs": "high, audible, aware, axent, beyond, cst, dispensers, maximize, starkey, degree, variability, khz, instrument, canal, minimal, affect",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "design",
+    "freq": 38,
+    "assocs": "sample, research, yr, segmentation, higher, estimate, feature, analysis, informant",
+    "group": 1,
+    "_row": "design"
+  },
+  {
+    "term": "process",
+    "freq": 39,
+    "assocs": "input, judgment, spectral, analysisquot, clean, closer, comparisonquot, fairly, instances, mstmi, properties, quotacoustic, quotdirect, raters, scene, slightly, spectro, template, temporal, today, walden, dir, omni, automatic, modulation, produced, case, channelfree, multichannel, unclear, wideband, represent, given, likely, modifications, al, et, band, reference, carried, wide, approach, strategies, base, wdrc",
+    "group": 2,
+    "_row": "process"
+  },
+  {
+    "term": "bicros",
+    "freq": 39,
+    "assocs": "contralateral, side, ssq, transmitter, visit, aidable, unaidable, localization, nine, utility, arrangement, bonferroni, cb, circumvented, convenient, dream, highlighted, noted, proper, rau, previous, three, single, variance, revealed, switch, transmission, cros, fixed, affair, bay, cosmetically, cumbersome, dissatisfaction, executed, fidelity, friendlyquot, overlap, parametric, pines, posttest, pretest, sensorinerual, soundfield, ssd, win, anova, asnhl, block, diffuse, impressions, louis, manufacturers, medicine, nl, nr, past, reig, rts, rv, school, st, tandem, unwanted, washington, final",
+    "group": 2,
+    "_row": "bicros"
+  },
+  {
+    "term": "object",
+    "freq": 40,
+    "assocs": "quiet, multiple, permit, worn, word",
+    "group": 1,
+    "_row": "object"
+  },
+  {
+    "term": "microphone",
+    "freq": 41,
+    "assocs": "omnidirectional, accuracy, hence, later, rarely, replicate, robust, simultaneously, live, express, able, always, basis, laboratories, mode",
+    "group": 2,
+    "_row": "microphone"
+  },
+  {
+    "term": "level",
+    "freq": 42,
+    "assocs": "slope, full, b, differentiate, growth, nonuse, smaller, part, time, separate, global, accept",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "loss",
+    "freq": 44,
+    "assocs": "sensorineural, several, challenge, constraints, converted, coupling, eighteen, led, seated, streaming, telecoil, traditional, tukey, venting, telephone, wireless, may, routed",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "sound",
+    "freq": 44,
+    "assocs": "instructed, derived",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "signal",
+    "freq": 44,
+    "assocs": "exposed, channelfree, multichannel, unclear, wideband, fourteen, strategies, band, dynamic, experimental, wk, term, behavioral, end, wide, research, yet, per",
+    "group": 1,
+    "_row": "signal"
+  },
+  {
+    "term": "background",
+    "freq": 45,
+    "assocs": "people, accept, influence, acclimatization, conversation, decrease, recent, affordability, counter, electroacoustic, emotions, label, monocentric, nct, otc, sa, silence, teo, tv, watching, pta, lt, suitable, review",
+    "group": 1,
+    "_row": "background"
+  },
+  {
+    "term": "satisfaction",
+    "freq": 48,
+    "assocs": "",
+    "group": 1,
+    "_row": "satisfaction"
+  },
+  {
+    "term": "performance",
+    "freq": 49,
+    "assocs": "account, apparent, computed, conflict, discrepancy, excellent, explanation, hhie, misperception, ppdis, ppt, quotmisjudgequot, residual, routine, saunders, second, srtn, srtns, stepwise, taken, third, turn, underestimate, underscores, underwent, perceptual, s, unit, abilities, attended, interpret, multiple, permit, worn, handicap, sensorineural, challenge, constraints, converted, coupling, eighteen, led, seated, streaming, telecoil, traditional, tukey, venting",
+    "group": 1,
+    "_row": "performance"
+  },
+  {
+    "term": "environment",
+    "freq": 49,
+    "assocs": "automatic, judgment, approach, analysisquot, clean, closer, comparisonquot, fairly, instances, mstmi, properties, quotacoustic, quotdirect, raters, scene, slightly, spectro, template, temporal, today, walden, dir, omni, modulation, default, mode, case, modifications, spectral, laboratories, given, likely, neither, involve, reference, represent, produced",
+    "group": 1,
+    "_row": "environment"
+  },
+  {
+    "term": "device",
+    "freq": 53,
+    "assocs": "first, pta, month, general, affordability, counter, electroacoustic, emotions, label, monocentric, nct, otc, sa, silence, teo, tv, watching, conversation, lt, suitable, guideline",
+    "group": 1,
+    "_row": "device"
+  },
+  {
+    "term": "amplification",
+    "freq": 54,
+    "assocs": "delivered, incorporate, none",
+    "group": 1,
+    "_row": "amplification"
+  },
+  {
+    "term": "differ",
+    "freq": 54,
+    "assocs": "examination, unaidable, anova, asnhl, block, diffuse, impressions, louis, manufacturers, medicine, nl, nr, past, reig, rts, rv, school, st, tandem, unwanted, washington",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "benefit",
+    "freq": 54,
+    "assocs": "bandwidth, coincident, contrast, cues, cutoff, filtered, interaural, likewise, pass, spectra, take, tolerate, spatial, babble, hint, restore, sentence, older, separate, audible, khz, greater, extent, correct, increase, willingness, degree, azimuth, able, always, place, threshold, provide, availability",
+    "group": 1,
+    "_row": "benefit"
+  },
+  {
+    "term": "fit",
+    "freq": 55,
+    "assocs": "composed, consecutive, exposure, extensive, order, refining",
+    "group": 1,
+    "_row": "fit"
+  },
+  {
+    "term": "significance",
+    "freq": 58,
+    "assocs": "unaidable, advantage",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "anl",
+    "freq": 59,
+    "assocs": "part, full, time, smaller, c, nonuse, accept, b, differentiate, growth, global",
+    "group": 2,
+    "_row": "anl"
+  },
+  {
+    "term": "user",
+    "freq": 60,
+    "assocs": "",
+    "group": 1,
+    "_row": "user"
+  },
+  {
+    "term": "test",
+    "freq": 62,
+    "assocs": "verification",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "improve",
+    "freq": 65,
+    "assocs": "older",
+    "group": 1,
+    "_row": "improve"
+  },
+  {
+    "term": "measure",
+    "freq": 66,
+    "assocs": "account, apparent, computed, conflict, discrepancy, excellent, explanation, hhie, misperception, ppdis, ppt, quotmisjudgequot, residual, routine, saunders, srtn, srtns, stepwise, taken, third, turn, underestimate, underscores, underwent, handicap, perceptual, abilities, s, multiple, permit, worn, correct, second, attended, interpret, relate, threshold, score",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "prefer",
+    "freq": 71,
+    "assocs": "laboratories, automatic, judgment, accuracy, hence, later, rarely, replicate, robust, simultaneously, live, represent, basis, versa, vice, modulation, express, mode, omnidirectional, analysisquot, clean, closer, comparisonquot, fairly, instances, mstmi, properties, quotacoustic, quotdirect, raters, scene, slightly, spectro, template, temporal, today, walden",
+    "group": 2,
+    "_row": "prefer"
+  },
+  {
+    "term": "participant",
+    "freq": 81,
+    "assocs": "allowed, manage, subsequently",
+    "group": 2,
+    "_row": "participant"
+  },
+  {
+    "term": "listen",
+    "freq": 92,
+    "assocs": "automatic, judgment, laboratories, modifications",
+    "group": 2,
+    "_row": "listen"
+  },
+  {
+    "term": "studied",
+    "freq": 97,
+    "assocs": "",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "subject",
+    "freq": 107,
+    "assocs": "baseline, optimally, articulation, ddhs, drawn, electromagnetic, exemption, fda, inferences, listed, multicenter, ongoing, phase, postoperative, protocol, soundtec",
+    "group": 2,
+    "_row": "subject"
+  },
+  {
+    "term": "speech",
+    "freq": 135,
+    "assocs": "restore, arcsine, hoc, rationalized, azimuth",
+    "group": 2,
+    "_row": "speech"
+  },
+  {
+    "term": "noise",
+    "freq": 150,
+    "assocs": "",
+    "group": 2,
+    "_row": "noise"
+  },
+  {
+    "term": "hear",
+    "freq": 419,
+    "assocs": "follow, extent, suggest",
+    "group": 3,
+    "_row": "hear"
+  }
+]

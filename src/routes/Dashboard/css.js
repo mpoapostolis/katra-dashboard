@@ -1,73 +1,77 @@
-import {css} from 'emotion';
+import { css } from 'emotion';
 
 export const container = css`
   width: 100%;
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
 `;
 
-export const header = css`
-  display: flex;
-  font-size:large;
-  font-weight:600;
-  align-items: center;
-  padding:5px;
-  justify-content:space-between;
-  align-content: center;
+export const fieldset = css`
+  display: grid;
+  width: 100%;
+  padding: 20px;
+  grid-gap: 30px;
+  grid-template-columns: 150px repeat(2, 1fr) 10px;
+  grid-template-rows: 50px repeat(2, 1fr) 50px repeat(2fr);
+  transition: box-shadow 0.25s;
+  grid-template-areas: 'modelNameClass . . .' 'label0 filters filters .'
+    'label1 textField1 textField2 .' '. chipCont chipCont chipCont'
+    'label2 textField3 textField3 .' '. .  submit . ';
+  box-shadow: 2px 2px 5px 2px #0000002F;
+  &:hover {
+    box-shadow: 2px 2px 5px 2px #0000003F;
+  }
 `;
+
+export const modelNameClass = css`
+  grid-area: modelNameClass;
+  display: flex;
+`;
+
+export const label0 = css`
+  grid-area: label0;
+  margin-bottom: 30px;
+`;
+
+export const textField1 = css`grid-area: textField1;`;
 
 export const filters = css`
-  label{
-    font-weight:600;
-    color: #777777;
-    font-size:large;
-    margin-right:30px;
-  }
-  padding:30px 0;
-  display:flex;
+  grid-area: filters;
+  display: flex;
+  flex-wrap: wrap;
 `;
 
-export const datePickerClass = css`
+export const textField2 = css`grid-area: textField2;`;
 
-  &:active {
-    outline: none;
-  }
+export const textField3 = css`grid-area: textField3;`;
 
-  &:focus {
-    outline: none;
-  }
-  color: rgba(0, 0, 0, 0.75);
-  font-weight: bolder;
+export const label1 = css`grid-area: label1;`;
+
+export const label2 = css`grid-area: label2;`;
+
+export const chipCont = css`
+  display: flex;
+  grid-area: chipCont;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+`;
+
+export const submit = css`
+  grid-area: submit;
+  display: flex;
+  justify-content: flex-end;
+`;
+
+export const chip = css`margin: 5px;`;
+
+export const input = css`
   border: none;
-  margin-left: 5px;
-  width: 100px;
-  background: transparent;
+  margin-left: 20px;
 `;
 
 export const dateCont = css`
   display: flex;
-  color: #999999;
-  width:500px;
-  align-content: center;
-  margin: 20px 0 50px 0;
-`;
-
-export const filterCont = css`
-  display:flex;
-  margin-left:40px;
-`;
-
-export const inputCont = css`
-  display: flex;
-  color: #999999;
-  align-content: center;
-  justify-content:space-around;
-`;
-
-export const input = css`
-  width:45%;
-`;
-
-export const modelCont = css`
-  margin:10px 0 10px 0;
-  display:flex;
-  justify-content:space-between;
+  align-items: center;
+  margin-right: 30px;
 `;

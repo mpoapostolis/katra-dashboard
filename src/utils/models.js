@@ -1,5 +1,6 @@
-const models = {
-  PHPDM1: {
+const models = [
+  {
+    modelName: 'PHPDM1',
     data: ['Hearing aid usage', 'Hearing aid satisfaction'],
     factors: [
       'Environment',
@@ -27,7 +28,8 @@ const models = {
       'Employment',
     ],
   },
-  PHPDM2: {
+  {
+    modelName: 'PHPDM2',
     data: [
       'Noise Induced Hearing Loss (NIHL)',
       'Occupational Noise',
@@ -36,9 +38,10 @@ const models = {
       'Temporary Threshold Shift (TTS)',
       'Sound Pressure Level',
     ],
-    factor: ['Pure Tone Audiometry', 'Hearing Aid Usage'],
+    factors: ['Pure Tone Audiometry', 'Hearing Aid Usage'],
   },
-  PHPDM3: {
+  {
+    modelName: 'PHPDM3',
     data: ['GHABP', 'Hearing Aid Use', 'MOCA', 'Listening Effort'],
     factors: [
       'Auditory Training Type',
@@ -46,7 +49,8 @@ const models = {
       'Education',
     ],
   },
-  PHPDM4: {
+  {
+    modelName: 'PHPDM4',
     data: ['MOCA', 'HUI3', 'Hearing aid usage'],
     factors: [
       'Diabetes',
@@ -64,6 +68,6 @@ const models = {
       'Social Engagement',
     ],
   },
-};
+];
 
 export default models;

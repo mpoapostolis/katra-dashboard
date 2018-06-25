@@ -1,0 +1,352 @@
+[
+  {
+    "term": "time",
+    "freq": 59,
+    "assocs": "growth, smaller, full, part, differenti",
+    "group": 1,
+    "_row": "time"
+  },
+  {
+    "term": "anl",
+    "freq": 59,
+    "assocs": "full, part, growth, accept, smaller, nonuse",
+    "group": 1,
+    "_row": "anl"
+  },
+  {
+    "term": "one",
+    "freq": 60,
+    "assocs": "white, depth, accuracy, feasible, fourth, intensities, octave, shallower, tube, withindb, suitable, fourteen, inserted, bandwidth, female, mm, middle, khz, repeatability",
+    "group": 1,
+    "_row": "one"
+  },
+  {
+    "term": "method",
+    "freq": 60,
+    "assocs": "accompanied, lessloudn, loudnessdesign, normloudn, overamplification, phon, soft, overall, loud, give, danalogic, calculate, called, prescribed, clients, led, prescription, restoration, less, gave, distinguish, govern, normal, clear, overestimate, according, avoid, generic, programmable, theoretical, gain, assumption, model, aim, seem, interview, dsli, o, stated, comparison",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "bone",
+    "freq": 60,
+    "assocs": "anchored, deaf, neuroma, side, referral, longer, excision, imposes, maintenance, meningitis, offside, outpatient, sudden, suppurative, albeit, angles, latter, lifted, occluded, predominantly, regained, stimulation, contralateral, detrimental, single",
+    "group": 1,
+    "_row": "bone"
+  },
+  {
+    "term": "direct",
+    "freq": 62,
+    "assocs": "booth, leave, magnitude, therefore, omnidirectional",
+    "group": 1,
+    "_row": "direct"
+  },
+  {
+    "term": "recognition",
+    "freq": 63,
+    "assocs": "arcsine, hoc, wireless, converted, eighteen, seated, streaming, telecoil, tukey, venting",
+    "group": 1,
+    "_row": "recognition"
+  },
+  {
+    "term": "db",
+    "freq": 65,
+    "assocs": "spl",
+    "group": 1,
+    "_row": "db"
+  },
+  {
+    "term": "ha",
+    "freq": 65,
+    "assocs": "ioi, align, displayed, forward, hence, introspection, resemble, sdss, sum, interaction, sds, regression, multiple, best, gender, item, srt, speaker, stepwise, since, properties, responded, psychometric",
+    "group": 1,
+    "_row": "ha"
+  },
+  {
+    "term": "design",
+    "freq": 66,
+    "assocs": "sample, research",
+    "group": 1,
+    "_row": "design"
+  },
+  {
+    "term": "baha",
+    "freq": 67,
+    "assocs": "deaf, etiologies, translabyrinthine",
+    "group": 1,
+    "_row": "baha"
+  },
+  {
+    "term": "level",
+    "freq": 68,
+    "assocs": "full, slope, growth",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "qualities",
+    "freq": 68,
+    "assocs": "example",
+    "group": 1,
+    "_row": "qualities"
+  },
+  {
+    "term": "background",
+    "freq": 71,
+    "assocs": "people, accept",
+    "group": 1,
+    "_row": "background"
+  },
+  {
+    "term": "effect",
+    "freq": 73,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "comparable",
+    "freq": 73,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "group",
+    "freq": 74,
+    "assocs": "symptoms, treatment",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "frequencies",
+    "freq": 75,
+    "assocs": "high, axent, beyond, starkey, satztest, shifts, soundrecover, sr, audible",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "outcome",
+    "freq": 79,
+    "assocs": "sds, ioi, multiple, regression, align, displayed, forward, hence, introspection, resemble, sdss, sum, interaction, srt, stepwise",
+    "group": 1,
+    "_row": "outcome"
+  },
+  {
+    "term": "amplification",
+    "freq": 83,
+    "assocs": "",
+    "group": 1,
+    "_row": "amplification"
+  },
+  {
+    "term": "object",
+    "freq": 84,
+    "assocs": "",
+    "group": 1,
+    "_row": "object"
+  },
+  {
+    "term": "condition",
+    "freq": 84,
+    "assocs": "restricted, expansion",
+    "group": 1,
+    "_row": "condition"
+  },
+  {
+    "term": "ear",
+    "freq": 85,
+    "assocs": "contralateral",
+    "group": 1,
+    "_row": "ear"
+  },
+  {
+    "term": "signal",
+    "freq": 85,
+    "assocs": "contralateral, wideband, excision, imposes, maintenance, meningitis, offside, outpatient, sudden, suppurative, band, fourteen, stimulation, exposed",
+    "group": 1,
+    "_row": "signal"
+  },
+  {
+    "term": "report",
+    "freq": 89,
+    "assocs": "",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "loss",
+    "freq": 93,
+    "assocs": "",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "performance",
+    "freq": 94,
+    "assocs": "ppdis, hhie, conflict, explanation, misperception, ppt, quotmisjudgequot, residual, routine, saunders, srtn, srtns, underestimate, underscores, perceptual, s",
+    "group": 1,
+    "_row": "performance"
+  },
+  {
+    "term": "participant",
+    "freq": 94,
+    "assocs": "relief, visit",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "score",
+    "freq": 95,
+    "assocs": "regression, stepwise, sds, multiple, ioi, align, displayed, forward, hence, introspection, resemble, sdss, sum",
+    "group": 1,
+    "_row": "score"
+  },
+  {
+    "term": "sound",
+    "freq": 96,
+    "assocs": "coexisting, delineate, hold, pinpointing, remediate, screening, stiqi, stq, vague, complaint, tolerance, intolerable, tool, refined, impact",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "evaluate",
+    "freq": 97,
+    "assocs": "",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "prefer",
+    "freq": 101,
+    "assocs": "assumption, pair, judgment, overall, model, field, laboratories, comparison, input, modulated, two, shape, analysisquot, automatic, clean, closer, comparisonquot, fairly, mstmi, quotacoustic, quotdirect, raters, scene, spectro, today",
+    "group": 2,
+    "_row": "prefer"
+  },
+  {
+    "term": "improve",
+    "freq": 117,
+    "assocs": "",
+    "group": 1,
+    "_row": "improve"
+  },
+  {
+    "term": "listen",
+    "freq": 117,
+    "assocs": "temporal, dir, omni",
+    "group": 2,
+    "_row": "listen"
+  },
+  {
+    "term": "satisfaction",
+    "freq": 118,
+    "assocs": "",
+    "group": 1,
+    "_row": "satisfaction"
+  },
+  {
+    "term": "differ",
+    "freq": 120,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 120,
+    "assocs": "",
+    "group": 1,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "user",
+    "freq": 124,
+    "assocs": "cameq, dsli, o, cambridge, camrest, dbspl, formal, inexperienced",
+    "group": 1,
+    "_row": "user"
+  },
+  {
+    "term": "device",
+    "freq": 134,
+    "assocs": "",
+    "group": 1,
+    "_row": "device"
+  },
+  {
+    "term": "significance",
+    "freq": 134,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "fit",
+    "freq": 149,
+    "assocs": "gain",
+    "group": 2,
+    "_row": "fit"
+  },
+  {
+    "term": "test",
+    "freq": 172,
+    "assocs": "nl, nal, bamford, bench, forum, ihaff, kowal, rationale, rms, root, weighted, laboratories, maximization, field, flat, formula",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "benefit",
+    "freq": 182,
+    "assocs": "spatial, able, cutoff, filtered, interaural, pass, spectra, babble",
+    "group": 1,
+    "_row": "benefit"
+  },
+  {
+    "term": "measurable",
+    "freq": 191,
+    "assocs": "bandwidth, inserted, retest, depth, accuracy, feasible, fourth, intensities, octave, shallower, tube, withindb, white, middle, predictor, extended",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "studied",
+    "freq": 195,
+    "assocs": "",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "patient",
+    "freq": 198,
+    "assocs": "prospective, referral",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "subject",
+    "freq": 225,
+    "assocs": "",
+    "group": 2,
+    "_row": "subject"
+  },
+  {
+    "term": "speech",
+    "freq": 273,
+    "assocs": "",
+    "group": 2,
+    "_row": "speech"
+  },
+  {
+    "term": "noise",
+    "freq": 303,
+    "assocs": "",
+    "group": 2,
+    "_row": "noise"
+  },
+  {
+    "term": "hear",
+    "freq": 823,
+    "assocs": "",
+    "group": 3,
+    "_row": "hear"
+  }
+]

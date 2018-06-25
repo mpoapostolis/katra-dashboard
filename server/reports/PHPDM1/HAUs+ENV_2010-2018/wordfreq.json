@@ -1,0 +1,352 @@
+[
+  {
+    "term": "filter",
+    "freq": 6,
+    "assocs": "afc, another, behavior, cancel, causes, changes, choosing, computations, convergence, criterion, deficient, especially, estimate, experimental, feedback, fir, improper, knowledge, loudspeaker, numerous, order, path, proper, proposed, system, tracking, unpleasant, effect, methods, select, available, important, one",
+    "group": 1,
+    "_row": "filter"
+  },
+  {
+    "term": "benefit",
+    "freq": 6,
+    "assocs": "aphab, remained, abbreviated, profile, despite, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, assess, patients, questionnaire, fourteen, minimum, single, adaptive, present, provide, months, consider, behind, inform, signal, completed, best, modified, predicting, trade, unaided",
+    "group": 1,
+    "_row": "benefit"
+  },
+  {
+    "term": "standard",
+    "freq": 6,
+    "assocs": "acoustician, almost, april, associated, complain, compliance, concerning, confirmed, corresponded, covered, dependent, details, doubling, euros, example, expensive, finally, financial, hkk, holders, independent, insurance, introduction, large, majority, members, neither, noncompliance, october, otorhinolaryngologists, paid, pattern, pay, payments, pedaudiologists, percent, phoniatrists, points, possibly, practically, prescribing, prior, problems, project, proportion, quarters, questioned, recent, recognized, reform, regulation, reverberant, size, sometimes, structured, substantial, unimproved, visit, wear, whatsoever, whether, without, wore, rate, received, continue, fitted, follow, satisfaction, time, statistically, patients, questionnaire, approximately, observation, difficult, exception, personal, previous, revealed, three, available, one, everyday, decrease, months, collect",
+    "group": 1,
+    "_row": "standard"
+  },
+  {
+    "term": "directional",
+    "freq": 6,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "directional"
+  },
+  {
+    "term": "fixed",
+    "freq": 6,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "fixed"
+  },
+  {
+    "term": "prescription",
+    "freq": 6,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "prescription"
+  },
+  {
+    "term": "recommendations",
+    "freq": 6,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "recommendations"
+  },
+  {
+    "term": "shift",
+    "freq": 6,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "shift"
+  },
+  {
+    "term": "measured",
+    "freq": 7,
+    "assocs": "modified, predicting, trade, unaided, consider, assess, differences, four, fourteen, minimum, single, provide, sensitivity, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, limited",
+    "group": 1,
+    "_row": "measured"
+  },
+  {
+    "term": "report",
+    "freq": 7,
+    "assocs": "inform, adults, completed, factors, best, behind, clinical, obtained, participant, purpose, surveyed, provide, assess, assistance, technology, control, design, despite, signal",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "bilateral",
+    "freq": 7,
+    "assocs": "participant, control, access, adjustments, allowed, although, analysis, analyzed, broadband, bte, button, circumstances, connected, decisions, default, descriptively, desire, digital, distance, drive, e, equipped, examination, experience, exploration, findings, gathered, generally, guiding, hr, input, intervention, known, left, little, location, logged, manipulate, mild, mm, mms, moderate, nature, nondefault, nonparametric, operation, pair, pda, presence, prevalence, programmed, quotusequot, real, research, right, sensorineural, stored, suitable, summarized, symmetric, synchronization, ten, utility, various, vc, vcs, volume, wheel, wk, world, yet, completed, characteristics, influence, affect, listening, may, obtained, often, preference, purpose, situations, surveyed, design, behind, despite, inform, signal, advanced, difficult, exception, factors, personal, previous, select, support",
+    "group": 1,
+    "_row": "bilateral"
+  },
+  {
+    "term": "well",
+    "freq": 7,
+    "assocs": "patients, questionnaire, rate, despite, acoustician, almost, april, associated, complain, compliance, concerning, confirmed, corresponded, covered, dependent, details, doubling, euros, example, expensive, finally, financial, hkk, holders, independent, insurance, introduction, large, majority, members, neither, noncompliance, october, otorhinolaryngologists, paid, pattern, pay, payments, pedaudiologists, percent, phoniatrists, points, possibly, practically, prescribing, prior, problems, project, proportion, quarters, questioned, recent, recognized, reform, regulation, reverberant, size, sometimes, structured, substantial, unimproved, visit, wear, whatsoever, whether, without, wore, continue, fitted, follow, satisfaction, time, statistically, aphab, remained, difficult, exception, personal, previous, revealed, three, months, abbreviated, profile, received",
+    "group": 1,
+    "_row": "well"
+  },
+  {
+    "term": "new",
+    "freq": 7,
+    "assocs": "also, analyses, aotearoa, audiometric, classified, consequences, current, describe, discriminant, emotionally, health, implications, life, lives, ownership, poor, regarding, social, tend, understanding, worse, zealand, sensitivity, impaired, assistance, technology, important, everyday, clinical",
+    "group": 1,
+    "_row": "new"
+  },
+  {
+    "term": "sin",
+    "freq": 7,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "sin"
+  },
+  {
+    "term": "high",
+    "freq": 8,
+    "assocs": "assess, behind, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, fourteen, minimum, single, months, abbreviated, profile, signal, adaptive, present, aphab, remained, provide, analog, chronic, comprehensive, conducted, cut, distress, eleven, frequency, frequently, group, increase, khz, less, likewise, low, n, outcome, pilot, pronounced, range, reduction, seen, six, stimulated, suggests, theoretical, upper, visual, within",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "treatment",
+    "freq": 8,
+    "assocs": "analog, chronic, comprehensive, conducted, cut, distress, eleven, frequency, frequently, group, increase, khz, less, likewise, low, n, outcome, pilot, pronounced, range, seen, six, stimulated, suggests, theoretical, upper, visual, within, acoustic, perceived, reduction, significant, loudness, might, however, related, approximately, observation, show, hypothesis, scale, slightly, whereas, decrease, limited, months",
+    "group": 1,
+    "_row": "treatment"
+  },
+  {
+    "term": "background",
+    "freq": 8,
+    "assocs": "despite, completed, difficult, exception, personal, previous, continue, fitted, follow, inform, may, participant, satisfaction, signal, situations, time, aphab, remained, collect, characteristics, patients, questionnaire, abbreviated, profile, control",
+    "group": 1,
+    "_row": "background"
+  },
+  {
+    "term": "microphone",
+    "freq": 8,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, adaptive, present, abbreviated, profile, assess, fourteen, minimum, single, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider",
+    "group": 2,
+    "_row": "microphone"
+  },
+  {
+    "term": "better",
+    "freq": 8,
+    "assocs": "term, best, modified, predicting, trade, unaided, condition, fourteen, minimum, single, provide, sensitivity",
+    "group": 1,
+    "_row": "better"
+  },
+  {
+    "term": "non",
+    "freq": 8,
+    "assocs": "additionally, applied, art, attention, channel, compared, comparison, distortions, effort, extent, gain, given, intelligibility, novel, parametric, particular, perceptual, processing, promising, prototype, reached, reference, rule, seems, similar, state, still, two, unprocessed, wiener, sample, test, investigated, scheme, condition, impaired",
+    "group": 1,
+    "_row": "non"
+  },
+  {
+    "term": "excess",
+    "freq": 8,
+    "assocs": "acoustician, almost, april, associated, complain, compliance, concerning, confirmed, corresponded, covered, dependent, details, doubling, euros, example, expensive, finally, financial, hkk, holders, independent, insurance, introduction, large, majority, members, neither, noncompliance, october, otorhinolaryngologists, paid, pattern, pay, payments, pedaudiologists, percent, phoniatrists, points, possibly, practically, prescribing, prior, problems, project, proportion, quarters, questioned, recent, recognized, reform, regulation, reverberant, size, sometimes, structured, substantial, unimproved, visit, wear, whatsoever, whether, without, wore, rate, received, continue, fitted, follow, satisfaction, time, statistically, patients, questionnaire, available, one, approximately, observation, difficult, exception, personal, previous, revealed, three, everyday",
+    "group": 1,
+    "_row": "excess"
+  },
+  {
+    "term": "normal",
+    "freq": 8,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "normal"
+  },
+  {
+    "term": "pts",
+    "freq": 8,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "pts"
+  },
+  {
+    "term": "ear",
+    "freq": 9,
+    "assocs": "best, provide, inform, adults, assess, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, behind, abbreviated, profile, fourteen, minimum, single, adaptive, present, aphab, remained, completed, despite, signal, assistance, technology, also, analyses, aotearoa, audiometric, classified, consequences, current, describe, discriminant, emotionally, health, implications, life, lives, ownership, poor, regarding, social, tend, understanding, worse, zealand",
+    "group": 1,
+    "_row": "ear"
+  },
+  {
+    "term": "pitch",
+    "freq": 9,
+    "assocs": "analog, chronic, comprehensive, conducted, cut, distress, eleven, frequency, frequently, group, increase, khz, less, likewise, low, n, outcome, pilot, pronounced, range, seen, six, stimulated, suggests, theoretical, upper, visual, within, acoustic, perceived, reduction, significant, loudness, might, related, however, show, approximately, hypothesis, observation, scale, slightly, whereas, limited, decrease, months, overall",
+    "group": 1,
+    "_row": "pitch"
+  },
+  {
+    "term": "data",
+    "freq": 9,
+    "assocs": "obtained, purpose, surveyed, design, access, adjustments, allowed, although, analysis, analyzed, broadband, bte, button, circumstances, connected, decisions, default, descriptively, desire, digital, distance, drive, e, equipped, examination, experience, exploration, findings, gathered, generally, guiding, hr, input, intervention, known, left, little, location, logged, manipulate, mild, mm, mms, moderate, nature, nondefault, nonparametric, operation, pair, pda, presence, prevalence, programmed, quotusequot, real, research, right, sensorineural, stored, suitable, summarized, symmetric, synchronization, ten, utility, various, vc, vcs, volume, wheel, wk, world, yet, characteristics, control, affect, factors, listening, may, preference, situations, influence, collect, often, participant, sample, advanced, difficult, exception, personal, previous, support, clinical, completed, select",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "environment",
+    "freq": 9,
+    "assocs": "may, participant, situations, characteristics, despite, completed, difficult, exception, personal, previous, control, access, adjustments, allowed, although, analysis, analyzed, broadband, bte, button, circumstances, connected, decisions, default, descriptively, desire, digital, distance, drive, e, equipped, examination, experience, exploration, findings, gathered, generally, guiding, hr, input, intervention, known, left, little, location, logged, manipulate, mild, mm, mms, moderate, nature, nondefault, nonparametric, operation, pair, pda, presence, prevalence, programmed, quotusequot, real, research, right, sensorineural, stored, suitable, summarized, symmetric, synchronization, ten, utility, various, vc, vcs, volume, wheel, wk, world, yet, affect, continue, fitted, follow, listening, often, preference, satisfaction, time, signal, advanced, select, support",
+    "group": 1,
+    "_row": "environment"
+  },
+  {
+    "term": "level",
+    "freq": 9,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, amplification, express, loss, differences, four, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "level"
+  },
+  {
+    "term": "algorithm",
+    "freq": 9,
+    "assocs": "additionally, applied, art, attention, channel, compared, comparison, distortions, effort, extent, gain, given, intelligibility, novel, parametric, particular, perceptual, processing, promising, prototype, reached, reference, rule, seems, similar, state, still, two, unprocessed, wiener, test, investigated, scheme, condition, hypothesis, scale, slightly, whereas, advanced, support, revealed, term, three, decrease, overall, sample",
+    "group": 1,
+    "_row": "algorithm"
+  },
+  {
+    "term": "based",
+    "freq": 9,
+    "assocs": "additionally, applied, art, attention, channel, compared, comparison, distortions, effort, extent, gain, given, intelligibility, novel, parametric, particular, perceptual, processing, promising, prototype, reached, reference, rule, seems, similar, state, still, two, unprocessed, wiener, test, investigated, scheme, condition, hypothesis, scale, slightly, whereas, advanced, support, revealed, term, three, decrease, overall, sample",
+    "group": 1,
+    "_row": "based"
+  },
+  {
+    "term": "improve",
+    "freq": 9,
+    "assocs": "fourteen, minimum, single, condition, aphab, remained, abbreviated, profile, signal, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, despite, assess, patients, questionnaire, investigated, scheme, adaptive, present, provide, revealed, three",
+    "group": 1,
+    "_row": "improve"
+  },
+  {
+    "term": "determine",
+    "freq": 9,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, power, validated, modified, predicting, trade, unaided, differences, four, amplification, express, loss, involve, sensitivity, consider, term",
+    "group": 3,
+    "_row": "determine"
+  },
+  {
+    "term": "localization",
+    "freq": 10,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "localization"
+  },
+  {
+    "term": "side",
+    "freq": 10,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "side"
+  },
+  {
+    "term": "sound",
+    "freq": 10,
+    "assocs": "modified, predicting, trade, unaided, consider, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal",
+    "group": 3,
+    "_row": "sound"
+  },
+  {
+    "term": "usage",
+    "freq": 12,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, modified, predicting, trade, unaided, consider, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, limited",
+    "group": 3,
+    "_row": "usage"
+  },
+  {
+    "term": "speech",
+    "freq": 12,
+    "assocs": "condition, fourteen, minimum, single, additionally, applied, art, attention, channel, compared, comparison, distortions, effort, extent, gain, given, intelligibility, novel, parametric, particular, perceptual, processing, promising, prototype, reached, reference, rule, seems, similar, state, still, two, unprocessed, wiener, signal, best, provide, test, investigated, scheme, assess",
+    "group": 1,
+    "_row": "speech"
+  },
+  {
+    "term": "model",
+    "freq": 13,
+    "assocs": "term, additionally, applied, art, attention, channel, compared, comparison, distortions, effort, extent, gain, given, intelligibility, novel, parametric, particular, perceptual, processing, promising, prototype, reached, reference, rule, seems, similar, state, still, two, unprocessed, wiener, test, investigated, scheme, condition, hypothesis, scale, slightly, whereas, limited, advanced, support, revealed, three",
+    "group": 1,
+    "_row": "model"
+  },
+  {
+    "term": "safe",
+    "freq": 14,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "safe"
+  },
+  {
+    "term": "threshold",
+    "freq": 14,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "threshold"
+  },
+  {
+    "term": "noise",
+    "freq": 15,
+    "assocs": "condition, fourteen, minimum, single, signal, provide, assess, best, inform, adults, test, additionally, applied, art, attention, channel, compared, comparison, distortions, effort, extent, gain, given, intelligibility, novel, parametric, particular, perceptual, processing, promising, prototype, reached, reference, rule, seems, similar, state, still, two, unprocessed, wiener, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale",
+    "group": 1,
+    "_row": "noise"
+  },
+  {
+    "term": "set",
+    "freq": 15,
+    "assocs": "completed, behind, despite, inform, signal, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, participant, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, modified, predicting, trade, unaided, control, consider",
+    "group": 2,
+    "_row": "set"
+  },
+  {
+    "term": "users",
+    "freq": 15,
+    "assocs": "adults, best, assistance, technology, also, analyses, aotearoa, audiometric, classified, consequences, current, describe, discriminant, emotionally, health, implications, life, lives, ownership, poor, regarding, social, tend, understanding, worse, zealand, inform, everyday, clinical, provide, collect, impaired, factors, assess",
+    "group": 1,
+    "_row": "users"
+  },
+  {
+    "term": "perform",
+    "freq": 16,
+    "assocs": "fourteen, minimum, single, signal, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, condition, assess, adaptive, present, aphab, remained, provide, behind, despite, inform, completed, best, modified, predicting, trade, unaided",
+    "group": 2,
+    "_row": "perform"
+  },
+  {
+    "term": "output",
+    "freq": 17,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, limited, term, modified, predicting, trade, unaided, consider",
+    "group": 3,
+    "_row": "output"
+  },
+  {
+    "term": "subject",
+    "freq": 17,
+    "assocs": "analog, chronic, comprehensive, conducted, cut, distress, eleven, frequency, frequently, group, increase, khz, less, likewise, low, n, outcome, pilot, pronounced, range, seen, six, stimulated, suggests, theoretical, upper, visual, within, reduction, loudness, might, significant, however, acoustic, perceived, limited, approximately, hypothesis, observation, scale, slightly, whereas, related, decrease, months, overall, show",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "tinnitus",
+    "freq": 17,
+    "assocs": "analog, chronic, comprehensive, conducted, cut, distress, eleven, frequency, frequently, group, increase, khz, less, likewise, low, n, outcome, pilot, pronounced, range, seen, six, stimulated, suggests, theoretical, upper, visual, within, acoustic, perceived, reduction, significant, loudness, might, related, however, show, approximately, hypothesis, observation, scale, slightly, whereas, limited, decrease, months, overall",
+    "group": 1,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "spl",
+    "freq": 18,
+    "assocs": "algebraic, audiograms, b, captured, combined, consisting, day, db, decibel, delivered, equations, higher, hl, human, humes, identified, jesteadt, law, long, lowered, macrae, magnitude, mathematical, modern, mpl, occasion, occur, permanent, preserve, pressure, protect, raised, rare, relationship, subsequent, tolerance, tts, worsening, differences, four, amplification, express, loss, power, validated, involve, sensitivity, term, modified, predicting, trade, unaided, limited, consider",
+    "group": 3,
+    "_row": "spl"
+  },
+  {
+    "term": "oi",
+    "freq": 20,
+    "assocs": "ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, assess, fourteen, minimum, single, adaptive, present, aphab, remained, provide, behind, despite, inform, signal, completed, best, modified, predicting, trade, unaided, consider, months",
+    "group": 2,
+    "_row": "oi"
+  },
+  {
+    "term": "device",
+    "freq": 31,
+    "assocs": "behind, assess, ability, back, center, clinicians, cohort, compromised, confusions, contra, controlssin, counsel, deafness, enhanced, front, greatly, implementing, learning, maximize, meaningful, metric, multiple, nine, number, omnidirectional, orient, osseointegrated, poorer, prospective, rapid, rather, recipients, referral, ssd, subscale, abbreviated, profile, despite, aphab, remained, inform, provide, months, completed, modified, predicting, trade, unaided, consider, signal, fourteen, minimum, single, adaptive, present, patients, questionnaire, best",
+    "group": 2,
+    "_row": "device"
+  }
+]
