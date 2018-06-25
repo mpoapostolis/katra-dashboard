@@ -23,9 +23,13 @@ class DashBoard extends Component {
     this.state = {
       startDate: null,
       endDate: null,
-      stopWords: [],
+      stopWords: [
+        "use", "see", "used", "via", "amp", "we",
+        "us", "you", "will", "check", "can", "p", "vs", "hearing", "aid", "abstract", "objective", "conclusion",
+        "result", "results", "abstracttext"
+      ],
       stopWordValue: '',
-      fStartDate: 2010,
+      fStartDate: 2000,
       fEndDate: 2018
     };
   }
@@ -43,7 +47,7 @@ class DashBoard extends Component {
     const { stopWords } = this.state;
     const { value } = evt.currentTarget;
     if (value)
-      this.setState({ stopWords: [...stopWords, evt.currentTarget.value.toUpperCase()] });
+      this.setState({ stopWords: [...stopWords, evt.currentTarget.value] });
   };
 
   startTextMining = () => {
@@ -97,7 +101,8 @@ class DashBoard extends Component {
           <div className={modelNameClass}>Model: {modelName}</div>
           <div className={label0}>Dates:</div>
           <div className={label1}>Select Keywords:</div>
-          <div className={label2}>Stop words:</div>
+          <div className={label2}>Stop words:
+          </div>
           <div className={filters}>
             <div className={dateCont}>
               From:
@@ -133,11 +138,11 @@ class DashBoard extends Component {
           </div>
 
           <div className={chipCont}>
-            {stopWords.map((label, key) => (
-              <div key={key} className={chip}>
-                <Chip onDelete={() => this.handleDelete(label)} label={label} />
-              </div>
-            ))}
+              {stopWords.map((label, key) => (
+                <div key={key} className={chip}>
+                  <Chip onDelete={() => this.handleDelete(label)} label={label} />
+                </div>
+              ))}
           </div>
 
           <div className={textField3}>
@@ -148,6 +153,7 @@ class DashBoard extends Component {
               field={'stopWords'}
               label={'stop words'}
             />
+            <p className={styles.alert}>Please write any additional stopwords you might want to include in the current stopword list*</p>
           </div>
 
           <div className={submit}>

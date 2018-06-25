@@ -2,13 +2,13 @@ import groupBy from 'ramda/src/groupBy';
 
 const perms = [
   {
-    name: 'Dashboard',
+    name: ' ',
     permissions: 'USR',
     description:
       'Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες ',
     viewOnMenu: true,
     path: ['/'],
-    group: 'Dashboard',
+    group: 'Text Mining',
   },
 
   {
@@ -28,7 +28,7 @@ const perms = [
       'Το Lorem Ipsum είναι απλά ένα κείμενο χωρίς νόημα για τους επαγγελματίες ',
     viewOnMenu: true,
     path: ['models'],
-    group: 'Models',
+    group: 'Models Comparison',
   },
 ];
 

@@ -7,7 +7,7 @@ function Path(props) {
   const {container} = styles;
   return (
     <div className={container}>
-      <p onClick={() => push('/')}>Dashboard </p>
+      <p onClick={() => push('/')}>Text-Mining </p>
       {paths.map((e, key) => <p key={key}>{decodeURI(e)}</p>)}
     </div>
   );

@@ -4,6 +4,7 @@ const models = [
     data: ['Hearing aid usage', 'Hearing aid satisfaction'],
     factors: [
       'Environment',
+      'Noise',
       'Outdoor Activities',
       'Location',
       'Education',
@@ -38,7 +39,7 @@ const models = [
       'Temporary Threshold Shift (TTS)',
       'Sound Pressure Level',
     ],
-    factors: ['Pure Tone Audiometry', 'Hearing Aid Usage'],
+    factors: ['Pure Tone Audiometry', 'Hearing Aid Usage','Audiogram'],
   },
   {
     modelName: 'PHPDM3',

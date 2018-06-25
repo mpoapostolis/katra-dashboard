@@ -30,7 +30,6 @@ app.get("/api/reports", urlencodedParser, (req, res) => {
   const search = search_word.replace(' ', '+')
   const fileName = `${search}_${startDate}-${endDate}`
   const csvFilePath = path.join(__dirname, 'reports', model, fileName, 'corpus.csv')
-  console.log(csvFilePath)
   const imagesPaths = [1, 2, 3].map(num => path.join('/api/assets', model, fileName, `resultplots-00${num}.jpg`))
   const csv = require('csvtojson')
   csv()
