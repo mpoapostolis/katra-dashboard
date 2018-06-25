@@ -25,7 +25,7 @@ class DashBoard extends Component {
       endDate: null,
       stopWords: [],
       stopWordValue: '',
-      fStartDate: 2000,
+      fStartDate: 2010,
       fEndDate: 2018
     };
   }
@@ -68,8 +68,8 @@ class DashBoard extends Component {
       modelNameClass,
     } = styles;
     const {
-      fact_1,
-      fact_2,
+      fact_1 = "",
+      fact_2 = "",
       stopWords,
       fStartDate,
       fEndDate,
@@ -78,19 +78,19 @@ class DashBoard extends Component {
     const modelHasData = (arr) => arr.includes(fact_1);
     const range = [...Array(101).keys()].map(e => 2018 - e)
 
-    console.log(this.state)
     const filteredModels = models.filter((obj) => modelHasData(obj.data));
     const fact_2_data = uniq(flatten(pluck('factors', filteredModels)));
 
     const [model] = models.filter(
       (obj) => obj.data.includes(fact_1) && obj.factors.includes(fact_2)
     );
+    const searchWords = `${fact_1.replace(/ /g, '_')}+${fact_2.replace(/ /g, '_')}`
     let stopWordsString = ''
     stopWords.forEach(element => {
-      stopWordsString += `+${element}`
+      stopWordsString += `,${element}`
     });
     const modelName = model ? model.modelName : ' ';
-    const url = `/reports?${modelName}&${stopWordsString.slice(1)}_${fStartDate}-${fEndDate}`
+    const url = `/reports?model=${modelName}&search_word=${searchWords}&stopwords=${stopWordsString.slice(1)}&startDate=${fStartDate}&endDate=${fEndDate}`
     return (
       <div className={container}>
         <div className={fieldset}>

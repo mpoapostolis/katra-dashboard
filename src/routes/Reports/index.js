@@ -9,9 +9,11 @@ class Reports extends Component {
     }
 
     componentDidMount() {
-        const url = window.location.search.replace(/\?|&/g, '/')
+        const url = window.location.search
+        console.log(url)
         if (url)
-            fetch(`/api/reports${url}`).then(e => e.json()).then(res => this.setState({ ...res }))
+            fetch(`/api/reports${url}`).then(e => e.json()).then(res => this.setState({ ...res })).catch(e => console.log(e))
+
     }
 
     render() {
