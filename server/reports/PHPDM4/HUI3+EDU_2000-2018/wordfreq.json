@@ -1,0 +1,352 @@
+[
+  {
+    "term": "mark",
+    "freq": 14,
+    "assocs": "higher",
+    "group": 1,
+    "_row": "mark"
+  },
+  {
+    "term": "factor",
+    "freq": 14,
+    "assocs": "logistic, communities, advanced, alcohol, characteristics, dealt, drinker, moreover, none, variations, weaker, institution, selected, condition, identified, chronic, determinants",
+    "group": 1,
+    "_row": "factor"
+  },
+  {
+    "term": "care",
+    "freq": 14,
+    "assocs": "pain, intervention, arm, communication, exercise, extremity, foundations, global, guided, hundred, knee, launch, lefs, management, nine, oa, often, one, osteoarthritis, pamphlet, pass, pat, pharmacies, pharmacists, physician, placed, primarily, screening, single, undiagnosed, uniquely, western, womac, function, usual, adaptation, improve, lt, month, control, paper, attribute, confidence, interval, performance, either, mcmaster, cluster, assigned, consisted, outcome",
+    "group": 1,
+    "_row": "care"
+  },
+  {
+    "term": "variable",
+    "freq": 14,
+    "assocs": "limitations, incorporates, information, therefore, benefit, sex, defined, per, time, since, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, condition, test, less, final, error, set, range, cross, derive, fit, statistic, addition, common, ontario, available, subgroup, respect, individual, disease",
+    "group": 1,
+    "_row": "variable"
+  },
+  {
+    "term": "discrimination",
+    "freq": 14,
+    "assocs": "caution, everyday, highest, lifetime, revealed, tended, urged, experienced, men, women, white, exceeded, complex, lowest, multiple, race, black, national, research, interpretation, compute, representative, relationship, among",
+    "group": 1,
+    "_row": "discrimination"
+  },
+  {
+    "term": "clinic",
+    "freq": 15,
+    "assocs": "except, demographic, experienced, outpatient, caution, everyday, highest, lifetime, revealed, tended, urged",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "effect",
+    "freq": 15,
+    "assocs": "mixed, positive, randomized, administered, angeles, biggest, california, cataract, comhs, deviation, diego, display, entering, failure, half, heart, los, mail, mode, occurred, phone, quarter, san, scheduled, second, site, v, wisconsin, short, administration, qwb, sa, instrument, first, telephone, follow, form, response, component, program, yielding, post, repeated, universal, e, lifestyle, ahead, become, dse, feeling, ft, ili, intensive, long, look, multisite, thereafter, thermometer, unclear, standard",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "predict",
+    "freq": 15,
+    "assocs": "akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, since, derive, error, defined, per, time, final, set, limitations, fit, subgroup, incorporates, information, therefore, addition, common, ontario, available, benefit, sex, range, valid, cross, test, condition, statistic, valuation, less, treatment, cohort, squared, term, consider, provide, respect, examine, two",
+    "group": 2,
+    "_row": "predict"
+  },
+  {
+    "term": "group",
+    "freq": 15,
+    "assocs": "either, cases, improve, month, intervention, assigned, pain, bonferroni, categorized, changes, contrasts, correction, gains, hoc, idea, interchangeability, possible, produce, retrospectively, sensitivity, tools, arm, communication, exercise, extremity, foundations, global, guided, hundred, knee, launch, lefs, management, nine, oa, often, one, osteoarthritis, pamphlet, pass, pat, pharmacies, pharmacists, physician, placed, primarily, screening, single, undiagnosed, uniquely, western, womac, usual, scale, function",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 16,
+    "assocs": "agreement, algorithms, altman, approximately, bland, capacity, cardiovascular, cities, descriptive, eqd, found, hypertension, influence, italian, items, nonparametric, numerous, obtained, particular, quantile, quite, sfd, spearman, whilst, socio, morbidity, coefficient, especially, way, disease, demographic, appropriate, bmi, similar, investigate, aim, attending, overall, practice, musculoskeletal, mass, pattern",
+    "group": 1,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "estimate",
+    "freq": 16,
+    "assocs": "healthier, joint, jcush, countries, level, canada, however, americans, comprehensive, continuous, disparities, entire, quintile, stratification, residence, participant, cross, account",
+    "group": 1,
+    "_row": "estimate"
+  },
+  {
+    "term": "include",
+    "freq": 16,
+    "assocs": "respect, individual, adaptation",
+    "group": 1,
+    "_row": "include"
+  },
+  {
+    "term": "based",
+    "freq": 17,
+    "assocs": "bootstrap, convenience, convergent, latino, map, mcs, minority, monitor, new, onto, original, pcs, permit, predominantly, profile, separate, widely, york, inter, correlated, low, design, sectional",
+    "group": 3,
+    "_row": "based"
+  },
+  {
+    "term": "year",
+    "freq": 17,
+    "assocs": "fit, addition, statistic, valuation, cohort, range, final, arrest, believe, bystander, cardiac, cis, citizen, contacted, cpr, dead, discharge, emphasize, ever, gt, hosmer, hospital, iii, independent, initiated, interquartile, lemeshow, local, median, odds, optimizing, perfect, prehospital, promote, prospective, readiness, resuscitation, survival, survivors, vigorously, error, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, term, since, time, available, defined, per",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "reported",
+    "freq": 18,
+    "assocs": "non, experienced, several, younger, aboriginal, alberta, aspects, barriers, compound, confounders, constitute, contribute, disappeared, discussion, duration, enhancement, keeweetinok, lakes, longer, northern, peace, perceived, portion, quotaboriginalityquot, rand, regions, rural, total, uniformly, caution, everyday, highest, lifetime, revealed, tended, urged, black, women, relationship, men",
+    "group": 1,
+    "_row": "reported"
+  },
+  {
+    "term": "sample",
+    "freq": 19,
+    "assocs": "selected, advanced, alcohol, characteristics, dealt, drinker, institution, moreover, none, variations, weaker, communities, subjective, dwelling, number, chronic",
+    "group": 1,
+    "_row": "sample"
+  },
+  {
+    "term": "comparability",
+    "freq": 19,
+    "assocs": "canada, elderly, financing, full, hale, insurance, organization, span, tables, expectancy, inequality, countries, access, account, mass, united",
+    "group": 1,
+    "_row": "comparability"
+  },
+  {
+    "term": "related",
+    "freq": 20,
+    "assocs": "plt, academic, ambulation, bilateral, bvd, caloric, causes, compensation, days, deficiency, dhi, diagnosed, dizziness, dysfunction, emergency, emotion, falls, fifteen, furthermore, handicap, imbalance, imposes, incurred, lost, missed, presence, productivity, prosthetic, relevance, restoration, room, underscore, unilateral, uvd, vestibular, vision, work, decrease, increased, participant, burden, visit, specific, however, potential, economic, impact, frequency, outpatient, healthier, observed",
+    "group": 1,
+    "_row": "related"
+  },
+  {
+    "term": "gender",
+    "freq": 20,
+    "assocs": "differential, states, meps, nhms, panel, prior, remove, socioeconomic, usveq, within, without, sociodemographic, marital, except, united, men, purpose, joint, representative",
+    "group": 1,
+    "_row": "gender"
+  },
+  {
+    "term": "self",
+    "freq": 20,
+    "assocs": "non, household, younger, several, female, strong, bias, captured, contextual, distributed, haq, least, mortality, neighbourhood, poorer, predictor, proximate, ra, raqol, rheumatoid, srh, stage, tsls, unemployment, aboriginal, alberta, aspects, barriers, compound, confounders, constitute, contribute, disappeared, discussion, duration, enhancement, keeweetinok, lakes, longer, northern, peace, perceived, portion, quotaboriginalityquot, rand, regions, rural, total, uniformly, generic, high, school, ses",
+    "group": 1,
+    "_row": "self"
+  },
+  {
+    "term": "data",
+    "freq": 21,
+    "assocs": "available, set, subgroup, consider, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, time, representative, since, addition, error, final, defined, per",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "income",
+    "freq": 21,
+    "assocs": "inter, ses, bias, captured, contextual, distributed, haq, least, mortality, neighbourhood, poorer, predictor, proximate, ra, raqol, rheumatoid, srh, stage, tsls, unemployment, several, old, bootstrap, arthritis, strong, lower, even, household",
+    "group": 3,
+    "_row": "income"
+  },
+  {
+    "term": "method",
+    "freq": 21,
+    "assocs": "bmi, hrql, choice, dimensions, eqwb, generate, height, icc, identical, incontinence, loss, need, ui, calculated, multivariable, episode, weight, across, correlated, intraclass, highlight, sd, enrolled, magnitude",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "eq",
+    "freq": 22,
+    "assocs": "euroqol, convenience, convergent, latino, map, mcs, minority, monitor, new, onto, original, pcs, permit, predominantly, profile, separate, widely, york, low, respondent, component, pilot, program, yielding, construct, variance, bootstrap",
+    "group": 3,
+    "_row": "eq"
+  },
+  {
+    "term": "regression",
+    "freq": 22,
+    "assocs": "squared, relationship, available, derive, set, condition, bias, captured, contextual, distributed, haq, least, mortality, neighbourhood, poorer, predictor, proximate, ra, raqol, rheumatoid, srh, stage, tsls, unemployment, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, valid, independent, poor, ses, cross, since",
+    "group": 1,
+    "_row": "regression"
+  },
+  {
+    "term": "survey",
+    "freq": 22,
+    "assocs": "marital, explain, joint, meps, nhms, panel, prior, remove, socioeconomic, usveq, within, analyzed, average, jcush",
+    "group": 1,
+    "_row": "survey"
+  },
+  {
+    "term": "status",
+    "freq": 22,
+    "assocs": "marital, non, younger, dwelling, number",
+    "group": 1,
+    "_row": "status"
+  },
+  {
+    "term": "adjust",
+    "freq": 23,
+    "assocs": "sociodemographic, meps, nhms, panel, prior, remove, socioeconomic, usveq, within, purpose",
+    "group": 1,
+    "_row": "adjust"
+  },
+  {
+    "term": "education",
+    "freq": 24,
+    "assocs": "lower, inter, analyzed, average, cluster, dwelling, number, americans, comprehensive, continuous, disparities, entire, quintile, stratification",
+    "group": 1,
+    "_row": "education"
+  },
+  {
+    "term": "population",
+    "freq": 25,
+    "assocs": "countries, account, canadian, canada, attainment, ethnic, exactly, hispanic, home, hypotheses, multi, norms, oversampling, pearsons, priori, r, racial, s, systematically, target, u, americans, comprehensive, continuous, disparities, entire, quintile, stratification, respondent",
+    "group": 1,
+    "_row": "population"
+  },
+  {
+    "term": "assess",
+    "freq": 25,
+    "assocs": "error, subgroup, time, test, incorporates, since, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, range, defined, per, available, derive, squared, final, cohort, fit, information, therefore, addition, common, ontario, benefit, sex, limitations, set, respect, valid, condition, greater, consider, term, valuation, less",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "hrqol",
+    "freq": 25,
+    "assocs": "positive, major, administration, physical, randomized, qwb, sa, e, instrument, follow, angeles, biggest, california, cataract, comhs, deviation, diego, display, entering, failure, half, heart, los, mail, mode, occurred, phone, quarter, san, scheduled, second, site, v, wisconsin, ameliorate, composite, decline, depression, diagnostic, diminished, hazard, hours, international, lessened, longitudinal, mde, metabolic, nphs, preventive, proportional, recreational, seen, sixteen, source, transition, active, first, expenditure, reduced, telephone, mixed, lifestyle",
+    "group": 1,
+    "_row": "hrqol"
+  },
+  {
+    "term": "patient",
+    "freq": 26,
+    "assocs": "specific, decrease, academic, ambulation, bilateral, bvd, caloric, causes, compensation, days, deficiency, dhi, diagnosed, dizziness, dysfunction, emergency, emotion, falls, fifteen, furthermore, handicap, imbalance, imposes, incurred, lost, missed, presence, productivity, prosthetic, relevance, restoration, room, underscore, unilateral, uvd, vestibular, vision, work, burden, economic, visit, annual, outpatient, plt",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "associated",
+    "freq": 26,
+    "assocs": "determinants, risk, poor, communities, negative, linear, advanced, alcohol, characteristics, dealt, drinker, moreover, none, variations, weaker, institution, investigate, chronic",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "significant",
+    "freq": 26,
+    "assocs": "greater, decrease, observed",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "age",
+    "freq": 27,
+    "assocs": "condition, less, subgroup, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, fit, incorporates, time, error, defined, per, since, set, range, limitations, information, therefore, addition, final, benefit, sex, test, derive, common, ontario, available, statistic, valuation, consider, individual, cohort",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "mean",
+    "freq": 27,
+    "assocs": "incorporates, time, respect, defined, per, since, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, addition, benefit, sex, term, derive, error, subgroup, set, final, limitations, range, test, cohort, consider, fit, information, therefore, common, ontario, available, cross, examine, valuation, treatment",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "studied",
+    "freq": 29,
+    "assocs": "ratio, ameliorate, composite, decline, depression, diagnostic, diminished, hazard, hours, international, lessened, longitudinal, mde, metabolic, nphs, preventive, proportional, recreational, seen, sixteen, source, transition, physical, representative, expenditure, active, cohort",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "preference",
+    "freq": 30,
+    "assocs": "derive, error, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, since, cross, valid, time, term, defined, per, limitations, incorporates, final, set, squared, subgroup, fit, range, information, therefore, addition, common, ontario, available, benefit, sex, treatment, test, valuation, cohort, condition, level, statistic, less",
+    "group": 2,
+    "_row": "preference"
+  },
+  {
+    "term": "sf",
+    "freq": 31,
+    "assocs": "correlated, calculated, weight, choice, dimensions, eqwb, generate, height, icc, identical, incontinence, loss, need, ui, cost, three, bmi, enrolled, magnitude, form, coefficient, analysed",
+    "group": 3,
+    "_row": "sf"
+  },
+  {
+    "term": "life",
+    "freq": 36,
+    "assocs": "elderly, financing, full, hale, insurance, organization, span, tables, expectancy, social, canada, inequality",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "model",
+    "freq": 36,
+    "assocs": "akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, time, since, defined, per, error, final, available, derive, limitations, incorporates, benefit, sex, subgroup, fit, information, therefore, addition, common, ontario, range, set, test, statistic, treatment, cross, condition, cohort, valuation, less, term, valid, squared, consider, respect, provide, two, examine, may",
+    "group": 2,
+    "_row": "model"
+  },
+  {
+    "term": "index",
+    "freq": 38,
+    "assocs": "convenience, convergent, latino, map, mcs, minority, monitor, new, onto, original, pcs, permit, predominantly, profile, separate, widely, york, low, respondent, bootstrap, attending, center, confidence, interval, performance",
+    "group": 3,
+    "_row": "index"
+  },
+  {
+    "term": "differ",
+    "freq": 43,
+    "assocs": "sociodemographic, purpose, meps, nhms, panel, prior, remove, socioeconomic, usveq, within, states, differential",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "utilities",
+    "freq": 44,
+    "assocs": "consider, set, subgroup, caution, everyday, highest, lifetime, revealed, tended, urged, relationship, experienced, defined, per, benefit, sex, examine, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, compute, time, since, error, multiple, derive, fit, incorporates, common, ontario",
+    "group": 1,
+    "_row": "utilities"
+  },
+  {
+    "term": "d",
+    "freq": 47,
+    "assocs": "cases, bonferroni, categorized, changes, contrasts, correction, gains, hoc, idea, interchangeability, possible, produce, retrospectively, sensitivity, tools, correlated, euroqol, construct, either, complete, post, repeated, variability",
+    "group": 3,
+    "_row": "d"
+  },
+  {
+    "term": "measure",
+    "freq": 57,
+    "assocs": "relationship, squared, generic, bias, captured, contextual, distributed, haq, least, mortality, neighbourhood, poorer, predictor, proximate, ra, raqol, rheumatoid, srh, stage, tsls, unemployment, several",
+    "group": 3,
+    "_row": "measure"
+  },
+  {
+    "term": "score",
+    "freq": 68,
+    "assocs": "information, therefore, since, limitations, error, common, ontario, defined, per, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, range, benefit, sex, set, derive, time, subgroup, final, valid, fit, respect, incorporates, addition, treatment, provide, consider, cross, valuation, test, less, available, condition, term",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "hui",
+    "freq": 73,
+    "assocs": "respondent, intraclass",
+    "group": 3,
+    "_row": "hui"
+  },
+  {
+    "term": "health",
+    "freq": 128,
+    "assocs": "cross, derive, subgroup, limitations, addition, level, akaike, automated, backwards, build, cd, cells, count, criterion, develop, diagnosis, eliminated, established, hiv, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, stepwise, technology, tenfold, final, error, defined, per, set, countries, less, americans, comprehensive, continuous, disparities, entire, quintile, stratification, since, dwelling, number, benefit, sex, time, condition",
+    "group": 2,
+    "_row": "health"
+  }
+]

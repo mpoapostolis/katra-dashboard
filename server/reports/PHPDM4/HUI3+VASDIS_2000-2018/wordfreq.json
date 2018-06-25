@@ -1,0 +1,352 @@
+[
+  {
+    "term": "state",
+    "freq": 7,
+    "assocs": "valuable, agree, blind, comparisons, consequence, cost, define, deployed, disagreement, discharge, divergence, double, enrolled, found, generate, greatest, head, hypothesis, iii, indicate, interchangeable, intervention, known, levels, line, might, multinational, needed, nevertheless, nonlinear, percutaneous, phase, present, seemed, thereafter, undergoing, discriminant, test, hospital, trial, descriptive, status, two, relationship, findings, part, system",
+    "group": 1,
+    "_row": "state"
+  },
+  {
+    "term": "hrqol",
+    "freq": 8,
+    "assocs": "analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, improvement, scale, large, generic, preference, higher, year",
+    "group": 1,
+    "_row": "hrqol"
+  },
+  {
+    "term": "significant",
+    "freq": 8,
+    "assocs": "demonstrate, ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, majority, mobility, qol, rand, societal, tradeoff, treated, usual, blood, conducted, eastern, hypotheses, interviewed, located, milder, nigeria, nigerian, pressure, priori, seeks, south, raters",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "conditionally",
+    "freq": 8,
+    "assocs": "analyzed, camos, chronic, copd, decrement, fashion, gender, mellitus, model, multicentre, nphs, obstructive, previously, recruited, regardless, regional, seen, age, determine, findings, canadian, impact, including, n, arthritis, national, several, year, r, presence, questionnaire",
+    "group": 1,
+    "_row": "conditionally"
+  },
+  {
+    "term": "heart",
+    "freq": 8,
+    "assocs": "arthritis, canadian, impact, n, comorbid, absence, approximately, burden, collected, combination, controls, covariance, illness, individuals, people, possible, respondents, single, triplets, overall, national, deficit, survey, lower, presence, alone",
+    "group": 1,
+    "_row": "heart"
+  },
+  {
+    "term": "medical",
+    "freq": 8,
+    "assocs": "age, analyzed, camos, chronic, copd, decrement, fashion, gender, mellitus, model, multicentre, nphs, obstructive, previously, recruited, regardless, regional, seen, national, determine, adjusted, canadian, impact, n, except, questionnaire, survey, arthritis, findings, including, several, presence, random",
+    "group": 1,
+    "_row": "medical"
+  },
+  {
+    "term": "osteoporosis",
+    "freq": 8,
+    "assocs": "analyzed, camos, chronic, copd, decrement, fashion, gender, mellitus, model, multicentre, nphs, obstructive, previously, recruited, regardless, regional, seen, age, determine, findings, canadian, impact, including, n, several, national, adjusted, research, year, r, plt, presence, questionnaire, arthritis",
+    "group": 1,
+    "_row": "osteoporosis"
+  },
+  {
+    "term": "symptoms",
+    "freq": 8,
+    "assocs": "affect, aim, behalf, dyads, functioning, identified, interaction, often, overestimated, perceptions, poststroke, role, serve, settings, social, underestimated, vitality, raters, examine, multivariate, regression, short, bias, associated, experienced, center, epidemiologic, report",
+    "group": 2,
+    "_row": "symptoms"
+  },
+  {
+    "term": "chd",
+    "freq": 8,
+    "assocs": "adults, capture, chest, cvd, demographic, dialed, digit, failure, halex, larger, mcs, pcs, qwb, representative, s, sa, telephone, u, unadjusted, v, versus, without, yielding, except, generic, specific, construct, cross, sectional, variables, item, analyses, current, three, similar, national, adjusted, clinical",
+    "group": 1,
+    "_row": "chd"
+  },
+  {
+    "term": "estimate",
+    "freq": 9,
+    "assocs": "trial, paired, may, approaches, better, cardiac, casts, challenge, computed, concepts, death, defibrillator, derived, developing, distributions, doubt, due, exists, gold, histogram, implantable, increased, inspected, instrument, intra, multi, new, pearson, permits, quotbridgingquot, risk, scatterplot, sudden, understanding, whether, widely, transformation, within, test, background, point, subject, valuable, higher, also, classification, form",
+    "group": 1,
+    "_row": "estimate"
+  },
+  {
+    "term": "baseline",
+    "freq": 9,
+    "assocs": "ability, acceptable, alternative, attenuate, components, exclude, fair, generalizability, greater, gtor, imputation, indirect, kappa, limited, missing, obtained, one, poor, statistical, suboptimal, support, weeks, weighted, observable, icc, informal, reliable, domains, provide, systematic, background, point, subject, although, cohort, longitudinal, may, suggest, hospital, purpose",
+    "group": 1,
+    "_row": "baseline"
+  },
+  {
+    "term": "ci",
+    "freq": 9,
+    "assocs": "classification, absence, approximately, burden, collected, combination, controls, covariance, illness, individuals, people, possible, respondents, single, triplets, comorbid, overall, attribute, approaches, better, cardiac, casts, challenge, computed, concepts, death, defibrillator, derived, developing, distributions, doubt, due, exists, gold, histogram, implantable, increased, inspected, instrument, intra, multi, new, pearson, permits, quotbridgingquot, risk, scatterplot, sudden, understanding, whether, widely, arthritis, lower",
+    "group": 1,
+    "_row": "ci"
+  },
+  {
+    "term": "participants",
+    "freq": 9,
+    "assocs": "confidence, establish, interval, several, blood, conducted, eastern, hypotheses, interviewed, located, milder, nigeria, nigerian, pressure, priori, seeks, south, variables, alone, construct, t, among, clinical, descriptive, deficit",
+    "group": 1,
+    "_row": "participants"
+  },
+  {
+    "term": "responses",
+    "freq": 9,
+    "assocs": "analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, test, administered, scale, large, selected, size, terms, may, agree, blind, comparisons, consequence, cost, define, deployed, disagreement, discharge, divergence, double, enrolled, found, generate, greatest, head, hypothesis, iii, indicate, interchangeable, intervention, known, levels, line, might, multinational, needed, nevertheless, nonlinear, percutaneous, phase, present, seemed, thereafter, undergoing, improvement, discriminant",
+    "group": 1,
+    "_row": "responses"
+  },
+  {
+    "term": "valid",
+    "freq": 9,
+    "assocs": "two, descriptive, blood, conducted, eastern, hypotheses, interviewed, located, milder, nigeria, nigerian, pressure, priori, seeks, south, valuable, hospital, among, high, test, clinical, status, interval, system, discriminant, confidence, establish, variables",
+    "group": 1,
+    "_row": "valid"
+  },
+  {
+    "term": "disease",
+    "freq": 9,
+    "assocs": "canadian, impact, n, arthritis, presence, analyzed, camos, chronic, copd, decrement, fashion, gender, mellitus, model, multicentre, nphs, obstructive, previously, recruited, regardless, regional, seen, absence, approximately, burden, collected, combination, controls, covariance, illness, individuals, people, possible, respondents, single, triplets, lower, age, comorbid, overall, national, findings, part, several, deficit",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "hrql",
+    "freq": 9,
+    "assocs": "considerably, associated, experienced, absence, approximately, burden, collected, combination, controls, covariance, illness, individuals, people, possible, respondents, single, triplets, comorbid, overall, domains, systematic, bias, arthritis, presence",
+    "group": 1,
+    "_row": "hrql"
+  },
+  {
+    "term": "diabetes",
+    "freq": 9,
+    "assocs": "absence, approximately, burden, collected, combination, controls, covariance, illness, individuals, people, possible, respondents, single, triplets, arthritis, comorbid, overall, canadian, impact, n, lower, presence, part, considerably, associated, deficit, experienced, survey",
+    "group": 1,
+    "_row": "diabetes"
+  },
+  {
+    "term": "hypertension",
+    "freq": 9,
+    "assocs": "blood, conducted, eastern, hypotheses, interviewed, located, milder, nigeria, nigerian, pressure, priori, seeks, south, confidence, establish, variables, interval, alone, construct, among, several, t, clinical, descriptive, deficit, also, two, cross, sectional",
+    "group": 1,
+    "_row": "hypertension"
+  },
+  {
+    "term": "life",
+    "freq": 10,
+    "assocs": "year, follow, effect, scale, demonstrate, gt, preference, improvement, ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, majority, mobility, qol, rand, societal, tradeoff, treated, usual, large, analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "lt",
+    "freq": 10,
+    "assocs": "high, total, ceiling, comprehensive, convenience, floor, global, highest, ihd, language, macnew, males, outpatients, practicality, properties, proved, psychometric, rho, since, spearmans, thai, translate, version, worsened, activities, moderate, range, ischemic, current, three, demonstrate, self, among, sample, two",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "mark",
+    "freq": 10,
+    "assocs": "higher, also, approaches, better, cardiac, casts, challenge, classification, computed, concepts, death, defibrillator, derived, developing, distributions, doubt, due, exists, gold, histogram, implantable, increased, inspected, instrument, intra, multi, new, pearson, permits, quotbridgingquot, risk, scatterplot, sudden, understanding, whether, widely, within, large, analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual",
+    "group": 1,
+    "_row": "mark"
+  },
+  {
+    "term": "related",
+    "freq": 10,
+    "assocs": "canadian, impact, n, arthritis, presence, overall, analyzed, camos, chronic, copd, decrement, determine, fashion, gender, mellitus, model, multicentre, nphs, obstructive, previously, recruited, regardless, regional, seen, absence, approximately, burden, collected, combination, controls, covariance, illness, individuals, people, possible, respondents, single, triplets",
+    "group": 1,
+    "_row": "related"
+  },
+  {
+    "term": "agreement",
+    "freq": 10,
+    "assocs": "icc, background, point, subject, reliable, ability, acceptable, alternative, attenuate, components, exclude, fair, generalizability, greater, gtor, imputation, indirect, kappa, limited, missing, obtained, one, poor, statistical, suboptimal, support, weeks, weighted, domains, systematic, within, suggest, provide, bias, informal, purpose, observable, may, although, cohort, considerably, ischemic, longitudinal",
+    "group": 1,
+    "_row": "agreement"
+  },
+  {
+    "term": "treatment",
+    "freq": 11,
+    "assocs": "g, gamble, published, claudication, however, intermittent, revascularization, showed, respectively, e, ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, majority, mobility, qol, rand, societal, tradeoff, treated, usual, time, standard, algorithms, authors, care, economic, evaluation, good, less, linear, lowest, repeated, univariate, variance",
+    "group": 1,
+    "_row": "treatment"
+  },
+  {
+    "term": "population",
+    "freq": 11,
+    "assocs": "confidence, establish, alone, lower, descriptive, several, deficit, blood, conducted, eastern, hypotheses, interviewed, located, milder, nigeria, nigerian, pressure, priori, seeks, south, variables, interval, clinical, construct",
+    "group": 1,
+    "_row": "population"
+  },
+  {
+    "term": "depressed",
+    "freq": 11,
+    "assocs": "affect, aim, behalf, dyads, functioning, identified, interaction, often, overestimated, perceptions, poststroke, role, serve, settings, social, underestimated, vitality, raters, examine, center, epidemiologic, multivariate, regression, short, bias, associated, experienced, report, design, addition, plt, presence",
+    "group": 2,
+    "_row": "depressed"
+  },
+  {
+    "term": "group",
+    "freq": 12,
+    "assocs": "adults, capture, chest, cvd, demographic, dialed, digit, failure, halex, larger, mcs, pcs, qwb, representative, s, sa, telephone, u, unadjusted, v, versus, without, yielding, generic, specific, except, current, three, construct, cross, sectional, variables, item, analyses, national, similar, adjusted, sample, questionnaire",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "correlated",
+    "freq": 14,
+    "assocs": "higher, paired, scale, approaches, better, cardiac, casts, challenge, computed, concepts, death, defibrillator, derived, developing, distributions, doubt, due, exists, gold, histogram, implantable, increased, inspected, instrument, intra, multi, new, pearson, permits, quotbridgingquot, risk, scatterplot, sudden, understanding, whether, widely, complete, dimension, available, class, transformation, within, coefficient, also",
+    "group": 1,
+    "_row": "correlated"
+  },
+  {
+    "term": "mean",
+    "freq": 14,
+    "assocs": "respectively, claudication, however, intermittent, revascularization, showed, dimension, g, gamble, published, standard, ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, majority, mobility, qol, rand, societal, tradeoff, treated, usual, time",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "caregiver",
+    "freq": 14,
+    "assocs": "affect, aim, behalf, dyads, functioning, identified, interaction, often, overestimated, perceptions, poststroke, role, serve, settings, social, underestimated, vitality, raters, examine, bias, multivariate, regression, short, associated, experienced, center, epidemiologic, report, addition, plt, presence, design",
+    "group": 2,
+    "_row": "caregiver"
+  },
+  {
+    "term": "stroke",
+    "freq": 14,
+    "assocs": "domains, systematic, bias, considerably, ability, acceptable, alternative, attenuate, components, exclude, fair, generalizability, greater, gtor, imputation, indirect, kappa, limited, missing, obtained, one, poor, statistical, suboptimal, support, weeks, weighted, suggest, provide, examine, informal, general, purpose, although, cohort, longitudinal, associated, experienced",
+    "group": 1,
+    "_row": "stroke"
+  },
+  {
+    "term": "change",
+    "freq": 15,
+    "assocs": "preference, analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, improvement, although, cohort, longitudinal, large, scale, follow, year, including, general",
+    "group": 1,
+    "_row": "change"
+  },
+  {
+    "term": "month",
+    "freq": 15,
+    "assocs": "claudication, however, intermittent, revascularization, showed, ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, majority, mobility, qol, rand, societal, tradeoff, treated, usual, follow, preference, demonstrate, gt, research, g, gamble, published, time, intraclass, ability, acceptable, alternative, attenuate, components, exclude, fair, generalizability, greater, gtor, imputation, indirect, kappa, limited, missing, obtained, one, poor, statistical, suboptimal, support, weeks, weighted",
+    "group": 1,
+    "_row": "month"
+  },
+  {
+    "term": "assess",
+    "freq": 16,
+    "assocs": "ability, acceptable, alternative, attenuate, components, exclude, fair, generalizability, greater, gtor, imputation, indirect, kappa, limited, missing, obtained, one, poor, statistical, suboptimal, support, weeks, weighted, suggest, domains, systematic, icc, reliable, considerably, provide, informal, observable, purpose, background, point, subject, although, bias, cohort, ischemic, longitudinal, general",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "based",
+    "freq": 17,
+    "assocs": "analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, preference, improvement, large, although, cohort, longitudinal, paired, scale, general, including, higher, gain",
+    "group": 1,
+    "_row": "based"
+  },
+  {
+    "term": "pain",
+    "freq": 18,
+    "assocs": "affect, aim, behalf, dyads, functioning, identified, interaction, often, overestimated, perceptions, poststroke, role, serve, settings, social, underestimated, vitality, raters, examine, multivariate, regression, short, bias, associated, experienced, center, epidemiologic, report, addition",
+    "group": 2,
+    "_row": "pain"
+  },
+  {
+    "term": "comparable",
+    "freq": 20,
+    "assocs": "findings, r",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "studied",
+    "freq": 20,
+    "assocs": "center, epidemiologic, including, analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, design, scale",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "index",
+    "freq": 22,
+    "assocs": "analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, large, generic, preference, although, cohort, longitudinal, scale, improvement, administered, including, center, epidemiologic, selected, size, terms, general",
+    "group": 1,
+    "_row": "index"
+  },
+  {
+    "term": "differ",
+    "freq": 23,
+    "assocs": "trial, valuable, approaches, better, cardiac, casts, challenge, computed, concepts, death, defibrillator, derived, developing, distributions, doubt, due, exists, gold, histogram, implantable, increased, inspected, instrument, intra, multi, new, pearson, permits, quotbridgingquot, risk, scatterplot, sudden, understanding, whether, widely, form, methods",
+    "group": 3,
+    "_row": "differ"
+  },
+  {
+    "term": "eq",
+    "freq": 23,
+    "assocs": "ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, majority, mobility, qol, rand, societal, tradeoff, treated, usual, effect, follow, improvement, higher, year, preference, claudication, however, intermittent, revascularization, showed, scale, demonstrate, gt, activities, item",
+    "group": 1,
+    "_row": "eq"
+  },
+  {
+    "term": "measure",
+    "freq": 25,
+    "assocs": "may, higher, scale, agree, blind, comparisons, consequence, cost, define, deployed, disagreement, discharge, divergence, double, enrolled, found, generate, greatest, head, hypothesis, iii, indicate, interchangeable, intervention, known, levels, line, might, multinational, needed, nevertheless, nonlinear, percutaneous, phase, present, seemed, thereafter, undergoing, analogue, assist, barthel, categorized, caution, ces, choice, context, depend, eight, expected, five, goals, modified, mrs, rankin, stable, strongly, subtle, twice, variants, vas, visual, trial, test",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "sf",
+    "freq": 31,
+    "assocs": "transformation, paired, algorithms, authors, care, economic, evaluation, good, less, linear, lowest, repeated, univariate, variance, gain, e, standard, random, approaches, better, cardiac, casts, challenge, computed, concepts, death, defibrillator, derived, developing, distributions, doubt, due, exists, gold, histogram, implantable, increased, inspected, instrument, intra, multi, new, pearson, permits, quotbridgingquot, risk, scatterplot, sudden, understanding, whether, widely, trial, test",
+    "group": 3,
+    "_row": "sf"
+  },
+  {
+    "term": "health",
+    "freq": 36,
+    "assocs": "discriminant, valuable, agree, blind, comparisons, consequence, cost, define, deployed, disagreement, discharge, divergence, double, enrolled, found, generate, greatest, head, hypothesis, iii, indicate, interchangeable, intervention, known, levels, line, might, multinational, needed, nevertheless, nonlinear, percutaneous, phase, present, seemed, thereafter, undergoing, trial, status, test, two, relationship, system, hospital, descriptive, findings, part, coefficient",
+    "group": 3,
+    "_row": "health"
+  },
+  {
+    "term": "d",
+    "freq": 38,
+    "assocs": "higher, dimension, scale, ambulation, aware, calculated, clinicians, discomfort, euroqol, formulas, improvement, majority, mobility, qol, rand, societal, tradeoff, treated, usual, addition",
+    "group": 3,
+    "_row": "d"
+  },
+  {
+    "term": "patient",
+    "freq": 39,
+    "assocs": "examine, bias, raters, affect, aim, behalf, dyads, functioning, identified, interaction, often, overestimated, perceptions, poststroke, role, serve, settings, social, underestimated, vitality, domains, systematic, suggest, may",
+    "group": 3,
+    "_row": "patient"
+  },
+  {
+    "term": "score",
+    "freq": 44,
+    "assocs": "higher, within, dimension, scale, background, point, subject, icc",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "utilities",
+    "freq": 44,
+    "assocs": "algorithms, authors, care, economic, evaluation, good, less, linear, lowest, repeated, univariate, variance, transformation, e, paired, gain, respectively, standard, random, moderate, range",
+    "group": 3,
+    "_row": "utilities"
+  },
+  {
+    "term": "hui",
+    "freq": 72,
+    "assocs": "complete, moderate, range, e, gain, respectively, g, gamble, published, algorithms, authors, care, economic, evaluation, good, less, linear, lowest, repeated, univariate, variance, paired, improvement, total, claudication, however, intermittent, revascularization, showed",
+    "group": 3,
+    "_row": "hui"
+  }
+]

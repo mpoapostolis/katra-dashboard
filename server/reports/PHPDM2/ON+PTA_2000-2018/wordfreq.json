@@ -1,0 +1,352 @@
+[
+  {
+    "term": "show",
+    "freq": 122,
+    "assocs": "",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "individual",
+    "freq": 122,
+    "assocs": "august, brain, constellation, convergence, cuba, diplomatic, dynamic, emanating, fourteen, government, havana, hotel, late, movements, networks, neuroimaging, neuropsychological, ocular, oculomotor, pharmacologic, phenomena, rehabilitation, smooth, static, undetermined, vestibulo, persistent, neurological, sensori, cognitive, sustain, headache, direct, widespread, audible, began, series, unknown, pursuit, saccades, resembles, balance, serve, dysfunction, n, distinct, visual, graduate, held, place, retrospective, assigned, home",
+    "group": 1,
+    "_row": "individual"
+  },
+  {
+    "term": "sound",
+    "freq": 124,
+    "assocs": "healthcare, obstetrics, precise",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "prevalence",
+    "freq": 125,
+    "assocs": "april, asian, cycle, mexican, noninstitutionalized, rounds, unadjusted, sex, race, hispanic, ci, million, ethnicity, june, past, growing, demographic, delayed",
+    "group": 1,
+    "_row": "prevalence"
+  },
+  {
+    "term": "object",
+    "freq": 133,
+    "assocs": "",
+    "group": 1,
+    "_row": "object"
+  },
+  {
+    "term": "data",
+    "freq": 133,
+    "assocs": "",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "relate",
+    "freq": 136,
+    "assocs": "",
+    "group": 1,
+    "_row": "relate"
+  },
+  {
+    "term": "factor",
+    "freq": 138,
+    "assocs": "survey, national, nutrition",
+    "group": 2,
+    "_row": "factor"
+  },
+  {
+    "term": "examination",
+    "freq": 138,
+    "assocs": "",
+    "group": 1,
+    "_row": "examination"
+  },
+  {
+    "term": "populacji",
+    "freq": 140,
+    "assocs": "unscreened",
+    "group": 1,
+    "_row": "populacji"
+  },
+  {
+    "term": "hz",
+    "freq": 140,
+    "assocs": "ale, analiza, audiometrii, badane, bez, bezporednio, bya, byy, cinienia, cinieniem, czynnik, czynnikami, diastolic, dodatkowych, dodatkowymi, dziaania, dziennym, ekspozycji, furniture, grupie, haas, haasem, haasu, hg, ich, istotnie, jego, jest, kontakcie, kontaktu, krwi, kwestionariuszowe, lat, meblarskiego, mebli, naraenia, nice, niepalcych, niszym, obserwowano, ocen, opracowywania, organiczne, organicznymi, palcych, palenia, papieros, pn, podczas, podgrupach, podstawie, podwyszonego, por, potwierdzaj, poza, pracoway, pracownik, produkcji, progami, progi, przekracza, przeprowadzono, przewidywanych, przewidywanymi, przez, przypadku, rozkurczowym, rozpuszczalnikami, rozpuszczalniki, ryzyka, rzeczywiste, spowodowanego, stanu, statystyczne, suchu, szacowania, tonalnej, ttniczego, typowe, ubytki, uszkodzenia, uwzgldnianie, uwzgldnieniem, warunkach, wedug, wiksze, wnano, wnoczesnej, wszystkich, ww, wysokoczstotliwociowe, wystpowania, wyszym, wyznaczonymi, zaamki, zakadu, zaobserwowano, zastosowaniem, zatrudnionych, zawodowego, zblione, mm, czstotliwoci, wieku",
+    "group": 1,
+    "_row": "hz"
+  },
+  {
+    "term": "among",
+    "freq": 142,
+    "assocs": "",
+    "group": 1,
+    "_row": "among"
+  },
+  {
+    "term": "work",
+    "freq": 150,
+    "assocs": "",
+    "group": 1,
+    "_row": "work"
+  },
+  {
+    "term": "tinnitus",
+    "freq": 152,
+    "assocs": "",
+    "group": 1,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "impair",
+    "freq": 153,
+    "assocs": "knhanes, link, mellitus, sixth, consumption, target, fifth, low, rare, korea, heavier, lead, cadmium, metal, defined",
+    "group": 2,
+    "_row": "impair"
+  },
+  {
+    "term": "method",
+    "freq": 153,
+    "assocs": "",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "assess",
+    "freq": 167,
+    "assocs": "",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "control",
+    "freq": 170,
+    "assocs": "",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "associated",
+    "freq": 188,
+    "assocs": "",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "nihl",
+    "freq": 190,
+    "assocs": "",
+    "group": 1,
+    "_row": "nihl"
+  },
+  {
+    "term": "comparable",
+    "freq": 199,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "measurable",
+    "freq": 200,
+    "assocs": "",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "differ",
+    "freq": 203,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "db",
+    "freq": 204,
+    "assocs": "",
+    "group": 1,
+    "_row": "db"
+  },
+  {
+    "term": "induce",
+    "freq": 211,
+    "assocs": "",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "effect",
+    "freq": 212,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "ear",
+    "freq": 239,
+    "assocs": "right, left",
+    "group": 1,
+    "_row": "ear"
+  },
+  {
+    "term": "high",
+    "freq": 239,
+    "assocs": "",
+    "group": 2,
+    "_row": "high"
+  },
+  {
+    "term": "subject",
+    "freq": 242,
+    "assocs": "",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "year",
+    "freq": 250,
+    "assocs": "",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "risk",
+    "freq": 250,
+    "assocs": "",
+    "group": 2,
+    "_row": "risk"
+  },
+  {
+    "term": "khz",
+    "freq": 264,
+    "assocs": "",
+    "group": 2,
+    "_row": "khz"
+  },
+  {
+    "term": "pure",
+    "freq": 292,
+    "assocs": "",
+    "group": 2,
+    "_row": "pure"
+  },
+  {
+    "term": "significance",
+    "freq": 296,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "tone",
+    "freq": 306,
+    "assocs": "",
+    "group": 2,
+    "_row": "tone"
+  },
+  {
+    "term": "test",
+    "freq": 341,
+    "assocs": "",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "age",
+    "freq": 342,
+    "assocs": "sex, adult, race, april, asian, cycle, mexican, noninstitutionalized, rounds, unadjusted, ethnicity, adjust, ci, million, hispanic, hi, growing, demographic, national, delayed, june",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "occup",
+    "freq": 347,
+    "assocs": "",
+    "group": 1,
+    "_row": "occup"
+  },
+  {
+    "term": "level",
+    "freq": 354,
+    "assocs": "",
+    "group": 2,
+    "_row": "level"
+  },
+  {
+    "term": "exposed",
+    "freq": 371,
+    "assocs": "ethyl",
+    "group": 2,
+    "_row": "exposed"
+  },
+  {
+    "term": "group",
+    "freq": 396,
+    "assocs": "",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "frequencies",
+    "freq": 414,
+    "assocs": "",
+    "group": 2,
+    "_row": "frequencies"
+  },
+  {
+    "term": "audiometric",
+    "freq": 417,
+    "assocs": "",
+    "group": 2,
+    "_row": "audiometric"
+  },
+  {
+    "term": "worker",
+    "freq": 440,
+    "assocs": "",
+    "group": 2,
+    "_row": "worker"
+  },
+  {
+    "term": "threshold",
+    "freq": 507,
+    "assocs": "",
+    "group": 2,
+    "_row": "threshold"
+  },
+  {
+    "term": "studied",
+    "freq": 524,
+    "assocs": "",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "exposure",
+    "freq": 640,
+    "assocs": "",
+    "group": 2,
+    "_row": "exposure"
+  },
+  {
+    "term": "loss",
+    "freq": 658,
+    "assocs": "",
+    "group": 2,
+    "_row": "loss"
+  },
+  {
+    "term": "noise",
+    "freq": 1206,
+    "assocs": "",
+    "group": 3,
+    "_row": "noise"
+  },
+  {
+    "term": "hear",
+    "freq": 1536,
+    "assocs": "",
+    "group": 3,
+    "_row": "hear"
+  }
+]

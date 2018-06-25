@@ -1,0 +1,352 @@
+[
+  {
+    "term": "diabetes",
+    "freq": 7,
+    "assocs": "type, area, auc, autonomous, capacities, characteristic, compromise, constitute, curve, database, dependent, device, dtsq, fairly, influenced, injections, lt, matched, operating, partial, pump, r, reach, roc, satisfaction, selected, sociocultural, training, unrecognized, utilization, versus, visit, csii, infusion, subcutaneous, initial, correlated, insulin, predict, level, continuous, receiver, negative, abilities, help, manage, multiple, program, progress, detectable, complete",
+    "group": 1,
+    "_row": "diabetes"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 7,
+    "assocs": "correlated, area, auc, autonomous, capacities, characteristic, compromise, constitute, curve, database, dependent, device, dtsq, fairly, influenced, injections, lt, matched, operating, partial, pump, r, reach, roc, satisfaction, selected, sociocultural, training, unrecognized, utilization, versus, visit, predict, level, term, control, initial, identified, last, long, type",
+    "group": 1,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "presence",
+    "freq": 7,
+    "assocs": "status, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, duration, mood, poor, statistically, life, well, impact, last, least, low, one, barthel, factor, high, tool, control, abnormal, cause, cohort, decline, discussion, individually, multivariate, nervous, percent, physical, recruited, system, without, difference, emotional, burden",
+    "group": 2,
+    "_row": "presence"
+  },
+  {
+    "term": "related",
+    "freq": 7,
+    "assocs": "additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, low, poor, statistically, status, well, one, life, impact, last, duration, least, mood, tool, abnormal, cause, cohort, nervous, percent, system, high, factor, control, barthel, decline, discussion, individually, multivariate, physical, recruited, without, eight, difference",
+    "group": 2,
+    "_row": "related"
+  },
+  {
+    "term": "observation",
+    "freq": 7,
+    "assocs": "consecutive, updrs, attention, c, comparison, concentration, constructional, education, estimate, focus, hcv, hepatitis, interferon, language, particularly, prevention, reflected, response, sixteen, skills, sociodemographic, total, untreated, virological, virus, visuo, abbreviated, dbs, deep, england, hoehn, iii, introduction, iv, overload, pdq, quip, schwab, similar, stimulation, subscale, undergoing, yahr, zarit, divided, future, shown, parkinson, variables",
+    "group": 1,
+    "_row": "observation"
+  },
+  {
+    "term": "higher",
+    "freq": 7,
+    "assocs": "bdi, bpi, brief, distress, dysfunction, gathered, gt, helsinki, hemorrhage, hinting, hydrocephalus, ich, imaging, intracerebral, mrs, need, normal, pain, pass, post, purpose, univariate, unmet, young, ii, survivors, degree, median, identified, long, among, term, iqr, multivariate, occurrence, antidepressants, beck, complication, modified, rankin, university, appear, baseline, important, interview, suffer, emotional, factor",
+    "group": 1,
+    "_row": "higher"
+  },
+  {
+    "term": "psd",
+    "freq": 7,
+    "assocs": "bdi, bpi, brief, distress, dysfunction, gathered, gt, helsinki, hemorrhage, hinting, hydrocephalus, ich, imaging, intracerebral, mrs, need, normal, pain, pass, post, purpose, univariate, unmet, young, survivors, ii, degree, median, identified, long, among, term, iqr, multivariate, occurrence, antidepressants, beck, complication, modified, rankin, university, baseline, important, suffer, emotional",
+    "group": 1,
+    "_row": "psd"
+  },
+  {
+    "term": "osa",
+    "freq": 7,
+    "assocs": "airway, analyses, apnea, considered, cpap, epworth, home, idiopathic, moderate, non, obstructive, osacpap, overall, pd, pdss, pressure, sleepiness, still, trial, unified, whereas, motor, sleep, user, severe, part, decline, without, divided, beck, fatigue, period, parkinson, underwent, conducted, prospective, offered, continuous, actively, short, positive",
+    "group": 1,
+    "_row": "osa"
+  },
+  {
+    "term": "may",
+    "freq": 8,
+    "assocs": "initial, area, auc, autonomous, capacities, characteristic, compromise, constitute, curve, database, dependent, device, dtsq, fairly, influenced, injections, lt, matched, operating, partial, pump, r, reach, roc, satisfaction, selected, sociocultural, training, unrecognized, utilization, versus, visit, negative, predict, complete, correlated, type, discharge, level, detectable, sensitive, specificity, also, offered, abilities, csii, help, infusion, manage, multiple, program, progress, subcutaneous, background, difference, last",
+    "group": 1,
+    "_row": "may"
+  },
+  {
+    "term": "montreal",
+    "freq": 8,
+    "assocs": "data",
+    "group": 1,
+    "_row": "montreal"
+  },
+  {
+    "term": "test",
+    "freq": 8,
+    "assocs": "able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, problems, time, assistance, day, mean, specificity, defined, first, internal, sample, important, outcome, recommend, discharge, mini, diagnosis, sensitive, participant, appear, acute, change, even, investigate, iqr, negative, part, prevalence",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "age",
+    "freq": 8,
+    "assocs": "degree, identified, long, bdi, bpi, brief, distress, dysfunction, gathered, gt, helsinki, hemorrhage, hinting, hydrocephalus, ich, imaging, intracerebral, mrs, need, normal, pain, pass, post, present, purpose, univariate, unmet, young, ii, survivors, antidepressants, complication, modified, important, term, median, among",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "performance",
+    "freq": 8,
+    "assocs": "abnormal, cause, cohort, nervous, system, one, well, status, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, duration, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, poor, statistically, tool, factor, drug, multivariate, emotional, impact, last, least, low, mood, life, high",
+    "group": 2,
+    "_row": "performance"
+  },
+  {
+    "term": "included",
+    "freq": 8,
+    "assocs": "updrs, abbreviated, dbs, deep, england, hoehn, iii, introduction, iv, overload, pdq, quip, schwab, similar, stimulation, subscale, undergoing, yahr, zarit, consecutive, parkinson, burden, advanced, stage, lower, appear",
+    "group": 1,
+    "_row": "included"
+  },
+  {
+    "term": "week",
+    "freq": 8,
+    "assocs": "eight, attention, c, comparison, concentration, constructional, education, estimate, focus, hcv, hepatitis, interferon, language, particularly, prevention, reflected, response, sixteen, skills, sociodemographic, total, untreated, virological, virus, visuo, affective, agomelatine, allows, balanced, carried, cbi, cgi, chronic, cog, comprised, developed, dose, episode, hamilton, hdrs, impression, insomnia, m, men, mental, mg, neuropsychological, night, noted, people, per, pgi, revealed, s, single, spectrum, state, survey, tablet, valdoxan, vein, women, mild, effect, common, global",
+    "group": 1,
+    "_row": "week"
+  },
+  {
+    "term": "seizure",
+    "freq": 9,
+    "assocs": "additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, poor, statistically, status, well, life, impact, last, duration, least, low, mood, one, high, tool, factor, control, abnormal, barthel, cause, cohort, decline, discussion, individually, multivariate, nervous, percent, physical, recruited, system, without, difference, actively, eight, emotional",
+    "group": 2,
+    "_row": "seizure"
+  },
+  {
+    "term": "tumor",
+    "freq": 9,
+    "assocs": "additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, poor, statistically, status, well, life, impact, last, duration, least, low, mood, one, high, tool, factor, control, abnormal, barthel, cause, cohort, decline, discussion, individually, multivariate, nervous, percent, physical, recruited, system, without, difference, actively, eight, emotional",
+    "group": 2,
+    "_row": "tumor"
+  },
+  {
+    "term": "yearly",
+    "freq": 9,
+    "assocs": "basal, bolus, condition, demonstrated, less, mellitus, nds, nss, tss, vegetative, examination, neurological, complication, mmse, second, insulin, standard, first, csii, infusion, subcutaneous, better, emotional",
+    "group": 1,
+    "_row": "yearly"
+  },
+  {
+    "term": "compared",
+    "freq": 10,
+    "assocs": "poor, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, statistically, impact, mood, life, status, well, high, last, duration, least, low, tool, one, factor, control, barthel, individually, difference, abnormal, cause, cohort, decline, discussion, multivariate, nervous, percent, physical, recruited, system, without",
+    "group": 2,
+    "_row": "compared"
+  },
+  {
+    "term": "disorder",
+    "freq": 10,
+    "assocs": "able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, assistance, time, day, mean, problems, specificity, discharge, mini, change, first, investigate, part, diagnosis, sensitive, complete, acute, defined, even, internal, iqr, negative, prevalence, sample, difference, important, offered, outcome, recommend, research",
+    "group": 1,
+    "_row": "disorder"
+  },
+  {
+    "term": "follow",
+    "freq": 10,
+    "assocs": "continuous, csii, infusion, subcutaneous, insulin, offered, type",
+    "group": 1,
+    "_row": "follow"
+  },
+  {
+    "term": "show",
+    "freq": 10,
+    "assocs": "individually, recruited, high, control, poor, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, impact, last, cancer, low, reactions, one, statistically, status, tool, percent, well, coefficient, points, background, measured, level, duration, least, mood",
+    "group": 2,
+    "_row": "show"
+  },
+  {
+    "term": "evaluable",
+    "freq": 10,
+    "assocs": "manage, adhered, although, apart, available, cart, cns, comorbidity, complaints, dementia, despite, done, efavirenz, experience, five, goals, hds, hiv, intervention, known, lack, majority, modalities, moreover, msm, nci, neurocognitive, optimizing, potential, proposed, protocol, referred, regimes, relevant, restrictions, retrospective, set, somatic, success, suppressed, switched, two, umc, utrecht, vast, participant, subjective, six, hundred, present, rehabilitation, average, adult, population, appear",
+    "group": 1,
+    "_row": "evaluable"
+  },
+  {
+    "term": "function",
+    "freq": 10,
+    "assocs": "individually, well, high, actively, statistically, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, least, reactions, poor, life, status, material, decline, discussion, factor, multivariate, physical, without, reduced, tolerability, measured, impact, last, drug, duration, eight, low, mood, one, severe, positive",
+    "group": 2,
+    "_row": "function"
+  },
+  {
+    "term": "associate",
+    "freq": 10,
+    "assocs": "updrs, parkinson, abbreviated, dbs, deep, england, hoehn, iii, introduction, iv, overload, pdq, quip, schwab, similar, stimulation, subscale, undergoing, yahr, zarit, ii, burden, advanced, consecutive, beck, appear, interview",
+    "group": 1,
+    "_row": "associate"
+  },
+  {
+    "term": "treated",
+    "freq": 10,
+    "assocs": "better, consecutive, abbreviated, dbs, deep, england, hoehn, iii, introduction, iv, overload, pdq, quip, schwab, similar, stimulation, subscale, undergoing, yahr, zarit, updrs, burden, advanced",
+    "group": 1,
+    "_row": "treated"
+  },
+  {
+    "term": "symptom",
+    "freq": 10,
+    "assocs": "sleep, beck, airway, analyses, apnea, considered, cpap, epworth, home, idiopathic, moderate, non, obstructive, osacpap, overall, pd, pdss, pressure, sleepiness, still, trial, unified, whereas, severe, motor, global, user, continuous, actively, positive",
+    "group": 1,
+    "_row": "symptom"
+  },
+  {
+    "term": "n",
+    "freq": 11,
+    "assocs": "discharge, negative, specificity, complete, initial, sensitive, problems, predict, able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, detectable, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, also, offered, defined, internal, sample, background, assistance, day, mean, time, difference, mini, area, auc, autonomous, capacities, characteristic, compromise, constitute, curve, database, dependent, device, dtsq, fairly, influenced, injections, lt, matched, operating, partial, pump, r, reach, roc, satisfaction, selected, sociocultural, training, unrecognized, utilization, versus, visit, diagnosis",
+    "group": 1,
+    "_row": "n"
+  },
+  {
+    "term": "stroke",
+    "freq": 11,
+    "assocs": "acute, research, able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, iqr, assistance, day, mean, problems, specificity, time, rankin, discharge, mini, adaptation, comprehensive, detailed, indicators, leads, loads, main, mexidol, neuro, nihss, regional, review, rivermead, rvc, samara, vascular, median, diagnosis, sensitive, baseline, important",
+    "group": 1,
+    "_row": "stroke"
+  },
+  {
+    "term": "disease",
+    "freq": 11,
+    "assocs": "life, barthel, decline, without, parkinson, burden, least, mood, severe, actively, updrs, lower, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, status, swb, abbreviated, dbs, deep, england, hoehn, iii, introduction, iv, overload, pdq, quip, schwab, similar, stimulation, subscale, undergoing, yahr, zarit, airway, analyses, apnea, considered, cpap, epworth, home, idiopathic, moderate, non, obstructive, osacpap, overall, pd, pdss, pressure, sleepiness, still, trial, unified, whereas",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "caregiver",
+    "freq": 11,
+    "assocs": "abbreviated, dbs, deep, england, hoehn, iii, introduction, iv, overload, pdq, quip, schwab, similar, stimulation, subscale, undergoing, yahr, zarit, updrs, burden, advanced, lower, barthel, consecutive, better, parkinson, variables, stage, according, also",
+    "group": 1,
+    "_row": "caregiver"
+  },
+  {
+    "term": "hospital",
+    "freq": 12,
+    "assocs": "structural, university, suffer, alpha, april, best, consistency, criteria, croatian, cronbachs, determine, dimensional, exclusion, extraction, given, hadsin, inclusion, instrument, items, key, latent, likelihood, maximum, metastatic, methodfor, original, pathway, pca, practical, principal, psychodiagnostic, psychological, report, saturate, self, separately, seven, sisters, solution, systematically, theoretical, unique, usage, usingmontreal, zagreb, cut, cancer, background, four, defined, internal, sample, recruited, adult, population, underwent, short",
+    "group": 1,
+    "_row": "hospital"
+  },
+  {
+    "term": "brain",
+    "freq": 12,
+    "assocs": "additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, well, poor, statistically, status, life, mood, high, impact, last, duration, least, low, one, factor, tool, barthel, control, abnormal, cause, cohort, decline, discussion, individually, multivariate, nervous, percent, physical, recruited, system, without, actively, eight, difference, drug",
+    "group": 2,
+    "_row": "brain"
+  },
+  {
+    "term": "clinical",
+    "freq": 13,
+    "assocs": "day, mini, outcome, recommend, able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, even, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, prevalence, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, time, problems, diagnosis, baseline, important, assistance, common, mean, specificity, acute, defined, internal, iqr, research, sample, discharge",
+    "group": 1,
+    "_row": "clinical"
+  },
+  {
+    "term": "significant",
+    "freq": 13,
+    "assocs": "statistically, individually, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, status, poor, duration, low, high, discussion, physical, well, control, impact, last, least, life, mood, reactions, one, percent, tool, factor, material, abnormal, barthel, cause, cohort, decline, multivariate, nervous, recruited, system, without",
+    "group": 2,
+    "_row": "significant"
+  },
+  {
+    "term": "impair",
+    "freq": 14,
+    "assocs": "attention, c, comparison, concentration, constructional, education, estimate, focus, hcv, hepatitis, interferon, language, particularly, prevention, reflected, response, sixteen, skills, sociodemographic, total, untreated, virological, virus, visuo, common, percent, prevalence, eight, divided, future, shown, increased, outcome, low, consecutive, occurrence, work",
+    "group": 1,
+    "_row": "impair"
+  },
+  {
+    "term": "month",
+    "freq": 16,
+    "assocs": "part, data, mean, offered, able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, diagnosis, sensitive, decline, without, assistance, day, problems, specificity, time, airway, analyses, apnea, considered, cpap, epworth, home, idiopathic, moderate, non, obstructive, osacpap, overall, pd, pdss, pressure, sleepiness, still, trial, unified, whereas, difference, tool, severe, motor, impact, discharge, mini",
+    "group": 1,
+    "_row": "month"
+  },
+  {
+    "term": "method",
+    "freq": 17,
+    "assocs": "even, mmse, second, affective, agomelatine, allows, balanced, carried, cbi, cgi, chronic, cog, comprised, developed, dose, episode, hamilton, hdrs, impression, insomnia, m, men, mental, mg, neuropsychological, night, noted, people, per, pgi, revealed, s, single, spectrum, state, survey, tablet, valdoxan, vein, women, mini, day, time, mild, examination, global, stage",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "l",
+    "freq": 17,
+    "assocs": "additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, poor, statistically, status, well, life, impact, last, duration, least, low, mood, one, high, tool, factor, control, abnormal, barthel, cause, cohort, decline, discussion, individually, multivariate, nervous, percent, physical, recruited, system, without, difference, actively, eight, emotional",
+    "group": 2,
+    "_row": "l"
+  },
+  {
+    "term": "studied",
+    "freq": 19,
+    "assocs": "administered, biomechanics, complex, course, cyclical, decrease, deficit, edss, eighteen, exercise, exoatlet, exoskeleton, f, force, good, insoles, length, limb, locomotor, maintenance, min, movement, ms, msfc, open, opportunities, oscillation, parameters, phenomenon, pilot, plt, posture, promising, pronounced, recurrence, relapsing, remission, remitting, restore, robotic, rrms, scan, sclerosis, shock, speed, spms, stability, step, support, tekscan, trend, usa, vertical, walk, whole, within, workload, increased, reactions, rate, future, shown, reduction, reduced, tolerability, conducted, prospective, positive",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "moca",
+    "freq": 20,
+    "assocs": "predict, initial, correlated, area, auc, autonomous, capacities, characteristic, compromise, constitute, curve, database, dependent, device, dtsq, fairly, influenced, injections, lt, matched, operating, partial, pump, r, reach, roc, satisfaction, selected, sociocultural, training, unrecognized, utilization, versus, visit, negative, manage, detectable, complete, type, discharge, level, term, specificity, identified, long, also, offered, receiver, suffer",
+    "group": 1,
+    "_row": "moca"
+  },
+  {
+    "term": "screened",
+    "freq": 21,
+    "assocs": "able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, problems, time, assistance, day, mean, specificity, discharge, mini, diagnosis, sensitive, defined, internal, sample, important, outcome, recommend, acute, change, even, first, investigate, iqr, negative, part, prevalence, complete, appear, research, tool, difference",
+    "group": 1,
+    "_row": "screened"
+  },
+  {
+    "term": "group",
+    "freq": 23,
+    "assocs": "status, duration, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, low, poor, life, statistically, mood, well, last, least, impact, percent, control, one, high, factor, barthel, tool, decline, without, emotional, difference, abnormal, cause, cohort, discussion, individually, multivariate, nervous, physical, recruited, system, eight",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "treatment",
+    "freq": 24,
+    "assocs": "consecutive, eight, effect, global, stage, divided, attention, c, comparison, concentration, constructional, education, estimate, focus, hcv, hepatitis, interferon, language, particularly, prevention, reflected, response, sixteen, skills, sociodemographic, total, untreated, virological, virus, visuo, affective, agomelatine, allows, balanced, carried, cbi, cgi, chronic, cog, comprised, developed, dose, episode, hamilton, hdrs, impression, insomnia, m, men, mental, mg, neuropsychological, night, noted, people, per, pgi, revealed, s, single, spectrum, state, survey, tablet, valdoxan, vein, women",
+    "group": 1,
+    "_row": "treatment"
+  },
+  {
+    "term": "assess",
+    "freq": 27,
+    "assocs": "able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, mean, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, diagnosis, day, time, sensitive, mini, problems, specificity, assistance, discharge, also, even, part, prevalence, difference, tool, acute, defined, first, impact, internal, iqr, negative, sample, stage, appear, data, interview",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "score",
+    "freq": 36,
+    "assocs": "factor, multivariate, among, one, well, last, additional, adls, adverse, antiepileptic, applied, attributed, based, bi, br, diagnosed, domains, epileptic, ewb, fab, fact, fatal, found, free, frequency, frontal, health, hrqol, independent, index, irrespective, kps, longer, lowest, none, normative, often, ordinal, pbt, pwb, qolie, risk, serious, social, swb, background, poor, emotional, mood, statistically, impact, life, status, low, data, high, tool, identified, long, duration, least, bdi, bpi, brief, distress, dysfunction, gathered, gt, helsinki, hemorrhage, hinting, hydrocephalus, ich, imaging, intracerebral, mrs, need, normal, pain, pass, post, purpose, univariate, unmet, young, barthel, survivors, analysis, control, degree, ii",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "depression",
+    "freq": 40,
+    "assocs": "day, mini, even, diagnosis, able, accuracy, admissions, agreed, amongst, ci, circles, consensus, described, diagnostic, due, feasible, guidelines, half, however, intensity, medical, neuropsychiatric, proportions, provided, repeat, required, retested, sequential, stable, suggested, suitable, sustained, temporal, time, problems, iqr, mean, specificity, recommend, defined, discharge, internal, sample, sensitive, assistance, baseline, prevalence, important, negative, part, median, background",
+    "group": 1,
+    "_row": "depression"
+  },
+  {
+    "term": "scale",
+    "freq": 40,
+    "assocs": "actively, severe, decline, recruited, without, underwent, cancer, least, life, measured, one, sleep",
+    "group": 3,
+    "_row": "scale"
+  },
+  {
+    "term": "cognition",
+    "freq": 42,
+    "assocs": "hundred, outcome, abnormal, cause, cohort, nervous, percent, system, eight, six, low, average, attention, c, comparison, concentration, constructional, education, estimate, focus, hcv, hepatitis, interferon, language, particularly, prevention, reflected, response, sixteen, skills, sociodemographic, total, untreated, virological, virus, visuo, adhered, although, apart, available, cart, cns, comorbidity, complaints, dementia, despite, done, efavirenz, experience, five, goals, hds, hiv, intervention, known, lack, majority, modalities, moreover, msm, nci, neurocognitive, optimizing, potential, proposed, protocol, referred, regimes, relevant, restrictions, retrospective, set, somatic, success, suppressed, switched, two, umc, utrecht, vast",
+    "group": 3,
+    "_row": "cognition"
+  },
+  {
+    "term": "patient",
+    "freq": 75,
+    "assocs": "manage, hundred, six, adhered, although, apart, available, cart, cns, comorbidity, complaints, dementia, despite, done, efavirenz, experience, five, goals, hds, hiv, intervention, known, lack, majority, modalities, moreover, msm, nci, neurocognitive, optimizing, potential, proposed, protocol, referred, regimes, relevant, restrictions, retrospective, set, somatic, success, suppressed, switched, two, umc, utrecht, vast, abnormal, cause, cohort, nervous, system, average",
+    "group": 3,
+    "_row": "patient"
+  }
+]

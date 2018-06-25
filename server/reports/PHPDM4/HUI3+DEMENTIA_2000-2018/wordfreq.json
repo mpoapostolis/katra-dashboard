@@ -1,0 +1,352 @@
+[
+  {
+    "term": "group",
+    "freq": 3,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, arthritis, conditions, pain, plt, analyses, confirm, important",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "institution",
+    "freq": 3,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, arthritis, conditions, pain, plt, analyses, confirm, important",
+    "group": 1,
+    "_row": "institution"
+  },
+  {
+    "term": "overall",
+    "freq": 3,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, arthritis, conditions, pain, plt, analyses, confirm, important",
+    "group": 1,
+    "_row": "overall"
+  },
+  {
+    "term": "problems",
+    "freq": 3,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, arthritis, conditions, pain, plt, analyses, confirm, important",
+    "group": 1,
+    "_row": "problems"
+  },
+  {
+    "term": "es",
+    "freq": 3,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, generic, report, construct, across, home, may, nursing, particular, persons, preference, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "es"
+  },
+  {
+    "term": "evaluate",
+    "freq": 3,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, generic, report, construct, across, home, may, nursing, particular, persons, preference, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "alzheimer",
+    "freq": 4,
+    "assocs": "well",
+    "group": 1,
+    "_row": "alzheimer"
+  },
+  {
+    "term": "complete",
+    "freq": 4,
+    "assocs": "combination, mild, accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, based, substantial, randomized, new",
+    "group": 1,
+    "_row": "complete"
+  },
+  {
+    "term": "differences",
+    "freq": 4,
+    "assocs": "attribute, cross, none, respondents, sectional, setting, well, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision",
+    "group": 1,
+    "_row": "differences"
+  },
+  {
+    "term": "disease",
+    "freq": 4,
+    "assocs": "new, well, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, attribute, based, cross, none, respondents, sectional, setting, substantial, combination, cost, impairment, mild, negative",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "moderate",
+    "freq": 4,
+    "assocs": "generic, methods, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, across, home, may, nursing, particular, persons, preference, comorbidity, instruments, cost, impairment, report, construct",
+    "group": 1,
+    "_row": "moderate"
+  },
+  {
+    "term": "studies",
+    "freq": 4,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, analyses, confirm, important, construct",
+    "group": 1,
+    "_row": "studies"
+  },
+  {
+    "term": "two",
+    "freq": 4,
+    "assocs": "well",
+    "group": 1,
+    "_row": "two"
+  },
+  {
+    "term": "life",
+    "freq": 4,
+    "assocs": "population",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "related",
+    "freq": 4,
+    "assocs": "improved, population, affected, average, baseline, cancer, chronic, dexterity, disorders, e, etc, follow, g, hospital, individuals, montreal, one, outpatients, paper, proportion, propose, psychotic, quotdysfunctionalquot, quothealthyquot, seen, selected, side, symptoms, teaching, arthritis, conditions, pain, report",
+    "group": 1,
+    "_row": "related"
+  },
+  {
+    "term": "year",
+    "freq": 4,
+    "assocs": "affected, average, baseline, cancer, chronic, dexterity, disorders, e, etc, follow, g, hospital, individuals, montreal, one, outpatients, paper, proportion, propose, psychotic, quotdysfunctionalquot, quothealthyquot, seen, selected, side, symptoms, teaching, arthritis, conditions, pain, improved, population",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "correlation",
+    "freq": 4,
+    "assocs": "comorbidity, instruments, methods, accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening",
+    "group": 1,
+    "_row": "correlation"
+  },
+  {
+    "term": "behavior",
+    "freq": 4,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, generic, report, construct, across, home, may, nursing, particular, persons, preference, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "behavior"
+  },
+  {
+    "term": "cognition",
+    "freq": 5,
+    "assocs": "",
+    "group": 1,
+    "_row": "cognition"
+  },
+  {
+    "term": "compared",
+    "freq": 5,
+    "assocs": "allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, negative, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, attribute, cross, none, purpose, respondents, sectional, setting, cost, impairment, new",
+    "group": 1,
+    "_row": "compared"
+  },
+  {
+    "term": "mark",
+    "freq": 5,
+    "assocs": "generic, report, construct, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, across, home, may, nursing, particular, persons, preference, population, analyses, confirm, important",
+    "group": 1,
+    "_row": "mark"
+  },
+  {
+    "term": "multiattribute",
+    "freq": 5,
+    "assocs": "generic, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, report, construct, across, home, may, nursing, particular, persons, preference, methods, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "multiattribute"
+  },
+  {
+    "term": "severe",
+    "freq": 5,
+    "assocs": "generic, across, home, may, nursing, particular, persons, preference, cost, impairment, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, methods, report, construct",
+    "group": 1,
+    "_row": "severe"
+  },
+  {
+    "term": "status",
+    "freq": 5,
+    "assocs": "affected, average, baseline, cancer, chronic, dexterity, disorders, e, etc, follow, g, hospital, improved, individuals, montreal, one, outpatients, paper, proportion, propose, psychotic, quotdysfunctionalquot, quothealthyquot, seen, selected, side, symptoms, teaching, purpose, randomized",
+    "group": 1,
+    "_row": "status"
+  },
+  {
+    "term": "hrqol",
+    "freq": 5,
+    "assocs": "report, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, generic, construct, across, home, may, nursing, particular, persons, preference, population, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "hrqol"
+  },
+  {
+    "term": "change",
+    "freq": 5,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, generic, report, construct, across, home, may, nursing, particular, persons, preference, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "change"
+  },
+  {
+    "term": "mean",
+    "freq": 6,
+    "assocs": "plt, well, able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "assess",
+    "freq": 6,
+    "assocs": "analyses, confirm, important, construct, population, able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "d",
+    "freq": 6,
+    "assocs": "accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, combination, mild, based, substantial, randomized, comorbidity, instruments, plt",
+    "group": 2,
+    "_row": "d"
+  },
+  {
+    "term": "eq",
+    "freq": 6,
+    "assocs": "accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, combination, mild, based, substantial, randomized, comorbidity, instruments, plt",
+    "group": 2,
+    "_row": "eq"
+  },
+  {
+    "term": "ar",
+    "freq": 6,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, arthritis, conditions, pain, plt, analyses, confirm, important",
+    "group": 1,
+    "_row": "ar"
+  },
+  {
+    "term": "ca",
+    "freq": 6,
+    "assocs": "able, adjusted, aged, ambulation, associated, burdens, canadian, cataracts, conducted, data, describe, design, dwelling, five, hypotheses, least, national, obtain, priori, quantitatively, reference, regression, single, speech, subgroups, survey, three, vision, attribute, cross, none, respondents, sectional, setting, arthritis, conditions, pain, plt, analyses, confirm, important",
+    "group": 1,
+    "_row": "ca"
+  },
+  {
+    "term": "responsive",
+    "freq": 6,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, generic, report, construct, across, home, may, nursing, particular, persons, preference, comorbidity, instruments, analyses, confirm, important",
+    "group": 1,
+    "_row": "responsive"
+  },
+  {
+    "term": "index",
+    "freq": 7,
+    "assocs": "comorbidity, instruments, methods, accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening",
+    "group": 1,
+    "_row": "index"
+  },
+  {
+    "term": "scale",
+    "freq": 7,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, comorbidity, instruments, generic, report, construct, methods",
+    "group": 1,
+    "_row": "scale"
+  },
+  {
+    "term": "caregiver",
+    "freq": 8,
+    "assocs": "cost, impairment, methods, new, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, across, based, home, may, nursing, particular, persons, preference, substantial, combination, generic, mild, negative",
+    "group": 1,
+    "_row": "caregiver"
+  },
+  {
+    "term": "effect",
+    "freq": 8,
+    "assocs": "methods",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "global",
+    "freq": 8,
+    "assocs": "cost, impairment, negative, across, home, may, nursing, particular, persons, preference, purpose, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, generic, new",
+    "group": 1,
+    "_row": "global"
+  },
+  {
+    "term": "range",
+    "freq": 8,
+    "assocs": "generic, report, across, home, may, nursing, particular, persons, preference, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, cost, impairment, improved, construct",
+    "group": 1,
+    "_row": "range"
+  },
+  {
+    "term": "measurement",
+    "freq": 8,
+    "assocs": "accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, randomized, comorbidity, instruments, combination, mild",
+    "group": 2,
+    "_row": "measurement"
+  },
+  {
+    "term": "proxies",
+    "freq": 11,
+    "assocs": "comorbidity, instruments, accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, methods, combination, mild",
+    "group": 2,
+    "_row": "proxies"
+  },
+  {
+    "term": "dementia",
+    "freq": 11,
+    "assocs": "adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, report, generic, construct, comorbidity, instruments, across, home, may, nursing, particular, persons, preference, analyses, confirm, important",
+    "group": 1,
+    "_row": "dementia"
+  },
+  {
+    "term": "validity",
+    "freq": 11,
+    "assocs": "comorbidity, instruments, adequately, appropriate, attention, background, blessed, care, charlson, commonly, criterion, decline, dyads, eight, estimated, external, facility, findings, four, full, general, hundred, impact, including, large, management, medium, milder, mixed, month, multiple, need, possible, r, residential, respectively, robustness, s, self, size, skilled, small, statistics, subjects, support, trial, unchanged, weights, worsening, construct, methods, generic, report",
+    "group": 1,
+    "_row": "validity"
+  },
+  {
+    "term": "health",
+    "freq": 14,
+    "assocs": "affected, average, baseline, cancer, chronic, dexterity, disorders, e, etc, follow, g, hospital, individuals, montreal, one, outpatients, paper, proportion, propose, psychotic, quotdysfunctionalquot, quothealthyquot, seen, selected, side, symptoms, teaching, arthritis, conditions, pain, randomized, improved",
+    "group": 2,
+    "_row": "health"
+  },
+  {
+    "term": "ad",
+    "freq": 16,
+    "assocs": "attribute, cross, none, respondents, sectional, setting, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, well, new, cost, impairment, negative",
+    "group": 2,
+    "_row": "ad"
+  },
+  {
+    "term": "utilities",
+    "freq": 17,
+    "assocs": "based, new, substantial, combination, mild, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, negative, well",
+    "group": 2,
+    "_row": "utilities"
+  },
+  {
+    "term": "rate",
+    "freq": 18,
+    "assocs": "comorbidity, instruments, accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, combination, mild, methods, randomized",
+    "group": 2,
+    "_row": "rate"
+  },
+  {
+    "term": "score",
+    "freq": 21,
+    "assocs": "negative, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, purpose, new, cost, impairment",
+    "group": 2,
+    "_row": "score"
+  },
+  {
+    "term": "patient",
+    "freq": 27,
+    "assocs": "methods, combination, mild, based, substantial, accurately, activities, although, analogue, best, ceiling, coefficients, convenience, convergent, demonstrated, explore, gtor, higher, intraclass, knowledge, mood, occasions, properties, provide, qol, qwb, reflect, retest, sample, shortest, significantly, spearman, strongest, test, time, vas, visual, weakest, whether, new, comorbidity, instruments",
+    "group": 2,
+    "_row": "patient"
+  },
+  {
+    "term": "hui",
+    "freq": 52,
+    "assocs": "cost, impairment, across, home, may, nursing, particular, persons, preference, generic, allowing, among, analysis, assisted, authors, capturing, classification, contrasted, dead, discriminate, drugs, earlier, favorable, high, judged, levels, lower, medication, pairs, profound, questionable, questionnaire, sd, serious, showed, similar, somewhat, stage, states, stratified, system, terminal, treat, worse, yield, methods, negative, new",
+    "group": 3,
+    "_row": "hui"
+  }
+]

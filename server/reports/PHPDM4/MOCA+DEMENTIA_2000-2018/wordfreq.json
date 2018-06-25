@@ -1,0 +1,352 @@
+[
+  {
+    "term": "ci",
+    "freq": 196,
+    "assocs": "",
+    "group": 1,
+    "_row": "ci"
+  },
+  {
+    "term": "valid",
+    "freq": 205,
+    "assocs": "",
+    "group": 1,
+    "_row": "valid"
+  },
+  {
+    "term": "scale",
+    "freq": 220,
+    "assocs": "",
+    "group": 1,
+    "_row": "scale"
+  },
+  {
+    "term": "memorial",
+    "freq": 222,
+    "assocs": "",
+    "group": 1,
+    "_row": "memorial"
+  },
+  {
+    "term": "differ",
+    "freq": 223,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "evalua",
+    "freq": 225,
+    "assocs": "",
+    "group": 1,
+    "_row": "evalua"
+  },
+  {
+    "term": "subject",
+    "freq": 235,
+    "assocs": "",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "measurable",
+    "freq": 241,
+    "assocs": "",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "level",
+    "freq": 244,
+    "assocs": "",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "mini",
+    "freq": 252,
+    "assocs": "incorrect, visuoexecutive, pentagon, coping, sub, fold, november, oxford, correct, dysfunction, mortality",
+    "group": 1,
+    "_row": "mini"
+  },
+  {
+    "term": "stroke",
+    "freq": 253,
+    "assocs": "post, acute",
+    "group": 1,
+    "_row": "stroke"
+  },
+  {
+    "term": "educacion",
+    "freq": 255,
+    "assocs": "",
+    "group": 1,
+    "_row": "educacion"
+  },
+  {
+    "term": "state",
+    "freq": 261,
+    "assocs": "incorrect, visuoexecutive, pentagon, coping, sub, fold, november, oxford, correct, dysfunction, mortality",
+    "group": 1,
+    "_row": "state"
+  },
+  {
+    "term": "conclus",
+    "freq": 264,
+    "assocs": "",
+    "group": 1,
+    "_row": "conclus"
+  },
+  {
+    "term": "mental",
+    "freq": 266,
+    "assocs": "incorrect, visuoexecutive, pentagon, coping, sub, fold, november, oxford, dysfunction, correct, mortality",
+    "group": 1,
+    "_row": "mental"
+  },
+  {
+    "term": "lt",
+    "freq": 273,
+    "assocs": "",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "detect",
+    "freq": 281,
+    "assocs": "",
+    "group": 1,
+    "_row": "detect"
+  },
+  {
+    "term": "correla",
+    "freq": 287,
+    "assocs": "",
+    "group": 1,
+    "_row": "correla"
+  },
+  {
+    "term": "method",
+    "freq": 295,
+    "assocs": "freund, got, inhabitants, jouk, mendez, tuokko",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "specific",
+    "freq": 299,
+    "assocs": "",
+    "group": 1,
+    "_row": "specific"
+  },
+  {
+    "term": "comparability",
+    "freq": 299,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparability"
+  },
+  {
+    "term": "control",
+    "freq": 304,
+    "assocs": "",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "associada",
+    "freq": 316,
+    "assocs": "",
+    "group": 1,
+    "_row": "associada"
+  },
+  {
+    "term": "participant",
+    "freq": 317,
+    "assocs": "",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "disease",
+    "freq": 330,
+    "assocs": "",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "perform",
+    "freq": 331,
+    "assocs": "",
+    "group": 1,
+    "_row": "perform"
+  },
+  {
+    "term": "pd",
+    "freq": 332,
+    "assocs": "parkinson",
+    "group": 2,
+    "_row": "pd"
+  },
+  {
+    "term": "sensitive",
+    "freq": 344,
+    "assocs": "",
+    "group": 1,
+    "_row": "sensitive"
+  },
+  {
+    "term": "clinic",
+    "freq": 351,
+    "assocs": "",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "year",
+    "freq": 356,
+    "assocs": "",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "mild",
+    "freq": 369,
+    "assocs": "",
+    "group": 1,
+    "_row": "mild"
+  },
+  {
+    "term": "significance",
+    "freq": 377,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "ad",
+    "freq": 382,
+    "assocs": "",
+    "group": 1,
+    "_row": "ad"
+  },
+  {
+    "term": "age",
+    "freq": 385,
+    "assocs": "",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "examinados",
+    "freq": 426,
+    "assocs": "incorrect, visuoexecutive, pentagon, coping, sub, fold, dysfunction, november, oxford",
+    "group": 1,
+    "_row": "examinados"
+  },
+  {
+    "term": "montreal",
+    "freq": 440,
+    "assocs": "incorrect, visuoexecutive, pentagon, coping, sub, fold, november, oxford, mortality, correct, dysfunction, proportion, june",
+    "group": 1,
+    "_row": "montreal"
+  },
+  {
+    "term": "function",
+    "freq": 458,
+    "assocs": "",
+    "group": 1,
+    "_row": "function"
+  },
+  {
+    "term": "screen",
+    "freq": 473,
+    "assocs": "",
+    "group": 1,
+    "_row": "screen"
+  },
+  {
+    "term": "group",
+    "freq": 523,
+    "assocs": "",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "mmse",
+    "freq": 657,
+    "assocs": "",
+    "group": 2,
+    "_row": "mmse"
+  },
+  {
+    "term": "studied",
+    "freq": 680,
+    "assocs": "science",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "mci",
+    "freq": 708,
+    "assocs": "",
+    "group": 2,
+    "_row": "mci"
+  },
+  {
+    "term": "dementia",
+    "freq": 739,
+    "assocs": "",
+    "group": 2,
+    "_row": "dementia"
+  },
+  {
+    "term": "test",
+    "freq": 837,
+    "assocs": "",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "impair",
+    "freq": 882,
+    "assocs": "",
+    "group": 2,
+    "_row": "impair"
+  },
+  {
+    "term": "assess",
+    "freq": 893,
+    "assocs": "incorrect, visuoexecutive, pentagon, coping, sub, november, fold",
+    "group": 2,
+    "_row": "assess"
+  },
+  {
+    "term": "score",
+    "freq": 908,
+    "assocs": "",
+    "group": 2,
+    "_row": "score"
+  },
+  {
+    "term": "patient",
+    "freq": 1166,
+    "assocs": "",
+    "group": 2,
+    "_row": "patient"
+  },
+  {
+    "term": "moca",
+    "freq": 1793,
+    "assocs": "",
+    "group": 3,
+    "_row": "moca"
+  },
+  {
+    "term": "cognition",
+    "freq": 2355,
+    "assocs": "",
+    "group": 3,
+    "_row": "cognition"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "term": "show",
+    "freq": 250,
+    "assocs": "",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "analysis",
+    "freq": 255,
+    "assocs": "",
+    "group": 1,
+    "_row": "analysis"
+  },
+  {
+    "term": "relatada",
+    "freq": 268,
+    "assocs": "",
+    "group": 1,
+    "_row": "relatada"
+  },
+  {
+    "term": "lower",
+    "freq": 277,
+    "assocs": "",
+    "group": 1,
+    "_row": "lower"
+  },
+  {
+    "term": "dementia",
+    "freq": 280,
+    "assocs": "",
+    "group": 1,
+    "_row": "dementia"
+  },
+  {
+    "term": "ci",
+    "freq": 290,
+    "assocs": "helpers, peritoneal",
+    "group": 1,
+    "_row": "ci"
+  },
+  {
+    "term": "evalua",
+    "freq": 298,
+    "assocs": "",
+    "group": 1,
+    "_row": "evalua"
+  },
+  {
+    "term": "older",
+    "freq": 304,
+    "assocs": "adult",
+    "group": 1,
+    "_row": "older"
+  },
+  {
+    "term": "include",
+    "freq": 311,
+    "assocs": "",
+    "group": 1,
+    "_row": "include"
+  },
+  {
+    "term": "mild",
+    "freq": 311,
+    "assocs": "cardiac, annular, filling, lv",
+    "group": 1,
+    "_row": "mild"
+  },
+  {
+    "term": "differ",
+    "freq": 321,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "measure",
+    "freq": 328,
+    "assocs": "",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "subject",
+    "freq": 330,
+    "assocs": "",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "scale",
+    "freq": 340,
+    "assocs": "",
+    "group": 1,
+    "_row": "scale"
+  },
+  {
+    "term": "risk",
+    "freq": 344,
+    "assocs": "",
+    "group": 1,
+    "_row": "risk"
+  },
+  {
+    "term": "screen",
+    "freq": 344,
+    "assocs": "",
+    "group": 1,
+    "_row": "screen"
+  },
+  {
+    "term": "comparable",
+    "freq": 358,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "lt",
+    "freq": 362,
+    "assocs": "",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "factor",
+    "freq": 372,
+    "assocs": "",
+    "group": 1,
+    "_row": "factor"
+  },
+  {
+    "term": "stroke",
+    "freq": 375,
+    "assocs": "",
+    "group": 2,
+    "_row": "stroke"
+  },
+  {
+    "term": "level",
+    "freq": 380,
+    "assocs": "serum",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "mean",
+    "freq": 380,
+    "assocs": "",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "clinic",
+    "freq": 393,
+    "assocs": "",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "conclus",
+    "freq": 405,
+    "assocs": "",
+    "group": 1,
+    "_row": "conclus"
+  },
+  {
+    "term": "disease",
+    "freq": 415,
+    "assocs": "parkinson",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "examination",
+    "freq": 417,
+    "assocs": "",
+    "group": 1,
+    "_row": "examination"
+  },
+  {
+    "term": "control",
+    "freq": 433,
+    "assocs": "",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "method",
+    "freq": 435,
+    "assocs": "",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "educacion",
+    "freq": 440,
+    "assocs": "",
+    "group": 1,
+    "_row": "educacion"
+  },
+  {
+    "term": "participant",
+    "freq": 440,
+    "assocs": "",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "correlate",
+    "freq": 483,
+    "assocs": "",
+    "group": 1,
+    "_row": "correlate"
+  },
+  {
+    "term": "perform",
+    "freq": 503,
+    "assocs": "",
+    "group": 1,
+    "_row": "perform"
+  },
+  {
+    "term": "mci",
+    "freq": 532,
+    "assocs": "",
+    "group": 2,
+    "_row": "mci"
+  },
+  {
+    "term": "montreal",
+    "freq": 556,
+    "assocs": "",
+    "group": 1,
+    "_row": "montreal"
+  },
+  {
+    "term": "pd",
+    "freq": 564,
+    "assocs": "parkinson",
+    "group": 2,
+    "_row": "pd"
+  },
+  {
+    "term": "mmse",
+    "freq": 574,
+    "assocs": "mental, mini",
+    "group": 2,
+    "_row": "mmse"
+  },
+  {
+    "term": "year",
+    "freq": 616,
+    "assocs": "",
+    "group": 2,
+    "_row": "year"
+  },
+  {
+    "term": "significance",
+    "freq": 672,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "associada",
+    "freq": 681,
+    "assocs": "",
+    "group": 2,
+    "_row": "associada"
+  },
+  {
+    "term": "group",
+    "freq": 697,
+    "assocs": "",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "test",
+    "freq": 727,
+    "assocs": "",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "function",
+    "freq": 837,
+    "assocs": "",
+    "group": 2,
+    "_row": "function"
+  },
+  {
+    "term": "studied",
+    "freq": 941,
+    "assocs": "",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "impair",
+    "freq": 1070,
+    "assocs": "",
+    "group": 2,
+    "_row": "impair"
+  },
+  {
+    "term": "age",
+    "freq": 1138,
+    "assocs": "",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "assess",
+    "freq": 1212,
+    "assocs": "",
+    "group": 2,
+    "_row": "assess"
+  },
+  {
+    "term": "score",
+    "freq": 1412,
+    "assocs": "",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "patient",
+    "freq": 1931,
+    "assocs": "",
+    "group": 3,
+    "_row": "patient"
+  },
+  {
+    "term": "moca",
+    "freq": 2145,
+    "assocs": "",
+    "group": 3,
+    "_row": "moca"
+  },
+  {
+    "term": "cognition",
+    "freq": 3109,
+    "assocs": "",
+    "group": 3,
+    "_row": "cognition"
+  }
+]

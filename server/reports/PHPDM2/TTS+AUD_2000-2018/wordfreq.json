@@ -1,0 +1,352 @@
+[
+  {
+    "term": "s",
+    "freq": 28,
+    "assocs": "sel, midfrequency, pool, micropa, featured, white, dolphin",
+    "group": 1,
+    "_row": "s"
+  },
+  {
+    "term": "range",
+    "freq": 29,
+    "assocs": "musicians, careers, ltor, median, nonprofessional, notably, poorer, rehearsal, unchanged, yr",
+    "group": 1,
+    "_row": "range"
+  },
+  {
+    "term": "duration",
+    "freq": 29,
+    "assocs": "fatigue, beluga, delphinapterus, leucas, variability, constant, envelope, implausible, intermediate, keeping, log, maintained, multiplication, odontocetes, pip, rhythmic, squared",
+    "group": 1,
+    "_row": "duration"
+  },
+  {
+    "term": "pressure",
+    "freq": 30,
+    "assocs": "",
+    "group": 1,
+    "_row": "pressure"
+  },
+  {
+    "term": "emission",
+    "freq": 30,
+    "assocs": "otoacoustic, distortion, amplitude, teoae, product, specific, baseline, transient, immediate, sensitive, present, want",
+    "group": 1,
+    "_row": "emission"
+  },
+  {
+    "term": "determination",
+    "freq": 31,
+    "assocs": "set, consider, involved, algebraic, captured, decibel, equations, humes, jesteadt, law, macrae, modern, mpl, occasion, prescription, preserve, rare, unaided, output, safe, recommendations, usage, modified, amplification, final, raise, tolerable, long, subsequent, worsening, mathematical, trade, power, relationship, device, delivered",
+    "group": 1,
+    "_row": "determination"
+  },
+  {
+    "term": "increase",
+    "freq": 31,
+    "assocs": "",
+    "group": 1,
+    "_row": "increase"
+  },
+  {
+    "term": "pts",
+    "freq": 31,
+    "assocs": "predict, curve, valid, expressed, new, permanent, set, also, final, sensitive, delivered, agreement, chinchilla, construct, empirical, full, algebraic, captured, decibel, equations, humes, jesteadt, law, macrae, modern, mpl, occasion, prescription, preserve, rare, unaided, assault, begun, cadets, corps, cut, diagnostic, drill, enough, feel, ga, heckler, hellenic, implementing, interestingly, koch, mm, prone, slight, tentative, toward, vulnerability, yielded, safe, efferent, suppression, oae, output, rifle, collect, usage, historical, guidance",
+    "group": 1,
+    "_row": "pts"
+  },
+  {
+    "term": "mean",
+    "freq": 32,
+    "assocs": "sd, amsterdam, intention, men, netherlands, nl, ntr, trialregister, attendance, exclusion, outdoor, september, volunteer, festival, media, social, primarily, criterion, visit, r, single, blind, age",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "day",
+    "freq": 32,
+    "assocs": "mg, vitamin, concentrated, reduce",
+    "group": 1,
+    "_row": "day"
+  },
+  {
+    "term": "ci",
+    "freq": 32,
+    "assocs": "october, advocate, alcohol, appreciation, attendees, august, awareness, comprehensive, consuming, cramer, distributed, gathered, hoc, independently, multivariable, nonuse, perception, physicians, sex, v, women, worse, visit, drug, festival, absolute, factor, outdoor, september, correlated, right, associated, regression, little, occurred, analyzed, unit, perceived, performance, sd, behavior, left, identification, amsterdam, intention, men, netherlands, nl, ntr, trialregister, r, yet, prospective, analysis, male, attendance, exclusion, media, social, primarily, speech, linear, volunteer, blind, standard, post, raise, single, loud, date, questionnaire, criterion, across, recruit, age, known, total, tinnitus, set, adult, importance, per, included, investigate",
+    "group": 2,
+    "_row": "ci"
+  },
+  {
+    "term": "time",
+    "freq": 33,
+    "assocs": "decision, just, third, h, identical",
+    "group": 1,
+    "_row": "time"
+  },
+  {
+    "term": "high",
+    "freq": 33,
+    "assocs": "established, extended, especially, peak, rather",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "model",
+    "freq": 33,
+    "assocs": "agreement, chinchilla, construct, empirical, full, collect, new, historical, dose, scale, good, weapons, guidance, curve, develop, response, valid, expressed, large, defined, account, human, predict, date, outcome",
+    "group": 1,
+    "_row": "model"
+  },
+  {
+    "term": "pure",
+    "freq": 34,
+    "assocs": "reduction, imposing, shorter, variance",
+    "group": 1,
+    "_row": "pure"
+  },
+  {
+    "term": "hz",
+    "freq": 36,
+    "assocs": "findings, among, adverse, annual, belonged, blows, depth, dip, kendo, moreover, regarding, senior, team, greater",
+    "group": 1,
+    "_row": "hz"
+  },
+  {
+    "term": "change",
+    "freq": 37,
+    "assocs": "difficult, college",
+    "group": 1,
+    "_row": "change"
+  },
+  {
+    "term": "assess",
+    "freq": 38,
+    "assocs": "primarily, attendance, blind, performance, amsterdam, intention, men, netherlands, nl, ntr, trialregister, tinnitus, exclusion, media, included, sd, outdoor, september, risk, outcome, festival, social, visit, questionnaire, prevent, perceived, volunteer",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "difference",
+    "freq": 39,
+    "assocs": "drug, advocate, alcohol, appreciation, attendees, august, awareness, comprehensive, consuming, cramer, distributed, gathered, hoc, independently, multivariable, nonuse, perception, physicians, sex, v, women, worse, correlated, visit, right, festival, outdoor, september, absolute, factor, identification, little, occurred, perceived, associated, analysis, yet, performance, analyzed, unit, october, volunteer, male, behavior, amsterdam, intention, men, netherlands, nl, ntr, trialregister, raise, loud, left, attendance, exclusion, social, primarily, prospective, blind, set, r, speech, media, regression, sd, questionnaire, criterion, consider, post, linear, date",
+    "group": 1,
+    "_row": "difference"
+  },
+  {
+    "term": "spl",
+    "freq": 39,
+    "assocs": "usage, output, algebraic, captured, decibel, equations, humes, jesteadt, law, macrae, modern, mpl, occasion, prescription, preserve, rare, unaided, safe, long, recommendations, tolerable, device, subsequent, modified, worsening, mathematical, trade, power, relationship, amplification, delivered, term, four, better, raise, set, involved, consisted, valid, expressed, predict, magnitude, lower, limitation",
+    "group": 1,
+    "_row": "spl"
+  },
+  {
+    "term": "data",
+    "freq": 40,
+    "assocs": "curve, agreement, chinchilla, construct, empirical, full, collect, historical, dose, good, develop, weapons, scale, guidance, date, response, new, large, defined, known, account, outcome, predict, included, human, valid, expressed, rifle",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "re",
+    "freq": 40,
+    "assocs": "pa, harbor, porpoise, psychoacoustic, quantified, sel, splav, white, maximum, micropa, technique, center",
+    "group": 1,
+    "_row": "re"
+  },
+  {
+    "term": "exposed",
+    "freq": 42,
+    "assocs": "",
+    "group": 1,
+    "_row": "exposed"
+  },
+  {
+    "term": "show",
+    "freq": 44,
+    "assocs": "teoae, want, program, efferent, suppression, amplitude, baseline, conservation, oae, assault, begun, cadets, corps, cut, diagnostic, drill, enough, feel, ga, heckler, hellenic, implementing, interestingly, koch, mm, prone, slight, tentative, toward, vulnerability, yielded, evaluate, concern, rounds, likelihood, efficiency, third, routine, exploratory, decision, just, position, trend, later, strength, manner, utility, otoacoustic, firearm, transient",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "audiometric",
+    "freq": 46,
+    "assocs": "prevalence, quick, ample, anesthesia, automated, awake, contrast, distinct, etiology, fairly, inhibition, lack, mice, perceptual, ppi, prepulse, prerequisite, reflex, robust, screening, simultaneously, startle, throughput, tool, traditional",
+    "group": 1,
+    "_row": "audiometric"
+  },
+  {
+    "term": "min",
+    "freq": 46,
+    "assocs": "pa, quantified, lowest, technique, psychoacoustic",
+    "group": 1,
+    "_row": "min"
+  },
+  {
+    "term": "earplug",
+    "freq": 46,
+    "assocs": "amsterdam, intention, men, netherlands, nl, ntr, trialregister, outdoor, september, attendance, exclusion, media, social, primarily, sd, festival, volunteer, blind, visit, randomized, tinnitus, included, unprotected, performance, identification, questionnaire, criterion, added, claims, concerts, demographics, global, growing, knowledge, matching, past, problem, proof, risen, scarce, topic, advocate, alcohol, appreciation, attendees, august, awareness, comprehensive, consuming, cramer, distributed, gathered, hoc, independently, multivariable, nonuse, perception, physicians, sex, v, women, worse, drug, absolute, recruit, correlated, factor, age, adult, treat, associated, single, trial, loud, year, little, right, occurred, analyzed, outcome, wear, contribute, unit, incidence, perceived, october, behavior, r, analysed, nine, yet, assigned, normal, seen, prospective, regression, male, prevent, speech, linear, analysis, left",
+    "group": 2,
+    "_row": "earplug"
+  },
+  {
+    "term": "participants",
+    "freq": 47,
+    "assocs": "volunteer, recruit, identification, amsterdam, intention, men, netherlands, nl, ntr, trialregister, evidence, sd, attendance, exclusion, conducted, outdoor, september, blind, media, exploratory, social, primarily, festival, included, associated, future, present, visit, single, randomized, analysis, set, unprotected",
+    "group": 1,
+    "_row": "participants"
+  },
+  {
+    "term": "tone",
+    "freq": 51,
+    "assocs": "contralateral, ipsilateral, nbn, sixteen, hl, serve",
+    "group": 1,
+    "_row": "tone"
+  },
+  {
+    "term": "effect",
+    "freq": 60,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "music",
+    "freq": 60,
+    "assocs": "festival, outdoor, september, visit, correlated, advocate, alcohol, appreciation, attendees, august, awareness, comprehensive, consuming, cramer, distributed, gathered, hoc, independently, multivariable, nonuse, perception, physicians, sex, v, women, worse, yet, drug, absolute, factor, amsterdam, intention, men, netherlands, nl, ntr, trialregister, attendance, associated, exclusion, little, primarily, right, occurred, blind, perceived, performance, media, social, analyzed, sd, unit, october, volunteer, loud, behavior, left, identification, post, r, prospective, adult, regression, male, speech, questionnaire, tinnitus, normal, linear, analysis, criterion, included, single, age, date, raise, standard, recruit, trial, hour",
+    "group": 2,
+    "_row": "music"
+  },
+  {
+    "term": "subject",
+    "freq": 62,
+    "assocs": "b, young, ipsilateral, nbn, sixteen, contralateral, hl",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "test",
+    "freq": 64,
+    "assocs": "response",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "significance",
+    "freq": 65,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "induce",
+    "freq": 66,
+    "assocs": "nihl",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "loss",
+    "freq": 66,
+    "assocs": "attendance, questionnaire, sd, social, primarily, amsterdam, intention, men, netherlands, nl, ntr, trialregister, outdoor, september, festival, volunteer, identification, exclusion, blind, media, tinnitus, risk, visit, may, little, randomized, nine, yet, correlated",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "measurable",
+    "freq": 67,
+    "assocs": "pre",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "ear",
+    "freq": 77,
+    "assocs": "right, left, october, analysis, drug, identification, festival, advocate, alcohol, appreciation, attendees, august, awareness, comprehensive, consuming, cramer, distributed, gathered, hoc, independently, multivariable, nonuse, perception, physicians, sex, v, women, worse, visit, regression, factor, outdoor, september, correlated, absolute, sd, volunteer, performance, associated, male, little, analyzed, occurred, unit, perceived, amsterdam, intention, men, netherlands, nl, ntr, trialregister, speech, linear, yet, attendance, set, r, prospective, exclusion, behavior, media, social, primarily, blind, date",
+    "group": 2,
+    "_row": "ear"
+  },
+  {
+    "term": "group",
+    "freq": 85,
+    "assocs": "assigned, randomized, added, claims, concerts, demographics, global, growing, knowledge, matching, past, problem, proof, risen, scarce, topic, unprotected, treat, wear, contribute, incidence, analysed, seen, nine, volunteer, decrease, prevent, year, amsterdam, intention, men, netherlands, nl, ntr, trialregister, sd, attendance, included, exclusion, media, social, primarily, tinnitus, blind, plt, trial, magnitude, outcome, recruit",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "sound",
+    "freq": 89,
+    "assocs": "rate, porpoise",
+    "group": 3,
+    "_row": "sound"
+  },
+  {
+    "term": "khz",
+    "freq": 92,
+    "assocs": "ipsilateral, nbn, sixteen",
+    "group": 1,
+    "_row": "khz"
+  },
+  {
+    "term": "studied",
+    "freq": 97,
+    "assocs": "evidence, exploratory, binding, cc, convincing, ct, domain, dptls, esrr, estrogen, input, io, ligand, molecular, nineteen, nucleotide, pathways, ps, receptor, rs, rscc, synonymous, variant",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "frequencies",
+    "freq": 108,
+    "assocs": "signal",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "level",
+    "freq": 118,
+    "assocs": "",
+    "group": 3,
+    "_row": "level"
+  },
+  {
+    "term": "shift",
+    "freq": 141,
+    "assocs": "indoor",
+    "group": 3,
+    "_row": "shift"
+  },
+  {
+    "term": "db",
+    "freq": 147,
+    "assocs": "drug, absolute, advocate, alcohol, appreciation, attendees, august, awareness, comprehensive, consuming, cramer, distributed, gathered, hoc, independently, multivariable, nonuse, perception, physicians, sex, v, women, worse, correlated, factor, visit, right, october, festival, analyzed, outdoor, september, associated, occurred, little, behavior, linear, unit, perceived, r, regression, prospective, left, identification, yet, performance, media, amsterdam, intention, men, netherlands, nl, ntr, trialregister, exclusion, analysis, male, sd, attendance, volunteer, speech, raise, social, primarily, standard, single, blind, date, per, post, set, investigate, loud",
+    "group": 2,
+    "_row": "db"
+  },
+  {
+    "term": "tts",
+    "freq": 198,
+    "assocs": "",
+    "group": 3,
+    "_row": "tts"
+  },
+  {
+    "term": "exposure",
+    "freq": 201,
+    "assocs": "equivalence, must, apparently, approach, classical, costs, dbmin, disclose, dissipate, energetically, equilibration, gravely, inferences, integrated, irtts, misleading, much, principle, prototype, quotpayquot, represents, restitution, semantic, ss, ts",
+    "group": 3,
+    "_row": "exposure"
+  },
+  {
+    "term": "noise",
+    "freq": 201,
+    "assocs": "",
+    "group": 3,
+    "_row": "noise"
+  },
+  {
+    "term": "threshold",
+    "freq": 210,
+    "assocs": "output, algebraic, captured, decibel, equations, humes, jesteadt, law, macrae, modern, mpl, occasion, prescription, preserve, rare, unaided, power, safe, usage, recommendations, tolerable, long, trade, worsening, relationship, four, device, subsequent, modified, mathematical",
+    "group": 3,
+    "_row": "threshold"
+  }
+]

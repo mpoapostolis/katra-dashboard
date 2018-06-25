@@ -1,0 +1,352 @@
+[
+  {
+    "term": "professional",
+    "freq": 4,
+    "assocs": "adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, based, applied, identified, index, therapists, live",
+    "group": 1,
+    "_row": "professional"
+  },
+  {
+    "term": "programme",
+    "freq": 4,
+    "assocs": "research, work, activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, live, diagnosed, determine, background, positioned, revealed",
+    "group": 1,
+    "_row": "programme"
+  },
+  {
+    "term": "model",
+    "freq": 4,
+    "assocs": "activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, diagnosed, research, work, determine, positioned, revealed, live",
+    "group": 1,
+    "_row": "model"
+  },
+  {
+    "term": "moose",
+    "freq": 4,
+    "assocs": "activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, diagnosed, research, work, determine, positioned, revealed, live",
+    "group": 1,
+    "_row": "moose"
+  },
+  {
+    "term": "brain",
+    "freq": 5,
+    "assocs": "activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, determine, diagnosed, research, work, positioned, revealed, live",
+    "group": 1,
+    "_row": "brain"
+  },
+  {
+    "term": "function",
+    "freq": 5,
+    "assocs": "positioned, determine, activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, diagnosed, research, work",
+    "group": 1,
+    "_row": "function"
+  },
+  {
+    "term": "plasma",
+    "freq": 5,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, applied, associated, compared, found, identified, index, positioned",
+    "group": 1,
+    "_row": "plasma"
+  },
+  {
+    "term": "test",
+    "freq": 5,
+    "assocs": "method, present, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, background, associated, found, revealed, therapists, determine",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "analysis",
+    "freq": 5,
+    "assocs": "demographic, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, present",
+    "group": 1,
+    "_row": "analysis"
+  },
+  {
+    "term": "data",
+    "freq": 5,
+    "assocs": "demographic, present, suggested, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, revealed",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "prevalence",
+    "freq": 5,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, demographic, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, suggested, also, compared",
+    "group": 2,
+    "_row": "prevalence"
+  },
+  {
+    "term": "mild",
+    "freq": 5,
+    "assocs": "present, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, revealed, background, associated, found, therapists, diagnosed",
+    "group": 1,
+    "_row": "mild"
+  },
+  {
+    "term": "kuwait",
+    "freq": 5,
+    "assocs": "adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, based, applied, identified, index, therapists, live",
+    "group": 1,
+    "_row": "kuwait"
+  },
+  {
+    "term": "bdnf",
+    "freq": 6,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, applied, associated, compared, found, identified, index, positioned",
+    "group": 1,
+    "_row": "bdnf"
+  },
+  {
+    "term": "low",
+    "freq": 6,
+    "assocs": "associated, found, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, present",
+    "group": 1,
+    "_row": "low"
+  },
+  {
+    "term": "occupation",
+    "freq": 6,
+    "assocs": "method, live, background, research, work, based, determine, adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, diagnosed",
+    "group": 1,
+    "_row": "occupation"
+  },
+  {
+    "term": "among",
+    "freq": 6,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 2,
+    "_row": "among"
+  },
+  {
+    "term": "assisted",
+    "freq": 6,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 2,
+    "_row": "assisted"
+  },
+  {
+    "term": "include",
+    "freq": 6,
+    "assocs": "adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, common, based, live",
+    "group": 1,
+    "_row": "include"
+  },
+  {
+    "term": "older",
+    "freq": 6,
+    "assocs": "demographic, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, suggested, also",
+    "group": 2,
+    "_row": "older"
+  },
+  {
+    "term": "risk",
+    "freq": 6,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 2,
+    "_row": "risk"
+  },
+  {
+    "term": "statistically",
+    "freq": 6,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, demographic, suggested, also, potential, common",
+    "group": 2,
+    "_row": "statistically"
+  },
+  {
+    "term": "workers",
+    "freq": 7,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, applied, associated, compared, found, identified, index, positioned",
+    "group": 1,
+    "_row": "workers"
+  },
+  {
+    "term": "care",
+    "freq": 7,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, common, potential, demographic, suggested, also, compared",
+    "group": 2,
+    "_row": "care"
+  },
+  {
+    "term": "education",
+    "freq": 7,
+    "assocs": "therapists, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, demographic, present",
+    "group": 1,
+    "_row": "education"
+  },
+  {
+    "term": "participants",
+    "freq": 7,
+    "assocs": "activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, diagnosed, research, work, determine, positioned, revealed, live",
+    "group": 1,
+    "_row": "participants"
+  },
+  {
+    "term": "mn",
+    "freq": 8,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, applied, associated, compared, found, identified, index, positioned",
+    "group": 1,
+    "_row": "mn"
+  },
+  {
+    "term": "montreal",
+    "freq": 8,
+    "assocs": "suggested, also, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, demographic, common, compared",
+    "group": 2,
+    "_row": "montreal"
+  },
+  {
+    "term": "score",
+    "freq": 8,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, compared, potential, also, associated, found, positioned",
+    "group": 1,
+    "_row": "score"
+  },
+  {
+    "term": "year",
+    "freq": 8,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 2,
+    "_row": "year"
+  },
+  {
+    "term": "mci",
+    "freq": 8,
+    "assocs": "almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, present, associated, found, revealed, therapists",
+    "group": 1,
+    "_row": "mci"
+  },
+  {
+    "term": "individual",
+    "freq": 8,
+    "assocs": "research, work, live, activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, background, diagnosed, determine",
+    "group": 1,
+    "_row": "individual"
+  },
+  {
+    "term": "factor",
+    "freq": 9,
+    "assocs": "demographic, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, suggested, also, compared",
+    "group": 2,
+    "_row": "factor"
+  },
+  {
+    "term": "self",
+    "freq": 9,
+    "assocs": "suggested, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, demographic, also, potential, common",
+    "group": 2,
+    "_row": "self"
+  },
+  {
+    "term": "impairment",
+    "freq": 10,
+    "assocs": "demographic, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, almost, analyzed, chi, chulalongkorn, decelerate, decline, dementia, detect, duration, eligible, enrolled, established, frank, half, hormone, hospital, hrt, important, income, king, less, marital, material, memorial, menopause, monthly, multiple, nevertheless, obtain, october, percentage, persons, prevent, progress, proportion, questionnaires, regression, replacement, reported, showed, sizeable, spss, square, status, student, surgical, t, thai, thailand, univariate, version, well, women, potential, common",
+    "group": 1,
+    "_row": "impairment"
+  },
+  {
+    "term": "rehabilitation",
+    "freq": 10,
+    "assocs": "live, research, work, adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, based, background",
+    "group": 1,
+    "_row": "rehabilitation"
+  },
+  {
+    "term": "group",
+    "freq": 11,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, compared, applied, identified, index, associated, found, positioned",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "age",
+    "freq": 11,
+    "assocs": "demographic, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, suggested, also, compared",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "exposure",
+    "freq": 12,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, applied, associated, compared, found, identified, index, positioned",
+    "group": 1,
+    "_row": "exposure"
+  },
+  {
+    "term": "peritoneal",
+    "freq": 12,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 2,
+    "_row": "peritoneal"
+  },
+  {
+    "term": "level",
+    "freq": 13,
+    "assocs": "additionally, control, correlation, cross, cumulative, decreased, derived, divided, dose, elisa, estimate, explore, exposed, high, increased, intermediate, inversely, large, lower, lowest, manganese, may, ml, moreover, neurotrophic, pg, plt, ptrendlt, r, recruited, region, relationship, response, sectional, selected, subjects, three, total, associated, found, compared",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "assessing",
+    "freq": 14,
+    "assocs": "adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, common, based, live",
+    "group": 1,
+    "_row": "assessing"
+  },
+  {
+    "term": "significant",
+    "freq": 14,
+    "assocs": "demographic, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, also, suggested, common, compared",
+    "group": 2,
+    "_row": "significant"
+  },
+  {
+    "term": "related",
+    "freq": 14,
+    "assocs": "demographic, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, common, potential, suggested, also, compared",
+    "group": 2,
+    "_row": "related"
+  },
+  {
+    "term": "studied",
+    "freq": 15,
+    "assocs": "diagnosed, revealed, determine, activities, aim, back, called, design, despite, e, effect, experience, f, facilitate, findings, gather, improved, indicated, intervention, limitations, major, measured, moderate, often, order, paradigm, part, post, pre, quantitative, return, specifically, sustained, tbi, ten, traumatic, utilizes, vocational, whether, within, suggested, present",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "moca",
+    "freq": 17,
+    "assocs": "potential, also, absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, compared, demographic, suggested, common",
+    "group": 2,
+    "_row": "moca"
+  },
+  {
+    "term": "patient",
+    "freq": 20,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 3,
+    "_row": "patient"
+  },
+  {
+    "term": "ci",
+    "freq": 24,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 3,
+    "_row": "ci"
+  },
+  {
+    "term": "pd",
+    "freq": 26,
+    "assocs": "absence, acute, adequacy, adjustment, blood, characteristics, chronic, collected, comorbidities, confidence, defined, dialysis, differences, even, exit, failure, female, first, fourteen, helpers, however, hundred, illness, impact, independent, infections, interval, likely, local, lt, medications, multivariate, number, odds, old, one, outcome, parameters, performed, presence, rate, ratio, receiving, renal, role, similar, site, started, terms, training, potential, common, demographic, suggested, also, compared",
+    "group": 3,
+    "_row": "pd"
+  },
+  {
+    "term": "cognition",
+    "freq": 33,
+    "assocs": "common, adult, appropriate, astute, availability, barriers, barthel, bisection, checklist, clinical, clubs, conditions, conducted, continuing, copm, deficits, develop, evidence, examine, face, fim, funds, guidelines, health, inter, interest, interviews, journal, lack, language, line, lotca, mmse, must, need, neurological, neurologists, pathologists, practice, practitioners, psychiatrists, recognizing, resources, special, speech, standardized, sufficient, teamwork, time, treating, unavailable, background",
+    "group": 1,
+    "_row": "cognition"
+  }
+]

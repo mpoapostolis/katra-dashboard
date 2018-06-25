@@ -1,0 +1,352 @@
+[
+  {
+    "term": "mask",
+    "freq": 52,
+    "assocs": "vertebrates, release, mammal, marine, anthropogenic, anti, bioacoustic, comodulation, etc, foraging, lombard, navigation, oceans, phenomenon, terrestrial, way, critical",
+    "group": 1,
+    "_row": "mask"
+  },
+  {
+    "term": "ci",
+    "freq": 52,
+    "assocs": "drug, multivariable, visit, advocate, attendees, august, cramer, date, gathered, hoc, october, raise, v, alcohol, absolute, festival, right, appreciably, september, left, sex, r, music, per, blind, unit, earplug, media, ntr, trialregister, intention, volunteers, tts, occurred, prospective, exclusion, criterion, single, sd, yet, consumer, amsterdam, hour, recruited, post, analysis, male, identification, netherlands, nl, awareness, distributed, worse, women, outdoor, attend",
+    "group": 2,
+    "_row": "ci"
+  },
+  {
+    "term": "adult",
+    "freq": 53,
+    "assocs": "worse",
+    "group": 1,
+    "_row": "adult"
+  },
+  {
+    "term": "percept",
+    "freq": 53,
+    "assocs": "afterward, env, friedman, interaural, itd, software, spss, surprisingly, vis, program, months, reliable, elderly, sixteen, sought, shown, immediate, disorder, based, intervention, time, train",
+    "group": 1,
+    "_row": "percept"
+  },
+  {
+    "term": "risk",
+    "freq": 53,
+    "assocs": "questionnaire, interview, problem, accidents, allergies, backache, budget, chemical, deadlines, dermatitis, dimensions, discretion, dusts, elsewhere, ergonomic, eswc, european, fatigue, foundation, fumes, hand, leave, limbs, muscular, paid, priori, sick, sight, skill, spell, stomach, subscribers, tight, union, vapours, veneto, vibrations, decision, equipment, headache, pain, region, third, sample, upper, workplace, protect, regarded, work",
+    "group": 1,
+    "_row": "risk"
+  },
+  {
+    "term": "increase",
+    "freq": 54,
+    "assocs": "equation, health, establish, alarming, entered, sh, srtn, triplet, web",
+    "group": 1,
+    "_row": "increase"
+  },
+  {
+    "term": "occupation",
+    "freq": 54,
+    "assocs": "absent, expertise, acknowledgements, alpes, anonymously, badly, bring, came, certificate, civil, compensated, consultants, corsica, crrmp, dazur, december, declarations, favourable, files, france, french, gime, overrun, pronounce, provence, quotr, ralquot, realization, security, seized, submission, te, unexploitable, unfavourable, federation, medicine, neuro, nowadays, premorbid, russian, viewpoint",
+    "group": 1,
+    "_row": "occupation"
+  },
+  {
+    "term": "experience",
+    "freq": 56,
+    "assocs": "",
+    "group": 1,
+    "_row": "experience"
+  },
+  {
+    "term": "patient",
+    "freq": 56,
+    "assocs": "comorbidity, default, discomfortquot, hyperacusis, hypervigilance, input, interplay, maneuvers, neck, notion, november, overactivation, overlap, pathophysiologic, pitch, quotdo, quotnoquot, quotyesquot, tri, unspecific, vertigo, mental",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "abilities",
+    "freq": 57,
+    "assocs": "alarming, entered, sh, srtn, triplet, web, longitudinal, distress, somatic, psychosocial, loneliness, stable, feelings, digit, nonuse, subgroup, e, online, educated, whose, poorer, equation, decline",
+    "group": 1,
+    "_row": "abilities"
+  },
+  {
+    "term": "tinnitus",
+    "freq": 57,
+    "assocs": "treatment, animal, aggressive, anogenital, away, bit, bite, climbing, grooming, kicking, nudging, salicylate, sham, sniffed, hyperacusis, comorbidity, default, discomfortquot, hypervigilance, input, interplay, maneuvers, neck, notion, november, overactivation, overlap, pathophysiologic, pitch, quotdo, quotnoquot, quotyesquot, tri, unspecific, vertigo, member, behaviour, interacting",
+    "group": 1,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "assess",
+    "freq": 59,
+    "assocs": "questionnaire, blind, consumer, criterion, tool, cutoff, efficacious, enforce, ensure, florida, food, inaccessible, mayo, necessitating, neurotologist, procurement, prototype, reengineer, refined, surveillance, unreasonable, disease, neurotologic, specific, unit, minimal, barrier, curve, create, yet, equation, include, administration, valid, miss, sample, sd, establish, operant, enrolled, access, expert, otorhinolaryngologists",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "audiometric",
+    "freq": 60,
+    "assocs": "limit, center, beaver, biomedical, clinicians, dam, doctor, entire, epidemiological, etiologies, fall, hd, hds, hobbies, lifestyle, neurological, offspring, probe, scope, tingling",
+    "group": 1,
+    "_row": "audiometric"
+  },
+  {
+    "term": "high",
+    "freq": 60,
+    "assocs": "recreation, htl, technical, adolescent, mge, holistic, immission, nightclubs, extended",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "frequencies",
+    "freq": 60,
+    "assocs": "average, mid",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "evaluate",
+    "freq": 61,
+    "assocs": "cs, fs, gd, gradual, indispensable, mld, normative, sin, spectrotemporal",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "impair",
+    "freq": 61,
+    "assocs": "diabetes, noninstitutionalized, vasculature, prevalence, mild, mid, greater",
+    "group": 1,
+    "_row": "impair"
+  },
+  {
+    "term": "perform",
+    "freq": 64,
+    "assocs": "per, multivariable",
+    "group": 1,
+    "_row": "perform"
+  },
+  {
+    "term": "measurable",
+    "freq": 67,
+    "assocs": "",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "comparable",
+    "freq": 67,
+    "assocs": "recreation, lt",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "signal",
+    "freq": 68,
+    "assocs": "cocktail, synthetic, formants, mnb, msb, nonspeech, parametrically, quieter, quotsinewave, sinewaves, speechquot, unattended, sine, band",
+    "group": 1,
+    "_row": "signal"
+  },
+  {
+    "term": "present",
+    "freq": 69,
+    "assocs": "",
+    "group": 1,
+    "_row": "present"
+  },
+  {
+    "term": "subject",
+    "freq": 69,
+    "assocs": "",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "ear",
+    "freq": 69,
+    "assocs": "drug, blind, right, visit, unit, festival, september, consumer, advocate, attendees, august, cramer, date, gathered, hoc, october, raise, v, left, absolute, alcohol, appreciably, r, criterion, yet, music, per, multivariable, volunteers, tts, earplug, media, ntr, trialregister, sex, intention, sd, exclusion, single, occurred, prospective, recruited, amsterdam, hour, attend, post, analysis, netherlands, nl",
+    "group": 2,
+    "_row": "ear"
+  },
+  {
+    "term": "effect",
+    "freq": 70,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "normal",
+    "freq": 70,
+    "assocs": "debate, bilaterally",
+    "group": 1,
+    "_row": "normal"
+  },
+  {
+    "term": "condition",
+    "freq": 71,
+    "assocs": "arhl, bottom, course, delayed, phonemic, preclude, pseudowords, top, untrained, y, learned, session, ease",
+    "group": 1,
+    "_row": "condition"
+  },
+  {
+    "term": "factor",
+    "freq": 72,
+    "assocs": "multivariable, sex, alcohol, advocate, attendees, august, cramer, date, gathered, hoc, october, raise, v, appreciably, absolute, right, left, visit, drug",
+    "group": 1,
+    "_row": "factor"
+  },
+  {
+    "term": "listen",
+    "freq": 74,
+    "assocs": "",
+    "group": 1,
+    "_row": "listen"
+  },
+  {
+    "term": "participant",
+    "freq": 78,
+    "assocs": "blind, criterion, netherlands, nl, questionnaire, outcome, include, sd, tts, earplug, media, ntr, trialregister, intention, volunteers, random, festival, september, consumer, exclusion, unit, music, visit, drug, equation, amsterdam, hour, recruited",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "year",
+    "freq": 78,
+    "assocs": "netherlands, nl, baseline, loneliness, longitudinal, nonuse, follow, subgroup, equation, alarming, entered, sh, srtn, triplet, web, psychosocial",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "db",
+    "freq": 83,
+    "assocs": "r, advocate, attendees, august, cramer, date, gathered, hoc, october, raise, v, absolute, visit, alcohol, right, appreciably, festival, september, drug, left, multivariable, per, music, sex, occurred, single, prospective, earplug, media, ntr, trialregister, intention, volunteers, tts, post, exclusion, recruited, hour, amsterdam, male, distributed, correlate, awareness, netherlands, nl, blind, sd, unit, analysis, criterion",
+    "group": 2,
+    "_row": "db"
+  },
+  {
+    "term": "report",
+    "freq": 85,
+    "assocs": "self, epidemiological, beaver, biomedical, clinicians, dam, doctor, entire, etiologies, fall, hd, hds, hobbies, lifestyle, neurological, offspring, probe, scope, tingling, percentage, third, encounter, vision, center, overall, limit",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "associated",
+    "freq": 86,
+    "assocs": "nonuse, linear, netherlands, nl, regression, sex, multivariable, longitudinal, alarming, entered, sh, srtn, triplet, web, advocate, attendees, august, cramer, date, gathered, hoc, october, raise, v, right, alcohol, absolute, psychosocial, distress, somatic, drug, r, women, loneliness, subgroup, analyze, appreciably, left, visit",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "relate",
+    "freq": 89,
+    "assocs": "",
+    "group": 1,
+    "_row": "relate"
+  },
+  {
+    "term": "threshold",
+    "freq": 91,
+    "assocs": "",
+    "group": 1,
+    "_row": "threshold"
+  },
+  {
+    "term": "differ",
+    "freq": 102,
+    "assocs": "little",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "age",
+    "freq": 102,
+    "assocs": "logistic, regression, older",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "significance",
+    "freq": 103,
+    "assocs": "aggressive, anogenital, away, bit, bite, climbing, grooming, kicking, nudging, salicylate, sham, sniffed, animal, member, behaviour",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "social",
+    "freq": 119,
+    "assocs": "appear",
+    "group": 1,
+    "_row": "social"
+  },
+  {
+    "term": "group",
+    "freq": 123,
+    "assocs": "incidence, proof, scarce, unprotected, treat, random, risen, added, assigned, global, growing, temporarily, prevent, claimants, concerts, tts, decrease, earplug, media, ntr, trialregister, intention, volunteers, amplitude, knowledge, exclusion, topic, amsterdam, hour, recruited, evidence, wear, seen, blind, include, magnitude, shift, sd, nine, otoacoustic, netherlands, nl",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "level",
+    "freq": 125,
+    "assocs": "eight, undertook, wm, around, loud",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "sound",
+    "freq": 131,
+    "assocs": "loud, annoyance, eight, undertook, wm, driven, influence, capacity, disturbances, record, around, rate, expect, emitted",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "loss",
+    "freq": 132,
+    "assocs": "chances, cis, counseling, delineate, maternal, paternal, west, yrs, familial, logistic, strong, without, confidence",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "exposure",
+    "freq": 148,
+    "assocs": "dba",
+    "group": 1,
+    "_row": "exposure"
+  },
+  {
+    "term": "test",
+    "freq": 168,
+    "assocs": "function, ac, afferent, articulation, ascending, beyond, conjunction, cornerstone, description, efferent, imparied, lecture, lobe, phonology, profiles, subcortical, wider, central",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "studied",
+    "freq": 175,
+    "assocs": "",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "speech",
+    "freq": 178,
+    "assocs": "envelope, afterward, env, friedman, interaural, itd, software, spss, surprisingly, vis",
+    "group": 1,
+    "_row": "speech"
+  },
+  {
+    "term": "noise",
+    "freq": 362,
+    "assocs": "",
+    "group": 3,
+    "_row": "noise"
+  },
+  {
+    "term": "hear",
+    "freq": 459,
+    "assocs": "regression",
+    "group": 3,
+    "_row": "hear"
+  }
+]

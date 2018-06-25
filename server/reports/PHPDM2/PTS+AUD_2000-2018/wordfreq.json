@@ -1,0 +1,352 @@
+[
+  {
+    "term": "suggest",
+    "freq": 15,
+    "assocs": "time, final, e, specific",
+    "group": 1,
+    "_row": "suggest"
+  },
+  {
+    "term": "tone",
+    "freq": 15,
+    "assocs": "pure, want",
+    "group": 1,
+    "_row": "tone"
+  },
+  {
+    "term": "evaluate",
+    "freq": 15,
+    "assocs": "assault, begun, cadets, contralateral, corps, cut, decision, drill, efferent, enough, explore, feel, firearms, ga, heckler, hellenic, implementing, interestingly, just, koch, manner, mm, oaes, points, prone, research, rounds, slight, strength, suppression, tentative, toward, trend, vulnerability, yielded, specific, later, participants, third, baseline, sensitive, diagnostic, volunteers, immediately, want, far, efficient, future, likelihood, operant, utility, officers, protocol, conservation, therefore, characteristics, concern, amplitude, identical, comprised, training, gunfire, present, aim, due, still, second, susceptibility, particular, final, complete, basic, position, rifle, routine, set, generate, possible, time, suffer, transient, analysis, evidence, receive, evoked, conducted, obtained, program, identified, system",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "change",
+    "freq": 16,
+    "assocs": "absent, aircraft, bayesian, best, carrier, deployment, eighteen, furthermore, mirrored, predictor, sixfold, undetected, correlated, approximately, longitudinal, half, decrease, moderate, distortion, acquired, transient, indicate",
+    "group": 1,
+    "_row": "change"
+  },
+  {
+    "term": "khz",
+    "freq": 16,
+    "assocs": "sex, pa, harbor",
+    "group": 1,
+    "_row": "khz"
+  },
+  {
+    "term": "included",
+    "freq": 16,
+    "assocs": "curve, impulse, rifle, dose, agreement, chinchilla, collect, construct, empirical, full, good, unprotected, weapons, response, develop, application, date, account, defined, historical, new, guidance, laboratories",
+    "group": 1,
+    "_row": "included"
+  },
+  {
+    "term": "safe",
+    "freq": 16,
+    "assocs": "algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, recommend, amplification, worsening, equation, delivered, loud, preserve, relationship, captured, devices, consistently, four, occur, involved, lower, modified, hl, expressed, validate, set, term, pressure, combination, long, identified, limitations",
+    "group": 2,
+    "_row": "safe"
+  },
+  {
+    "term": "age",
+    "freq": 16,
+    "assocs": "five, consequently, corti, enhanced, existence, fat, g, indeed, mature, old, preparations, regardless, slim, strictly, styrene, surface, undertaken, whose, major, period, weight, week, two, critical, experience, left, three, carried, current, expected, classical, corrected, explain, extent, filled, lowest, nitps, orchestra, remaining, smaller, trumpet, violinists, highest, confidence, interval, elevated",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "active",
+    "freq": 16,
+    "assocs": "male, recreational, air, audiological, carhart, discomfort, hull, italian, mf, negative, peyser, tdt, ten, career, job, challenges, civilian, compliance, defense, demographic, enlisted, fields, force, guard, lifestyle, national, nonoccupational, nonveterans, proportion, reserve, servicemember, states, timeframe, worldwide, last, prevalence, sonar, categories, larger, unit, absence, audio, course, demonstrate, practice",
+    "group": 1,
+    "_row": "active"
+  },
+  {
+    "term": "divers",
+    "freq": 16,
+    "assocs": "absence, course, middle, audiological, carhart, discomfort, hull, italian, mf, negative, peyser, tdt, ten, sonar, six, adjusted, barotrauma, decompression, difficulties, disputed, interviewed, logbooks, look, order, otologist, se, sickness, uneventful, end, last, audio, bone, demonstrate, fail, pulse",
+    "group": 1,
+    "_row": "divers"
+  },
+  {
+    "term": "output",
+    "freq": 16,
+    "assocs": "algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, recommend, amplification, worsening, equation, delivered, loud, preserve, relationship, captured, devices, four, occur, consistently, involved, lower, modified, hl, expressed, validate, set, term, pressure, combination, long, identified, limitations",
+    "group": 2,
+    "_row": "output"
+  },
+  {
+    "term": "predict",
+    "freq": 17,
+    "assocs": "lead, individual, nipts, iso, better, new, classical, corrected, explain, extent, filled, lowest, nitps, orchestra, remaining, smaller, trumpet, violinists, identified",
+    "group": 1,
+    "_row": "predict"
+  },
+  {
+    "term": "year",
+    "freq": 18,
+    "assocs": "examination, people, females, background, case, respond, find, annual, belonged, blows, club, dip, head, incidence, kendo, members, moreover, school, senior, team, according, alcohol, blocked, constant, descriptive, detailed, dhulikhel, hospital, impedence, kathmandu, odds, police, ratio, traffic, unilateral, service, confidence, interval",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "follow",
+    "freq": 19,
+    "assocs": "repeated, suffer, evidence, procedure, causal, adjusted, barotrauma, decompression, difficulties, disputed, interviewed, logbooks, look, order, otologist, se, sickness, uneventful",
+    "group": 1,
+    "_row": "follow"
+  },
+  {
+    "term": "occupation",
+    "freq": 19,
+    "assocs": "career, job, unit, prevalence, larger, challenges, civilian, compliance, defense, demographic, enlisted, fields, force, guard, lifestyle, national, nonoccupational, nonveterans, proportion, reserve, servicemember, states, timeframe, worldwide, recorded, air, associated, categories, among, analyze, hazard, surveillance",
+    "group": 1,
+    "_row": "occupation"
+  },
+  {
+    "term": "hz",
+    "freq": 20,
+    "assocs": "abnormal, normal, shown, ac, automobile, calculation, chi, cities, deduced, done, drivers, education, efforts, elements, harmful, hence, highlighted, independent, iran, key, mainly, maintenance, noticeable, pearson, professional, province, roads, sooner, square, subtracted, symmetrical, task, truck, urgent, vehicles, whole, annual, belonged, blows, club, dip, head, incidence, kendo, members, moreover, school, senior, team, frequent, sensation, impaired, student, intervention",
+    "group": 1,
+    "_row": "hz"
+  },
+  {
+    "term": "musician",
+    "freq": 20,
+    "assocs": "observed, related, player, questionnaire, classical, corrected, explain, extent, filled, lowest, nitps, orchestra, remaining, smaller, trumpet, violinists, ambiguous, bass, chronic, custom, earplugs, fitted, guitar, instrument, inversely, nonmusicians, norway, norwegian, oslo, poorer, pronounced, recruited, region, rock, survey, symptomatology, troms, vocalists, expected, elevated, sample, tinnitus, left, degree, highest, iso, right, random, music, performance",
+    "group": 1,
+    "_row": "musician"
+  },
+  {
+    "term": "effect",
+    "freq": 21,
+    "assocs": "emphasize",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "otoacoustic",
+    "freq": 21,
+    "assocs": "transient, absent, aircraft, bayesian, best, carrier, deployment, eighteen, furthermore, mirrored, predictor, sixfold, undetected, approximately, longitudinal, correlated, evoked, amplitude, diagnostic, volunteers, half, decrease, distortion, moderate, acquired, therefore, indicate",
+    "group": 1,
+    "_row": "otoacoustic"
+  },
+  {
+    "term": "group",
+    "freq": 22,
+    "assocs": "experience, major, consequently, corti, enhanced, existence, fat, g, indeed, mature, old, preparations, regardless, slim, strictly, styrene, surface, undertaken, whose, weight",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "measurable",
+    "freq": 22,
+    "assocs": "established, pre, personal, agreed, amongst, areas, attending, attitudes, bar, cent, discotheques, dosemeters, employees, entertainment, exceeding, iii, invited, little, maximum, peak, pilot, public, rather, security, staff, static, typical, venue, yet, low",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "day",
+    "freq": 23,
+    "assocs": "time, mg, administered, deficits, electrophysiological, encompasses, formation, free, inconsistent, longer, mechanisms, nutrients, opportunity, postnoise, prior, radical, reductions, reliably, saline, share, h, guinea, pigs, sensitive, whether, reduce, first, final, produce",
+    "group": 1,
+    "_row": "day"
+  },
+  {
+    "term": "difference",
+    "freq": 24,
+    "assocs": "placebo, acetylcysteine, adjunct, blinded, decade, despite, double, hand, handedness, hoc, nac, null, percentage, profile, rejected, sts, suboptimal, superior, taken, trigger, post, investigate, analyses, rate, second, total, based, number, fail, confirm, prospective, outcome, analysis, training",
+    "group": 1,
+    "_row": "difference"
+  },
+  {
+    "term": "emission",
+    "freq": 24,
+    "assocs": "transient, absent, aircraft, bayesian, best, carrier, deployment, eighteen, furthermore, mirrored, predictor, sixfold, undetected, approximately, longitudinal, correlated, evoked, amplitude, decrease, diagnostic, volunteers, half, distortion, moderate, acquired, indicate, therefore",
+    "group": 1,
+    "_row": "emission"
+  },
+  {
+    "term": "exposed",
+    "freq": 24,
+    "assocs": "role, ppm, colliculus, consecutive, end, evans, inferior, rat, acid, acivicin, aromatic, benzyl, bma, chemical, compound, conjugate, conventional, cysteine, gamma, glutamyl, gt, hepatic, histological, inhibition, inhibitor, kg, mediated, mercapturic, metabolism, metabolites, partial, pathway, renal, solvent, strongly, subacute, toluene, transferase, twice, organ",
+    "group": 1,
+    "_row": "exposed"
+  },
+  {
+    "term": "high",
+    "freq": 26,
+    "assocs": "need, important, actual, china, differentiated, epidemiological, gaussian, incorporation, incurred, inherent, kurtosis, median, posed, temporal, waveforms, part, environment, young, metric, understand, industrial, ii, accuracy, t, especially, variable, agreed, amongst, areas, attending, attitudes, bar, cent, discotheques, dosemeters, employees, entertainment, exceeding, iii, invited, little, maximum, peak, pilot, public, rather, security, staff, static, typical, value, venue, yet, hazard, personal, pre",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "data",
+    "freq": 26,
+    "assocs": "curve, impulse, agreement, chinchilla, collect, construct, empirical, full, good, unprotected, response, dose, rifle, historical, date, weapons, guidance, dba, range, injuries, new, account, defined, known, large, laboratories, expressed, validate, human, develop, provide, outcome",
+    "group": 3,
+    "_row": "data"
+  },
+  {
+    "term": "sound",
+    "freq": 27,
+    "assocs": "pressure, min, re, porpoise, pa, fatiguing, occur, harbor, aquat, bowles, cetaceans, criteria, criterion, cycle, echolocating, ellison, equivalent, finneran, greene, intermittent, kastak, ketten, leq, mamm, miller, nachtigall, naval, pas, proposed, richardson, sel, selcum, sequence, southall, splav, sweeps, thomas, tyack",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "spl",
+    "freq": 27,
+    "assocs": "algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, recommend, amplification, worsening, equation, delivered, loud, preserve, relationship, captured, devices, four, set, occur, consistently, involved, lower, modified, hl, expressed, validate, identified, limitations, pressure, term, combination, long",
+    "group": 2,
+    "_row": "spl"
+  },
+  {
+    "term": "model",
+    "freq": 27,
+    "assocs": "new, agreement, chinchilla, collect, construct, empirical, full, good, unprotected, response, dose, historical, expressed, validate, date, weapons, guidance, curve, impulse, human, dba, account, defined, range, known, injuries, large, develop, laboratories, rifle, provide, outcome",
+    "group": 3,
+    "_row": "model"
+  },
+  {
+    "term": "audiometric",
+    "freq": 29,
+    "assocs": "absent, aircraft, bayesian, best, carrier, deployment, eighteen, furthermore, mirrored, predictor, sixfold, undetected, advantages, ample, anesthesia, awake, contrast, distinct, etiology, fairly, general, mice, perceptual, ppi, prepulse, prerequisite, quick, reflex, simultaneously, species, startle, targeting, techniques, throughput, tool, traditional, wave",
+    "group": 1,
+    "_row": "audiometric"
+  },
+  {
+    "term": "determination",
+    "freq": 29,
+    "assocs": "set, involved, devices, recommend, amplification, algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, conducted, sensitive, equation, delivered, loud, limitations, occur, worsening, preserve, relationship, captured",
+    "group": 1,
+    "_row": "determination"
+  },
+  {
+    "term": "show",
+    "freq": 30,
+    "assocs": "teoae, present, baseline, conservation, want, participants, third, amplitude, transient, training, efficient, assault, begun, cadets, contralateral, corps, cut, decision, drill, efferent, enough, explore, feel, firearms, ga, heckler, hellenic, implementing, interestingly, just, koch, manner, mm, oaes, points, prone, research, rounds, slight, strength, suppression, tentative, toward, trend, vulnerability, yielded, diagnostic, volunteers, far, specific, later, rifle, evoked, immediately, future, likelihood, operant, utility, officers, due, sensitive, characteristics, concern, identical, comprised",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "subject",
+    "freq": 32,
+    "assocs": "addition, seem, database",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "induce",
+    "freq": 32,
+    "assocs": "design, trial, clinical",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "frequencies",
+    "freq": 33,
+    "assocs": "greater, nine, take, work, ac, automobile, calculation, chi, cities, deduced, done, drivers, education, efforts, elements, harmful, hence, highlighted, independent, iran, key, mainly, maintenance, noticeable, pearson, professional, province, roads, sooner, square, subtracted, symmetrical, task, truck, urgent, vehicles, whole, pre, sensation, conditioning, mid, impaired, intervention, consider, part, personal",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "significance",
+    "freq": 34,
+    "assocs": "placebo, confirm, prospective, analyses, acetylcysteine, adjunct, blinded, decade, despite, double, hand, handedness, hoc, nac, null, percentage, profile, rejected, sts, suboptimal, superior, taken, trigger, antioxidant, analysis, number, post, design, based, clinical, nihl, outcome",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "pts",
+    "freq": 36,
+    "assocs": "expressed, rifle, validate, set, curve, impulse, sensitive, new, also, delivered, loud, human, identified, limitations, agreement, chinchilla, collect, construct, empirical, full, good, unprotected, algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, assault, begun, cadets, contralateral, corps, cut, decision, drill, efferent, enough, explore, feel, firearms, ga, heckler, hellenic, implementing, interestingly, just, koch, manner, mm, oaes, points, prone, research, rounds, slight, strength, suppression, tentative, toward, trend, vulnerability, yielded",
+    "group": 3,
+    "_row": "pts"
+  },
+  {
+    "term": "test",
+    "freq": 38,
+    "assocs": "audiological, carhart, discomfort, hull, italian, mf, negative, peyser, tdt, ten, curve, impulse, bone, rifle, want, guidance, response, present",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "ear",
+    "freq": 42,
+    "assocs": "comprised, basic, baseline, amplitude, confidence, interval, participants, aim, conservation, diagnostic, volunteers, third, evidence, classical, corrected, explain, extent, filled, lowest, nitps, orchestra, remaining, smaller, trumpet, violinists, assault, begun, cadets, contralateral, corps, cut, decision, drill, efferent, enough, explore, feel, firearms, ga, heckler, hellenic, implementing, interestingly, just, koch, manner, mm, oaes, points, prone, research, rounds, slight, strength, suppression, tentative, toward, trend, vulnerability, yielded, questionnaire, teoae, highest",
+    "group": 1,
+    "_row": "ear"
+  },
+  {
+    "term": "permanent",
+    "freq": 42,
+    "assocs": "",
+    "group": 1,
+    "_row": "permanent"
+  },
+  {
+    "term": "db",
+    "freq": 47,
+    "assocs": "linear, susceptibility, per, equal, fatiguing, absolute, arising, california, californianus, exponential, framework, growth, intense, lion, logmin, media, mupa, sea, water, zalophus",
+    "group": 1,
+    "_row": "db"
+  },
+  {
+    "term": "level",
+    "freq": 47,
+    "assocs": "pressure, amplification, better, occur, equation, algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, devices",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "studied",
+    "freq": 52,
+    "assocs": "may, found, ii, total, young, part, especially, characteristics, concern, post",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "tts",
+    "freq": 54,
+    "assocs": "curve, impulse, rifle, agreement, chinchilla, collect, construct, empirical, full, good, unprotected, date, response, known, injuries, guidance, historical, dose, weapons, dba, range, new, also",
+    "group": 3,
+    "_row": "tts"
+  },
+  {
+    "term": "loss",
+    "freq": 59,
+    "assocs": "prevalence, job, unit, associated",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "exposure",
+    "freq": 75,
+    "assocs": "dba, estimate, questionnaire",
+    "group": 3,
+    "_row": "exposure"
+  },
+  {
+    "term": "shift",
+    "freq": 78,
+    "assocs": "expressed, rifle, validate, set, curve, impulse",
+    "group": 1,
+    "_row": "shift"
+  },
+  {
+    "term": "noise",
+    "freq": 91,
+    "assocs": "recent, metric, generate, environment, actual, china, differentiated, epidemiological, gaussian, incorporation, incurred, inherent, kurtosis, median, posed, temporal, waveforms",
+    "group": 3,
+    "_row": "noise"
+  },
+  {
+    "term": "threshold",
+    "freq": 121,
+    "assocs": "equation, hl, algebraic, b, decibel, humes, jesteadt, law, macrae, magnitude, mathematical, modern, mpl, occasion, power, prescription, raised, rare, subsequent, tolerance, unaided, usage, occur, lower, recommend, relationship, set, amplification, four, worsening, devices, captured, delivered, loud, consistently, consider, limitations, involved, preserve, expressed, validate",
+    "group": 3,
+    "_row": "threshold"
+  }
+]

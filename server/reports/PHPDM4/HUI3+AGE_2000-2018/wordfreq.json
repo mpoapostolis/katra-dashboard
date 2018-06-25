@@ -1,0 +1,352 @@
+[
+  {
+    "term": "adjust",
+    "freq": 41,
+    "assocs": "agriculture, confounding, former, unbalanced, workers, gender",
+    "group": 1,
+    "_row": "adjust"
+  },
+  {
+    "term": "adult",
+    "freq": 42,
+    "assocs": "aqol, aggregated, anatomic, bifida, childhood, fewer, hr, lesion, spina, youth, young",
+    "group": 1,
+    "_row": "adult"
+  },
+  {
+    "term": "clinic",
+    "freq": 44,
+    "assocs": "appointments, australian, biochemical, caregivers, comprising, crp, eg, epidemiology, erythrocyte, esr, haq, ie, log, paid, pertinent, practitioner, professional, protein, ra, reactive, rheumatoid, routine, sedimentation, shorter, swollen, tender, therapist, resource, key, relationship, r, nonparametric, admission, closely, power, characteristics",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "include",
+    "freq": 44,
+    "assocs": "",
+    "group": 1,
+    "_row": "include"
+  },
+  {
+    "term": "overall",
+    "freq": 45,
+    "assocs": "blood, towards",
+    "group": 1,
+    "_row": "overall"
+  },
+  {
+    "term": "month",
+    "freq": 45,
+    "assocs": "treat, coincided, injections, intermediate, intravitreally, label, letters, loading, na, nonserious, phase, quotreal, ranibizumab, regular, serious, suspected, ve, worldquot, nine, treatment, events, stable, improve, adverse, vfq, outcome, achieve, baseline, need, eye, mg, show, reached, maintain, materials, monitor, open, wet, pattern, x",
+    "group": 1,
+    "_row": "month"
+  },
+  {
+    "term": "self",
+    "freq": 46,
+    "assocs": "g, birth, adolescence, gestation, born, preterm, weight, geographic, adulthood, social, worsened, perceive, along, aspects, elbw, ep, esteem, exogenous, immature, infants, intake, surfactant, tiniest, victoria, friends, functioningin, parent, partner, perceptions, romantic, unemployment, vlbw, vp, whole, control",
+    "group": 1,
+    "_row": "self"
+  },
+  {
+    "term": "several",
+    "freq": 46,
+    "assocs": "key, specialist, power, appointments, australian, biochemical, caregivers, comprising, crp, eg, epidemiology, erythrocyte, esr, haq, ie, log, paid, pertinent, practitioner, professional, protein, ra, reactive, rheumatoid, routine, sedimentation, shorter, swollen, tender, therapist, disease, r",
+    "group": 1,
+    "_row": "several"
+  },
+  {
+    "term": "questionnaire",
+    "freq": 46,
+    "assocs": "agreement, altman, bland, nonparametric, capacity, cities, eqd, italian, musculoskeletal, numerous, quantile, sfd, whilst, dash, hand, healthquot, humeral, proximal, quotperfect, retest, shoulder",
+    "group": 1,
+    "_row": "questionnaire"
+  },
+  {
+    "term": "preference",
+    "freq": 46,
+    "assocs": "count, akaike, backwards, cd, cells, eliminated, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, tenfold, since, hiv, error, final, define, diagnosis, technologies, stepwise, incorporates, predict, automated, range",
+    "group": 1,
+    "_row": "preference"
+  },
+  {
+    "term": "associated",
+    "freq": 48,
+    "assocs": "communities, logistic, dealt, drinker, institute, moreover, none, linear",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "individual",
+    "freq": 48,
+    "assocs": "friends, functioningin, parent, partner, perceptions, romantic, unemployment, vlbw, vp, whole, adulthood, perceive, social, born, preterm, economic, south, worsened, adolescence, negative, verify, geographic, term, prospective, participant, g, lower",
+    "group": 1,
+    "_row": "individual"
+  },
+  {
+    "term": "effect",
+    "freq": 49,
+    "assocs": "cataract, billing, csi, equally, expensive, felt, medicare, payment, procedure, subpopulation, watchful, waiting, dollars, cost, random",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "sample",
+    "freq": 51,
+    "assocs": "usual",
+    "group": 1,
+    "_row": "sample"
+  },
+  {
+    "term": "function",
+    "freq": 51,
+    "assocs": "board, feeling, foundations, theoretical, thermometer, multiattribute, geographic, adulthood, direct, friends, functioningin, parent, partner, perceptions, romantic, unemployment, vlbw, vp, whole, perceive, born, preterm",
+    "group": 1,
+    "_row": "function"
+  },
+  {
+    "term": "lt",
+    "freq": 52,
+    "assocs": "abnormalities, adequately, cholesterol, dcp, dl, fasting, glimepiride, glucose, glycemia, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, insulin, lipid, lipoprotein, metformin, microiu, minimum, ml, parallel, peptide, percent, pioglitazone, plasma, pmol, regimen, release, rosiglitazone, se, sequentially, stabilization, therapies, thiazolidinedione, titrated, tolerability, triglycerides, c, placebo, end, receive, week, low, control, blind, dual, episodes, period, change, hu",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "comparable",
+    "freq": 54,
+    "assocs": "low, verify",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "group",
+    "freq": 56,
+    "assocs": "placebo, blind, combination, mg, abnormalities, adequately, cholesterol, dcp, dl, fasting, glimepiride, glucose, glycemia, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, insulin, lipid, lipoprotein, metformin, microiu, minimum, ml, parallel, peptide, percent, pioglitazone, plasma, pmol, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, therapies",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "status",
+    "freq": 57,
+    "assocs": "",
+    "group": 1,
+    "_row": "status"
+  },
+  {
+    "term": "data",
+    "freq": 57,
+    "assocs": "",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "eq",
+    "freq": 58,
+    "assocs": "euroqol, ratio, f, marginally, noninstitutionalized",
+    "group": 2,
+    "_row": "eq"
+  },
+  {
+    "term": "hrql",
+    "freq": 59,
+    "assocs": "friends, functioningin, parent, partner, perceptions, romantic, unemployment, vlbw, vp, whole, verify, social, adulthood, perceive, south, worsened, born, preterm, adolescence, geographic, term, economic, lower, negative, particular, g",
+    "group": 1,
+    "_row": "hrql"
+  },
+  {
+    "term": "method",
+    "freq": 60,
+    "assocs": "article, trade, elicit, cochrane, compliance, december, econlit, embase, extracted, literature, pubmed, search, suitable, updated, wamd, tto, nice, gamble, systematic, degeneration, macular",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "survey",
+    "freq": 60,
+    "assocs": "strong, part",
+    "group": 1,
+    "_row": "survey"
+  },
+  {
+    "term": "base",
+    "freq": 63,
+    "assocs": "histograms, left, mhc, misleading, phc, rand, returned, sent, skew, norm, assigned, substantial, generate, interpretation",
+    "group": 1,
+    "_row": "base"
+  },
+  {
+    "term": "estimate",
+    "freq": 63,
+    "assocs": "likewise, smallest, impact, analog, l, nhms, full, halex, analysed, lost, reliability, absolute, anchored, difficult, across, implications, variability, generate, stratification, strong, lack, sex, united, euroqol, e, substantial, scale, largest",
+    "group": 2,
+    "_row": "estimate"
+  },
+  {
+    "term": "hrqol",
+    "freq": 63,
+    "assocs": "criteria, interest",
+    "group": 1,
+    "_row": "hrqol"
+  },
+  {
+    "term": "report",
+    "freq": 64,
+    "assocs": "born, preterm, adolescence, adulthood, g, social, friends, functioningin, parent, partner, perceptions, romantic, unemployment, vlbw, vp, whole, lower, geographic, birth, perceive, gestation, worsened, weight, south, negative, term",
+    "group": 1,
+    "_row": "report"
+  },
+  {
+    "term": "mark",
+    "freq": 65,
+    "assocs": "section, absolute",
+    "group": 1,
+    "_row": "mark"
+  },
+  {
+    "term": "assess",
+    "freq": 65,
+    "assocs": "error, akaike, backwards, build, cd, cells, eliminated, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, tenfold, since, count, final",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "sf",
+    "freq": 66,
+    "assocs": "short, scale, analog, form",
+    "group": 2,
+    "_row": "sf"
+  },
+  {
+    "term": "model",
+    "freq": 72,
+    "assocs": "error, count, akaike, backwards, cd, cells, eliminated, inappropriate, mm, network, noninfectious, nonsquared, polynomial, retained, tenfold, criterion, square, since, hiv, final, predict, diagnosis, technologies, define, develop, automated, incorporates, therefore, stepwise, fit, derive, build, established, subgroup, time, range, regression, ontario, per, set, available, limit",
+    "group": 3,
+    "_row": "model"
+  },
+  {
+    "term": "condition",
+    "freq": 78,
+    "assocs": "reliability, likewise, smallest, l, lack, analog, halex, impact, analysed, implications, e, nhms, across, difficult, chronic, variability, anchored, lost, average, prevalence, absolute, full, sex, despite, generate, cross",
+    "group": 2,
+    "_row": "condition"
+  },
+  {
+    "term": "significance",
+    "freq": 78,
+    "assocs": "blind, mg, placebo, primarily, achieve",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "year",
+    "freq": 83,
+    "assocs": "analog, l, likewise, smallest, anchored, halex, analysed, nhms, dead, full",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "popular",
+    "freq": 91,
+    "assocs": "canadian, general",
+    "group": 1,
+    "_row": "popular"
+  },
+  {
+    "term": "related",
+    "freq": 91,
+    "assocs": "negative, adulthood, friends, functioningin, parent, partner, perceptions, romantic, unemployment, vlbw, vp, whole, social, born, preterm, economic, perceive, adolescence, worsened",
+    "group": 1,
+    "_row": "related"
+  },
+  {
+    "term": "life",
+    "freq": 97,
+    "assocs": "expectancy, access, financing, hale, insurance, span, tables",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "d",
+    "freq": 99,
+    "assocs": "euroqol, impact",
+    "group": 2,
+    "_row": "d"
+  },
+  {
+    "term": "mean",
+    "freq": 101,
+    "assocs": "established, apnea, bivariate, disturbance, epworth, ess, fosq, identical, maryland, mc, osa, sleep, sleepiness, submitted, untreated",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "studied",
+    "freq": 103,
+    "assocs": "",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "differ",
+    "freq": 119,
+    "assocs": "four",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "index",
+    "freq": 119,
+    "assocs": "l, analysed, halex, likewise, smallest, analog, nhms, impact, across, absolute, lost, reliability, anchored, difficult, full, variability, implications, generate, strong, stratification, lack, scale, section, e, prevalence, substantial, despite, dead, largest",
+    "group": 2,
+    "_row": "index"
+  },
+  {
+    "term": "age",
+    "freq": 129,
+    "assocs": "prevalence, despite, loss, debilitating, neurotology, physiologic, prompt",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "measure",
+    "freq": 148,
+    "assocs": "generic, predominantly, generate",
+    "group": 3,
+    "_row": "measure"
+  },
+  {
+    "term": "patient",
+    "freq": 163,
+    "assocs": "",
+    "group": 3,
+    "_row": "patient"
+  },
+  {
+    "term": "utilities",
+    "freq": 189,
+    "assocs": "",
+    "group": 3,
+    "_row": "utilities"
+  },
+  {
+    "term": "score",
+    "freq": 195,
+    "assocs": "stepwise",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "hui",
+    "freq": 303,
+    "assocs": "abilities",
+    "group": 3,
+    "_row": "hui"
+  },
+  {
+    "term": "health",
+    "freq": 341,
+    "assocs": "sex, reliability, likewise, smallest, average, anchored, implications",
+    "group": 3,
+    "_row": "health"
+  }
+]

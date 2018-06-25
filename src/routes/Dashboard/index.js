@@ -14,6 +14,7 @@ import flatten from 'ramda/src/flatten';
 import Chip from '@material-ui/core/Chip';
 import Button from '@material-ui/core/Button';
 import 'react-datepicker/dist/react-datepicker.css';
+import { fstat } from 'fs';
 
 const fact_1_data = uniq(flatten(pluck('data', models)));
 class DashBoard extends Component {
@@ -24,13 +25,13 @@ class DashBoard extends Component {
       endDate: null,
       stopWords: [],
       stopWordValue: '',
-      fStartDate: '',
-      fEndDate: ''
+      fStartDate: 2000,
+      fEndDate: 2018
     };
   }
 
-  handleStartChange = (date) => this.setState({ startDate: date, fStartDate: date.format("YYYY") });
-  handleEndChange = (date) => this.setState({ endDate: date, fEndDate: date.format("YYYY") });
+  handleStartChange = ({ currentTarget }) => this.setState({ fStartDate: currentTarget.value });
+  handleEndChange = ({ currentTarget }) => this.setState({ fEndDate: currentTarget.value });
   setFormData = (obj) => this.setState(obj);
   handleDelete = (label) => {
     const tmpList = this.state.stopWords;
@@ -62,7 +63,6 @@ class DashBoard extends Component {
       textField3,
       chip,
       chipCont,
-      input,
       submit,
       dateCont,
       modelNameClass,
@@ -71,14 +71,14 @@ class DashBoard extends Component {
       fact_1,
       fact_2,
       stopWords,
-      startDate,
-      endDate,
       fStartDate,
       fEndDate,
       stopWordValue,
     } = this.state;
     const modelHasData = (arr) => arr.includes(fact_1);
+    const range = [...Array(101).keys()].map(e => 2018 - e)
 
+    console.log(this.state)
     const filteredModels = models.filter((obj) => modelHasData(obj.data));
     const fact_2_data = uniq(flatten(pluck('factors', filteredModels)));
 
@@ -101,28 +101,16 @@ class DashBoard extends Component {
           <div className={filters}>
             <div className={dateCont}>
               From:
-              <DatePicker
-                yearDropdownItemNumber={15}
-                scrollableYearDropdown
-                showYearDropdown
-                placeholderText="YYYY-MM-DD"
-                selected={startDate}
-                className={input}
-                onChange={this.handleStartChange}
-              />
+              <select value={fStartDate} onChange={this.handleStartChange} className={styles.option} >
+                {range.map((num, key) => <option key={key}>{num}</option>)}
+              </select>
             </div>
 
             <div className={dateCont}>
               To:
-              <DatePicker
-                yearDropdownItemNumber={15}
-                scrollableYearDropdown
-                showYearDropdown
-                placeholderText="YYYY-MM-DD"
-                selected={endDate}
-                className={input}
-                onChange={this.handleEndChange}
-              />
+              <select value={fEndDate} onChange={this.handleEndChange} className={styles.option} >
+                {range.map((num, key) => <option key={key}>{num}</option>)}
+              </select>
             </div>
           </div>
           <div className={textField1}>

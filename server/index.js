@@ -9,9 +9,6 @@ const urlencodedParser = bodyParser.urlencoded({ extended: false });
 
 app.use('/api/assets', express.static(__dirname + '/reports'));
 
-console.log(__dirname + '/reports')
-
-
 app.post("/api/login", urlencodedParser, (req, res) => {
   const { grant_type, username, password } = req.body;
   const rToken = req.body.refresh_token;
@@ -28,10 +25,13 @@ app.post("/api/login", urlencodedParser, (req, res) => {
   });
 });
 
-app.get("/api/reports/:model/:keys", urlencodedParser, (req, res) => {
-  const { model, keys } = req.params
-  const csvFilePath = path.join(__dirname, 'reports', model, keys, 'corpus.csv')
-  const imagesPaths = [1, 2, 3].map(num => path.join('/api/assets', model, keys, `resultplots-00${num}.jpg`))
+app.get("/api/reports", urlencodedParser, (req, res) => {
+  const { model, search_word, stop_words, startDate, endDate } = req.query
+  const search = search_word.replace(' ', '+')
+  const fileName = `${search}_${startDate}-${endDate}`
+  const csvFilePath = path.join(__dirname, 'reports', model, fileName, 'corpus.csv')
+  console.log(csvFilePath)
+  const imagesPaths = [1, 2, 3].map(num => path.join('/api/assets', model, fileName, `resultplots-00${num}.jpg`))
   const csv = require('csvtojson')
   csv()
     .fromFile(csvFilePath)

@@ -1,0 +1,352 @@
+[
+  {
+    "term": "outcome",
+    "freq": 128,
+    "assocs": "",
+    "group": 1,
+    "_row": "outcome"
+  },
+  {
+    "term": "increase",
+    "freq": 129,
+    "assocs": "hemodynamic, exaggerated, pmci, withlt, velocities, cm, tci",
+    "group": 1,
+    "_row": "increase"
+  },
+  {
+    "term": "ischemia",
+    "freq": 133,
+    "assocs": "transient, attack",
+    "group": 1,
+    "_row": "ischemia"
+  },
+  {
+    "term": "improve",
+    "freq": 133,
+    "assocs": "",
+    "group": 1,
+    "_row": "improve"
+  },
+  {
+    "term": "mental",
+    "freq": 134,
+    "assocs": "visuoexecutive, incorrect, pentagon, coping, sub, correct, mortality, november, fold, contribute, june, cube, detect, trend, oxford, trail",
+    "group": 2,
+    "_row": "mental"
+  },
+  {
+    "term": "plt",
+    "freq": 134,
+    "assocs": "",
+    "group": 1,
+    "_row": "plt"
+  },
+  {
+    "term": "mini",
+    "freq": 138,
+    "assocs": "visuoexecutive, incorrect, pentagon, coping, sub, correct, mortality, november, fold, contribute, june, cube, trend, detect, oxford, trail",
+    "group": 2,
+    "_row": "mini"
+  },
+  {
+    "term": "acute",
+    "freq": 138,
+    "assocs": "",
+    "group": 1,
+    "_row": "acute"
+  },
+  {
+    "term": "dementia",
+    "freq": 139,
+    "assocs": "",
+    "group": 1,
+    "_row": "dementia"
+  },
+  {
+    "term": "mci",
+    "freq": 139,
+    "assocs": "type, plasma, allied, hemoglobin, lpa, lysophosphatidic, nosogenesis, phospholipids, pss, psslpa, petersen, ankle, brachial",
+    "group": 1,
+    "_row": "mci"
+  },
+  {
+    "term": "specific",
+    "freq": 140,
+    "assocs": "",
+    "group": 1,
+    "_row": "specific"
+  },
+  {
+    "term": "mild",
+    "freq": 142,
+    "assocs": "annular, chf, filling, lv, nurse, turn, ventricular, diastolic, cardiac, echocardiographic, failure, heart, constructional, share, beyond, visuo",
+    "group": 1,
+    "_row": "mild"
+  },
+  {
+    "term": "sensitive",
+    "freq": 143,
+    "assocs": "",
+    "group": 1,
+    "_row": "sensitive"
+  },
+  {
+    "term": "evaluate",
+    "freq": 144,
+    "assocs": "",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "perform",
+    "freq": 148,
+    "assocs": "task",
+    "group": 1,
+    "_row": "perform"
+  },
+  {
+    "term": "state",
+    "freq": 151,
+    "assocs": "incorrect, pentagon, visuoexecutive, coping, sub, correct, mortality, november, fold, contribute, june, cube, trail",
+    "group": 2,
+    "_row": "state"
+  },
+  {
+    "term": "differ",
+    "freq": 154,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "vascular",
+    "freq": 159,
+    "assocs": "",
+    "group": 1,
+    "_row": "vascular"
+  },
+  {
+    "term": "correlate",
+    "freq": 162,
+    "assocs": "",
+    "group": 1,
+    "_row": "correlate"
+  },
+  {
+    "term": "cerebral",
+    "freq": 164,
+    "assocs": "",
+    "group": 1,
+    "_row": "cerebral"
+  },
+  {
+    "term": "disease",
+    "freq": 168,
+    "assocs": "",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "screen",
+    "freq": 169,
+    "assocs": "tool, offered",
+    "group": 1,
+    "_row": "screen"
+  },
+  {
+    "term": "control",
+    "freq": 169,
+    "assocs": "",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "comparable",
+    "freq": 175,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "treatment",
+    "freq": 175,
+    "assocs": "mg, aggregation, gbt, platelet, tablet, efficacies, western, conventional, given, anti",
+    "group": 1,
+    "_row": "treatment"
+  },
+  {
+    "term": "lt",
+    "freq": 179,
+    "assocs": "",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "factor",
+    "freq": 182,
+    "assocs": "compliance, uncontrolled, veterans, confounded",
+    "group": 1,
+    "_row": "factor"
+  },
+  {
+    "term": "scale",
+    "freq": 185,
+    "assocs": "",
+    "group": 1,
+    "_row": "scale"
+  },
+  {
+    "term": "risk",
+    "freq": 193,
+    "assocs": "",
+    "group": 1,
+    "_row": "risk"
+  },
+  {
+    "term": "year",
+    "freq": 199,
+    "assocs": "",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "clinic",
+    "freq": 200,
+    "assocs": "",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "age",
+    "freq": 213,
+    "assocs": "",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "month",
+    "freq": 217,
+    "assocs": "nowadays, reverter, post, identification",
+    "group": 1,
+    "_row": "month"
+  },
+  {
+    "term": "method",
+    "freq": 218,
+    "assocs": "",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "examination",
+    "freq": 220,
+    "assocs": "incorrect, pentagon, visuoexecutive, coping, sub, correct, mortality, contribute, november, fold, thus, detect, june",
+    "group": 2,
+    "_row": "examination"
+  },
+  {
+    "term": "associate",
+    "freq": 227,
+    "assocs": "",
+    "group": 1,
+    "_row": "associate"
+  },
+  {
+    "term": "montreal",
+    "freq": 263,
+    "assocs": "visuoexecutive, incorrect, pentagon, coping, sub, correct, mortality, contribute, november, fold, june, cube, dysfunction, detect, proportion, thus, trend, task, trail",
+    "group": 2,
+    "_row": "montreal"
+  },
+  {
+    "term": "significance",
+    "freq": 285,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "test",
+    "freq": 288,
+    "assocs": "",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "mmse",
+    "freq": 353,
+    "assocs": "",
+    "group": 3,
+    "_row": "mmse"
+  },
+  {
+    "term": "studied",
+    "freq": 365,
+    "assocs": "",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "function",
+    "freq": 399,
+    "assocs": "",
+    "group": 1,
+    "_row": "function"
+  },
+  {
+    "term": "group",
+    "freq": 409,
+    "assocs": "",
+    "group": 3,
+    "_row": "group"
+  },
+  {
+    "term": "score",
+    "freq": 533,
+    "assocs": "",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "assess",
+    "freq": 564,
+    "assocs": "visuoexecutive, incorrect, pentagon, coping, sub, correct, task, mortality, november, proportion",
+    "group": 2,
+    "_row": "assess"
+  },
+  {
+    "term": "impaired",
+    "freq": 605,
+    "assocs": "",
+    "group": 3,
+    "_row": "impaired"
+  },
+  {
+    "term": "stroke",
+    "freq": 646,
+    "assocs": "post",
+    "group": 3,
+    "_row": "stroke"
+  },
+  {
+    "term": "moca",
+    "freq": 1042,
+    "assocs": "",
+    "group": 3,
+    "_row": "moca"
+  },
+  {
+    "term": "patient",
+    "freq": 1099,
+    "assocs": "",
+    "group": 3,
+    "_row": "patient"
+  },
+  {
+    "term": "cognition",
+    "freq": 1455,
+    "assocs": "",
+    "group": 3,
+    "_row": "cognition"
+  }
+]

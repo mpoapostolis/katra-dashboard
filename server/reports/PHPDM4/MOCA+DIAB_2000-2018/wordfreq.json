@@ -1,0 +1,352 @@
+[
+  {
+    "term": "increase",
+    "freq": 46,
+    "assocs": "",
+    "group": 1,
+    "_row": "increase"
+  },
+  {
+    "term": "glucose",
+    "freq": 47,
+    "assocs": "muscle, skeletal, tissue, adipose, clearance, feeding, glut, glycogen, hhtg, insulinemia, intragastrically, kg, membrane, normotriglyceridemic, ogtt, period, reserves, start, storage, sucrose, synthesis, transforming, translocation, vitro, wistar, wk, wt, utilisation, de, novo, processes, liver, acid, administration, calorie, despite, g, lead, load, overnight, vivo, rate, toward",
+    "group": 1,
+    "_row": "glucose"
+  },
+  {
+    "term": "analysis",
+    "freq": 47,
+    "assocs": "among, hemoglobin, glycosylated",
+    "group": 1,
+    "_row": "analysis"
+  },
+  {
+    "term": "plt",
+    "freq": 47,
+    "assocs": "",
+    "group": 1,
+    "_row": "plt"
+  },
+  {
+    "term": "mellitus",
+    "freq": 47,
+    "assocs": "",
+    "group": 1,
+    "_row": "mellitus"
+  },
+  {
+    "term": "clinic",
+    "freq": 48,
+    "assocs": "harrells, idi, incremental, net, reclassification, echocardiogram, readmission, failure, heart, death, discrimination",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "depressed",
+    "freq": 48,
+    "assocs": "mood, coexist, didnt, tnf, address, dyskinesia, equivalent, fab, levodopa, occurrences, updrs, overweight, alone",
+    "group": 1,
+    "_row": "depressed"
+  },
+  {
+    "term": "r",
+    "freq": 48,
+    "assocs": "degradation, excursions, ide, gt, enzyme, amplitude, serum, contribute, homeostasis, demonstrated, processes, positive",
+    "group": 2,
+    "_row": "r"
+  },
+  {
+    "term": "dm",
+    "freq": 49,
+    "assocs": "hyperintensities, periventricular, amygdala, freesurfer, idiopathic, suite, wmh, matter, white, volumetric, grey, longitudinal, despite, cortical, volume",
+    "group": 1,
+    "_row": "dm"
+  },
+  {
+    "term": "differ",
+    "freq": 51,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "comparable",
+    "freq": 53,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "hypertension",
+    "freq": 53,
+    "assocs": "aggressive, compliance, uncontrolled, veterans, hyperlipidaemia, one",
+    "group": 1,
+    "_row": "hypertension"
+  },
+  {
+    "term": "show",
+    "freq": 53,
+    "assocs": "growth",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "elderly",
+    "freq": 54,
+    "assocs": "",
+    "group": 1,
+    "_row": "elderly"
+  },
+  {
+    "term": "ci",
+    "freq": 54,
+    "assocs": "aggressive, compliance, uncontrolled, veterans, confounders, se, hyperlipidaemia, deteriorated, one, conduct, regular, modified, shown, vascular",
+    "group": 2,
+    "_row": "ci"
+  },
+  {
+    "term": "subjective",
+    "freq": 55,
+    "assocs": "breakfast, cortisol, ghrelin, leptin, m",
+    "group": 1,
+    "_row": "subjective"
+  },
+  {
+    "term": "education",
+    "freq": 58,
+    "assocs": "appointment, consultation, covered, deliver, embedded, foot, ineffective, key, message, perceived, perspectives, pieces, podiatrists, project, regime, retained, vital, ways, informants, response, provide, need, paid, people, understand, document, enhanced, approach, problem, post, point, impact, two, verbal",
+    "group": 1,
+    "_row": "education"
+  },
+  {
+    "term": "examination",
+    "freq": 60,
+    "assocs": "",
+    "group": 1,
+    "_row": "examination"
+  },
+  {
+    "term": "lower",
+    "freq": 62,
+    "assocs": "organization",
+    "group": 1,
+    "_row": "lower"
+  },
+  {
+    "term": "test",
+    "freq": 65,
+    "assocs": "",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "disease",
+    "freq": 65,
+    "assocs": "prevent, chronic, turn, abilities",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "metabolic",
+    "freq": 66,
+    "assocs": "syndrome, component, atahualpa, door, ecuador, federation, residents",
+    "group": 1,
+    "_row": "metabolic"
+  },
+  {
+    "term": "method",
+    "freq": 66,
+    "assocs": "",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "mmse",
+    "freq": 67,
+    "assocs": "mini, mental, november",
+    "group": 1,
+    "_row": "mmse"
+  },
+  {
+    "term": "higher",
+    "freq": 68,
+    "assocs": "highest, stress, adipokine, dipeptidyl, dpp, iso, lowest, nitrotyrosine, pgfa, quartile, raise, thought, workgroups, workgroupspatients, il, interleukin, marker, odds, inflammation",
+    "group": 1,
+    "_row": "higher"
+  },
+  {
+    "term": "mild",
+    "freq": 74,
+    "assocs": "annular, beyond, cardiac, chf, diastolic, echocardiographic, filling, led, lv, nurse, profiling, subclinical, subscores, unit, visuo, heart, failure, constructed, dysfunction, share, relevant, turn, chronic, odds, adjusted, men, abnormal, yet, domain, parameters, per, ventricular, link, velocities",
+    "group": 1,
+    "_row": "mild"
+  },
+  {
+    "term": "lt",
+    "freq": 76,
+    "assocs": "",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "montreal",
+    "freq": 82,
+    "assocs": "",
+    "group": 1,
+    "_row": "montreal"
+  },
+  {
+    "term": "control",
+    "freq": 84,
+    "assocs": "",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "tdm",
+    "freq": 87,
+    "assocs": "adiponectin, afflicted, endocrine, ii, itemized, language, visuospatial, course, nmci",
+    "group": 2,
+    "_row": "tdm"
+  },
+  {
+    "term": "year",
+    "freq": 89,
+    "assocs": "",
+    "group": 2,
+    "_row": "year"
+  },
+  {
+    "term": "risk",
+    "freq": 103,
+    "assocs": "confounders",
+    "group": 2,
+    "_row": "risk"
+  },
+  {
+    "term": "type",
+    "freq": 113,
+    "assocs": "ankle, fair, allied, lpa, lysophosphatidic, nosogenesis, phospholipids, pss, psslpa, brachial, thickened, aggravated, assay, plasma, media, curve, intima, reactive, enrolled, closed, hyperlipidemia",
+    "group": 2,
+    "_row": "type"
+  },
+  {
+    "term": "correlate",
+    "freq": 113,
+    "assocs": "positive, serum, negative",
+    "group": 2,
+    "_row": "correlate"
+  },
+  {
+    "term": "factor",
+    "freq": 116,
+    "assocs": "aggressive, compliance, uncontrolled, veterans, confounders, regular, se, hyperlipidaemia, protect, vascular, one, deteriorated, modified",
+    "group": 2,
+    "_row": "factor"
+  },
+  {
+    "term": "significance",
+    "freq": 116,
+    "assocs": "",
+    "group": 2,
+    "_row": "significance"
+  },
+  {
+    "term": "age",
+    "freq": 133,
+    "assocs": "older, intake, well, ha, direct, force, bivariate, depth, financial, food, green, growing, indirectly, insensitive, maximal, periodontal, persisted, pocket, teeth, topic, weakly, yellow",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "function",
+    "freq": 143,
+    "assocs": "covariates, occlusal, force, intake, bivariate, depth, financial, food, green, growing, indirectly, insensitive, maximal, periodontal, persisted, pocket, teeth, topic, weakly, yellow, j, japanese, oral, well, status, direct, version, vegetables, essential",
+    "group": 2,
+    "_row": "function"
+  },
+  {
+    "term": "associated",
+    "freq": 145,
+    "assocs": "well, covariates, multivariable, intake, bivariate, depth, financial, food, green, growing, indirectly, insensitive, maximal, periodontal, persisted, pocket, teeth, topic, weakly, yellow, status, force, occlusal, oral",
+    "group": 2,
+    "_row": "associated"
+  },
+  {
+    "term": "assess",
+    "freq": 150,
+    "assocs": "",
+    "group": 2,
+    "_row": "assess"
+  },
+  {
+    "term": "studied",
+    "freq": 156,
+    "assocs": "",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "level",
+    "freq": 157,
+    "assocs": "co, morbidities, likelihood, serum, cvd",
+    "group": 2,
+    "_row": "level"
+  },
+  {
+    "term": "group",
+    "freq": 172,
+    "assocs": "divided",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "impaired",
+    "freq": 182,
+    "assocs": "annular, beyond, cardiac, chf, diastolic, echocardiographic, filling, led, lv, nurse, profiling, subclinical, subscores, unit, visuo, prevalence, share, failure, dysfunction, heart, chronic",
+    "group": 2,
+    "_row": "impaired"
+  },
+  {
+    "term": "score",
+    "freq": 224,
+    "assocs": "",
+    "group": 2,
+    "_row": "score"
+  },
+  {
+    "term": "mci",
+    "freq": 234,
+    "assocs": "potential",
+    "group": 3,
+    "_row": "mci"
+  },
+  {
+    "term": "moca",
+    "freq": 264,
+    "assocs": "",
+    "group": 2,
+    "_row": "moca"
+  },
+  {
+    "term": "diabetes",
+    "freq": 280,
+    "assocs": "diagnostic",
+    "group": 3,
+    "_row": "diabetes"
+  },
+  {
+    "term": "patient",
+    "freq": 403,
+    "assocs": "",
+    "group": 3,
+    "_row": "patient"
+  },
+  {
+    "term": "cognition",
+    "freq": 484,
+    "assocs": "adjusted",
+    "group": 3,
+    "_row": "cognition"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "term": "initial",
+    "freq": 6,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, sound, time, benefit, home, number, repeated, complete, difference, analysis, three, increase, profound, allow, lead, low, amplification, eight, proper, collection, end, level, paced, ratio, high, examine, individual, along, sample, lower, self, signal, developed, potential",
+    "group": 1,
+    "_row": "initial"
+  },
+  {
+    "term": "significant",
+    "freq": 6,
+    "assocs": "difference, time, end, level, paced, complete, analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, examine, individual, sound, identification, analysis, ratio, self, developed, potential, benefit, home, number, repeated, also, background",
+    "group": 2,
+    "_row": "significant"
+  },
+  {
+    "term": "control",
+    "freq": 6,
+    "assocs": "evaluated, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, assigned, listeners, function, random, perception, purpose, enhance, larger, observed, provided, size, intervention, research, may, conducted, demonstrated, indicate, numerous, specific, suggested, administered, calculation, either, greater, well, experimental, need, collection",
+    "group": 2,
+    "_row": "control"
+  },
+  {
+    "term": "included",
+    "freq": 7,
+    "assocs": "may, collection, research, sample, complete, benefit, home, perception, purpose, repeated, examine, intervention, conducted, data, several, listeners, function, identification, number, analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, developed, potential",
+    "group": 2,
+    "_row": "included"
+  },
+  {
+    "term": "design",
+    "freq": 7,
+    "assocs": "benefit, home, repeated, allow, lead, low, collection, three, research, high, complete, poorer, analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, perception, phoneme, post, postfitting, purpose, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, along, sample, signal, random, number, sound, time, assigned",
+    "group": 2,
+    "_row": "design"
+  },
+  {
+    "term": "predictable",
+    "freq": 7,
+    "assocs": "acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, associated, constrained, found, poorer, thus, explicit, term, hospital, bilateral, mean, required, allow, chosen, consisted, give, lead, low, high, year, along, within, involve, material, signal, well",
+    "group": 2,
+    "_row": "predictable"
+  },
+  {
+    "term": "recognition",
+    "freq": 7,
+    "assocs": "acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, associated, constrained, found, poorer, thus, explicit, term, hospital, bilateral, mean, required, allow, chosen, consisted, give, lead, low, well, high, year, random",
+    "group": 2,
+    "_row": "recognition"
+  },
+  {
+    "term": "complex",
+    "freq": 8,
+    "assocs": "change, explicit, accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, constrained, nature, involve, well, questions, structure, term, also",
+    "group": 3,
+    "_row": "complex"
+  },
+  {
+    "term": "performance",
+    "freq": 8,
+    "assocs": "allow, lead, low, high, poorer, analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, along, signal, time, three, difference, sound, benefit, complete, home, number, repeated, end, level, paced, acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, analysis",
+    "group": 2,
+    "_row": "performance"
+  },
+  {
+    "term": "two",
+    "freq": 8,
+    "assocs": "signal, found, poorer, allow, chosen, lead, low, acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, high, constrained, explicit, ratio, associated, change, thus, selected, along",
+    "group": 2,
+    "_row": "two"
+  },
+  {
+    "term": "abilities",
+    "freq": 8,
+    "assocs": "provided, size, may, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, either, well, assigned, evaluated, listeners, also, intervention, function, random, perception, purpose, research, accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, object",
+    "group": 2,
+    "_row": "abilities"
+  },
+  {
+    "term": "task",
+    "freq": 8,
+    "assocs": "accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, nature, provided, size, also, questions, structure, change, either, well, examine, difficulties, end, level, paced, al, et, previous, varied, narrative",
+    "group": 3,
+    "_row": "task"
+  },
+  {
+    "term": "passage",
+    "freq": 8,
+    "assocs": "accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, nature, questions, structure, change, also, difficulties, end, level, paced, al, et, previous, varied, provided, size, narrative, examine, assess, either, self, whether, involve, well, method, developed, potential",
+    "group": 3,
+    "_row": "passage"
+  },
+  {
+    "term": "frequency",
+    "freq": 9,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, sound, time, benefit, home, number, repeated, analysis, complete, difference, increase, profound, three, high, allow, lead, low, amplification, eight, proper, collection, end, level, paced, ratio, examine, along, sample, individual",
+    "group": 1,
+    "_row": "frequency"
+  },
+  {
+    "term": "month",
+    "freq": 9,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, sound, time, benefit, home, number, repeated, complete, difference, analysis, three, increase, profound, allow, lead, low, amplification, eight, proper, collection, end, level, paced, ratio, high, examine, individual, along, sample, lower, self, signal, developed, potential",
+    "group": 1,
+    "_row": "month"
+  },
+  {
+    "term": "spl",
+    "freq": 9,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, sound, time, benefit, home, number, repeated, complete, difference, analysis, three, increase, profound, allow, lead, low, amplification, eight, proper, collection, end, level, paced, ratio, high, examine, individual, along, sample, lower, self, signal, developed, potential",
+    "group": 1,
+    "_row": "spl"
+  },
+  {
+    "term": "programme",
+    "freq": 9,
+    "assocs": "adjusted, appears, article, commonly, counselling, educationquot, especially, focus, good, health, introduction, investigated, life, limitations, literature, older, option, people, pubmed, quotactive, ranks, reducing, restrictions, review, revision, search, social, spanish, speaking, systematic, third, utility, strategies, object, however, analysed, determine, obtained, actively, carried, narrative, involve, material, among, method, developed, potential",
+    "group": 2,
+    "_row": "programme"
+  },
+  {
+    "term": "adult",
+    "freq": 10,
+    "assocs": "among, strategies, intervention, actively, carried, experimental, listeners, need, may, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, adjusted, appears, article, commonly, counselling, educationquot, especially, focus, good, health, introduction, investigated, life, limitations, literature, older, option, people, pubmed, quotactive, ranks, reducing, restrictions, review, revision, search, social, spanish, speaking, systematic, third, utility, function, main, perception, purpose",
+    "group": 2,
+    "_row": "adult"
+  },
+  {
+    "term": "patient",
+    "freq": 10,
+    "assocs": "seem, aim, education, however, africa, attending, audiological, caused, configuration, deterioration, discussed, disease, explore, formulation, gauteng, hiv, immunological, implications, infected, international, located, management, members, occurrence, onset, opportunistic, prevalence, problems, progression, rate, slight, south, stages, status, surveyed, symptoms, team, worsen, relationship, outpatient, range, clinic, degree",
+    "group": 2,
+    "_row": "patient"
+  },
+  {
+    "term": "communication",
+    "freq": 10,
+    "assocs": "adjusted, appears, article, commonly, counselling, educationquot, especially, focus, good, health, introduction, investigated, life, limitations, literature, older, option, people, pubmed, quotactive, ranks, reducing, restrictions, review, revision, search, social, spanish, speaking, systematic, third, utility, strategies, object, among, analysed, determine, obtained, actively, carried, however, narrative",
+    "group": 2,
+    "_row": "communication"
+  },
+  {
+    "term": "rehabilitation",
+    "freq": 10,
+    "assocs": "strategies, adjusted, appears, article, commonly, counselling, educationquot, especially, focus, good, health, introduction, investigated, life, limitations, literature, older, option, people, pubmed, quotactive, ranks, reducing, restrictions, review, revision, search, social, spanish, speaking, systematic, third, utility, actively, carried, method, analysed, determine, obtained, narrative, object, main, material, among, aim, however",
+    "group": 2,
+    "_row": "rehabilitation"
+  },
+  {
+    "term": "subject",
+    "freq": 10,
+    "assocs": "acoust, algorithm, based, beneficial, chen, fixed, genetic, intelligibility, j, large, markedly, masker, overall, parameter, percentage, points, preferences, produced, smr, smrs, soc, spectral, spectrum, ssn, stimuli, talker, tended, tts, unprocessed, values, selected, across, assess, lower, whether, enhance, larger, observed, background, chosen, impair, present, ratio, al, et, previous, varied",
+    "group": 2,
+    "_row": "subject"
+  },
+  {
+    "term": "condition",
+    "freq": 10,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, identification, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, benefit, home, number, repeated, sound, time, three, complete, allow, lead, low, collection, difference, high, analysis, increase, profound, amplification, eight, proper, end, level, paced, ratio, research, examine, individual, along, sample, signal, developed, potential",
+    "group": 1,
+    "_row": "condition"
+  },
+  {
+    "term": "db",
+    "freq": 10,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, sound, time, benefit, home, number, repeated, complete, difference, allow, lead, low, three, analysis, high, increase, profound, amplification, eight, proper, collection, end, level, paced, ratio, along, signal, examine, individual",
+    "group": 1,
+    "_row": "db"
+  },
+  {
+    "term": "experience",
+    "freq": 10,
+    "assocs": "random, assigned, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, listeners, perception, purpose, evaluated, research, intervention, function, well, collection, conducted, may, demonstrated, numerous, specific, suggested, administered, calculation, greater, experimental, need, enhance, larger, observed, provided, size",
+    "group": 2,
+    "_row": "experience"
+  },
+  {
+    "term": "fit",
+    "freq": 10,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, identification, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, number, sound, time, benefit, home, repeated, three, complete, allow, lead, low, amplification, eight, proper, difference, high, analysis, increase, profound, collection, end, level, paced, ratio, individual, along, signal, developed, potential",
+    "group": 1,
+    "_row": "fit"
+  },
+  {
+    "term": "program",
+    "freq": 10,
+    "assocs": "experimental, need, accepting, add, answering, care, companions, consequently, days, deficiency, depositions, distributed, donated, doubts, elderly, fifteen, getting, government, great, helping, implementing, importance, information, interaction, jointly, maximum, meetings, moreover, motivated, opinion, pilot, promoted, requested, respective, routine, six, spontaneously, stimulated, towards, transmitted, among, outpatient, population, facilitate, main, listeners",
+    "group": 2,
+    "_row": "program"
+  },
+  {
+    "term": "process",
+    "freq": 11,
+    "assocs": "chosen, signal, found, poorer, selected, acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, acoust, algorithm, based, beneficial, chen, fixed, genetic, intelligibility, j, large, markedly, masker, overall, parameter, percentage, points, preferences, produced, smr, smrs, soc, spectral, spectrum, ssn, stimuli, talker, tended, tts, unprocessed, values, allow, lead, low, ratio",
+    "group": 2,
+    "_row": "process"
+  },
+  {
+    "term": "setting",
+    "freq": 11,
+    "assocs": "acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, poorer, associated, constrained, found, thus, explicit, allow, lead, low, term, high, hospital, bilateral, mean, required, chosen, consisted, give, year, along, signal",
+    "group": 2,
+    "_row": "setting"
+  },
+  {
+    "term": "understand",
+    "freq": 11,
+    "assocs": "well, provided, size, assigned, random, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, listeners, evaluated, function, perception, purpose, either, may, experimental, need, research, intervention",
+    "group": 2,
+    "_row": "understand"
+  },
+  {
+    "term": "comprehension",
+    "freq": 11,
+    "assocs": "accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, nature, questions, structure, change, also, difficulties, end, level, paced, al, et, previous, varied, provided, size, narrative, examine, assess, either, self, whether, involve, well, method, developed, potential",
+    "group": 3,
+    "_row": "comprehension"
+  },
+  {
+    "term": "treatment",
+    "freq": 12,
+    "assocs": "accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, nature, questions, structure, change, narrative, also, difficulties, end, level, paced, al, et, previous, varied, provided, size, examine, involve, method, developed, potential",
+    "group": 3,
+    "_row": "treatment"
+  },
+  {
+    "term": "new",
+    "freq": 13,
+    "assocs": "assigned, random, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, listeners, evaluated, perception, purpose, function, intervention, research, conducted, collection, well, may, demonstrated, numerous, specific, suggested, administered, calculation, greater, experimental, need, enhance, larger, observed, provided, size",
+    "group": 2,
+    "_row": "new"
+  },
+  {
+    "term": "ha",
+    "freq": 13,
+    "assocs": "afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, assigned, evaluated, listeners, function, intervention, random, perception, purpose, research, conducted, may, demonstrated, numerous, specific, suggested, administered, calculation, greater, experimental, need, collection, enhance, larger, observed, provided, size, indicate, sample, either, well, among",
+    "group": 2,
+    "_row": "ha"
+  },
+  {
+    "term": "type",
+    "freq": 14,
+    "assocs": "relationship, along, sensorineural, africa, attending, audiological, caused, configuration, deterioration, discussed, disease, explore, formulation, gauteng, hiv, immunological, implications, infected, international, located, management, members, occurrence, onset, opportunistic, prevalence, problems, progression, rate, slight, south, stages, status, surveyed, symptoms, team, worsen, hospital, increase, profound, clinic, several, degree, high, range, analysis, examine, term",
+    "group": 2,
+    "_row": "type"
+  },
+  {
+    "term": "noise",
+    "freq": 14,
+    "assocs": "poorer, allow, lead, low, high, acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, signal, found, three, along, associated, constrained, random, thus, explicit",
+    "group": 2,
+    "_row": "noise"
+  },
+  {
+    "term": "one",
+    "freq": 14,
+    "assocs": "complete, analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, end, factorial, four, fricative, gained, hand, instructed, interest, interval, level, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, paced, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, benefit, home, repeated, difference, identification, time, examine, number, sound, collection, three, developed, potential, analysis, research, allow, lead, low, amplification, eight, proper, self, also",
+    "group": 1,
+    "_row": "one"
+  },
+  {
+    "term": "test",
+    "freq": 15,
+    "assocs": "poorer, allow, lead, low, high, acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, constrained, associated, found, thus, explicit, along, signal, year, term, hospital, bilateral, mean, required, chosen, consisted, give",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "users",
+    "freq": 15,
+    "assocs": "afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, listeners, assigned, evaluated, random, function, perception, purpose, intervention, research, experimental, need, conducted, may, demonstrated, numerous, specific, suggested, administered, calculation, greater, collection, enhance, larger, observed, provided, size, among, well",
+    "group": 2,
+    "_row": "users"
+  },
+  {
+    "term": "transposition",
+    "freq": 15,
+    "assocs": "analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, identification, sound, time, benefit, home, number, repeated, complete, difference, analysis, three, increase, profound, allow, lead, low, amplification, eight, proper, collection, end, level, paced, ratio, high, examine, individual, along, sample, lower, self, signal, developed, potential",
+    "group": 1,
+    "_row": "transposition"
+  },
+  {
+    "term": "effect",
+    "freq": 16,
+    "assocs": "object, narrative, adjusted, appears, article, commonly, counselling, educationquot, especially, focus, good, health, introduction, investigated, life, limitations, literature, older, option, people, pubmed, quotactive, ranks, reducing, restrictions, review, revision, search, social, spanish, speaking, systematic, third, utility, developed, potential, may, involve",
+    "group": 2,
+    "_row": "effect"
+  },
+  {
+    "term": "measure",
+    "freq": 16,
+    "assocs": "complete, benefit, home, repeated, time, analyzed, another, anova, appropriate, behind, binaurally, blind, candidate, class, concern, confusions, consonant, correct, current, decrease, directed, distort, ear, factorial, four, fricative, gained, hand, instructed, interest, interval, linear, lt, m, mask, mode, moves, nonsense, nst, office, orca, original, phoneme, post, postfitting, quiet, quotbottom, reached, realize, recent, regimen, region, relearn, renewed, returned, showed, single, snr, software, spss, statistically, syllable, takes, transposed, trial, unaidable, upquot, v, widex, without, wore, difference, identification, collection, end, level, paced, examine, sound, research, allow, lead, low, number, three, analysis, perception, purpose, high, ratio, also, individual, sample, self, signal, developed, potential",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "studies",
+    "freq": 17,
+    "assocs": "sample, may, conducted, research, function, several, perception, purpose, demonstrated, numerous, specific, suggested, collection, data, indicate, listeners, examine, evaluated, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, benefit, complete, home, repeated, intervention",
+    "group": 2,
+    "_row": "studies"
+  },
+  {
+    "term": "sentence",
+    "freq": 17,
+    "assocs": "accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, nature, change, questions, structure, provided, size, also, well, explicit, involve, difficulties, end, level, paced, al, et, previous, varied, narrative, constrained, examine, either",
+    "group": 3,
+    "_row": "sentence"
+  },
+  {
+    "term": "group",
+    "freq": 18,
+    "assocs": "afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, assigned, listeners, random, intervention, among, experimental, need, evaluated, function, administered, calculation, greater, perception, purpose, conducted, research, demonstrated, numerous, specific, suggested",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "participants",
+    "freq": 20,
+    "assocs": "provided, size, questions, structure, accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, well, difficulties, also, nature, method, end, level, paced, narrative, examine, change",
+    "group": 3,
+    "_row": "participants"
+  },
+  {
+    "term": "improve",
+    "freq": 20,
+    "assocs": "al, et, previous, varied, background, across, change, enhance, larger, observed, provided, size, acoust, algorithm, based, beneficial, chen, fixed, genetic, intelligibility, j, large, markedly, masker, overall, parameter, percentage, points, preferences, produced, smr, smrs, soc, spectral, spectrum, ssn, stimuli, talker, tended, tts, unprocessed, values, accounted, address, aphasia, asked, aspects, canonical, comprehending, contained, counterbalanced, deficits, dependent, discourse, even, extent, first, generalization, goal, implicit, inherent, irrespective, manipulation, matching, noncanonical, om, order, outcomes, percent, picture, precluded, procedures, protocol, reaction, received, related, revealed, reversible, semantically, simple, spm, syntactic, targeted, tsedc, understood, various, individual, assess, whether",
+    "group": 2,
+    "_row": "improve"
+  },
+  {
+    "term": "loss",
+    "freq": 23,
+    "assocs": "case, range, however, analysed, determine, obtained, sensorineural, aim, seem, africa, attending, audiological, caused, configuration, deterioration, discussed, disease, explore, formulation, gauteng, hiv, immunological, implications, infected, international, located, management, members, occurrence, onset, opportunistic, prevalence, problems, progression, rate, slight, south, stages, status, surveyed, symptoms, team, worsen, absence, audiogram, coefficient, derived, enable, equation, hindi, medical, men, modified, negative, normal, pearson, possible, regression, symmetrical, thresholds, total, women",
+    "group": 2,
+    "_row": "loss"
+  },
+  {
+    "term": "speech",
+    "freq": 25,
+    "assocs": "chosen, found, signal, acclimatization, according, becomes, capacity, channel, cognitive, compression, digital, ease, effortful, establishment, exceeded, factor, fast, framework, generated, hagerman, hint, hl, input, instruments, language, less, letter, link, long, mismatch, modulated, monitoring, ms, nonlinear, occasion, orthogonal, phonological, ping, postulated, reading, release, representations, resources, rise, sd, slow, span, stronger, supported, t, turn, university, unmodulated, weeks, working, poorer, random, enhance, larger, observed, assigned, allow, lead, low",
+    "group": 2,
+    "_row": "speech"
+  },
+  {
+    "term": "train",
+    "freq": 35,
+    "assocs": "assigned, random, perception, purpose, afterward, baseline, behavioral, called, compared, comparison, competing, computer, date, difficult, dvd, encouraged, findings, format, lace, lessons, min, nine, particularly, period, plus, prospective, rapid, reported, version, want, wk, research, listeners, intervention, collection, evaluated, well, may, function, provided, size, conducted, benefit, home, repeated, complete",
+    "group": 2,
+    "_row": "train"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "term": "hrqol",
+    "freq": 10,
+    "assocs": "areas, automatic, benefit, bootstrapped, cardioverter, class, cumulative, defibrillator, diuretics, ejection, first, fixed, fraction, gains, icd, implantable, impute, lives, loss, madit, missing, nitrogen, nyha, offset, performed, qrs, separately, sought, survival, survivors, together, towards, trend, urine, ii, arm, calculated, subgroup, subjects, multivariable, characteristics, among, multicenter, develop, effect, randomization, blood, specific, may",
+    "group": 1,
+    "_row": "hrqol"
+  },
+  {
+    "term": "adjusted",
+    "freq": 11,
+    "assocs": "follow, determinants, established, mellitus, high, respect, change",
+    "group": 1,
+    "_row": "adjusted"
+  },
+  {
+    "term": "attributable",
+    "freq": 11,
+    "assocs": "pain, capture, treated, phc, mhc, defined, emotion, prospective, purpose, absenteeism, accompanied, composites, concluded, degrees, describe, due, enrolled, oral, potential, vision, work, emergency, room, deficit, diet, insulin, generic, burden, lower, managed, communities, alone",
+    "group": 1,
+    "_row": "attributable"
+  },
+  {
+    "term": "preference",
+    "freq": 11,
+    "assocs": "assigned, standard, distributed, normally, linear, average, conventional, deviation, generate, histograms, interpretation, left, misleading, norm, often, perfect, poorer, predominantly, returned, sample, scale, sd, sent, show, skew, whereas, ahead, become, dse, four, ili, long, look, mixed, multisite, obesity, overweight, persons, remained, smaller, support, thereafter, unclear, indicate, plt, adult, effect, short, dead",
+    "group": 1,
+    "_row": "preference"
+  },
+  {
+    "term": "demographic",
+    "freq": 11,
+    "assocs": "agreement, cardiovascular, factors, therefore, two, variables, risk, action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, hu, major, regression, three, correlation, relationship, high, except, accord, included, classification, appropriate, value, background, analysed",
+    "group": 1,
+    "_row": "demographic"
+  },
+  {
+    "term": "intervention",
+    "freq": 12,
+    "assocs": "activities, adherence, attitudes, beliefs, concurrent, directed, examine, humanistic, multifaceted, satisfaction, team, time, region, increased, lifestyle, month, outcome, provide, rural, improve, primarily, important, level, visits, canada, favor, aim, form, seen",
+    "group": 1,
+    "_row": "intervention"
+  },
+  {
+    "term": "data",
+    "freq": 12,
+    "assocs": "female, follow",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "ci",
+    "freq": 12,
+    "assocs": "comorbid, stroke, single, respondent, absence, illness, largely, triplets, heart, covariance, arthritis, canadian",
+    "group": 1,
+    "_row": "ci"
+  },
+  {
+    "term": "reported",
+    "freq": 12,
+    "assocs": "non, alberta, conducted, accessibility, aspects, barriers, compound, constitute, disappeared, discussion, enhancement, existed, interviews, involved, keeweetinok, lakes, likely, northern, peace, perceived, portion, quotaboriginalityquot, school, uniformly, whether, younger, outcome, worse, less, mental, rural, region",
+    "group": 1,
+    "_row": "reported"
+  },
+  {
+    "term": "aboriginal",
+    "freq": 12,
+    "assocs": "accessibility, aspects, barriers, compound, constitute, disappeared, discussion, enhancement, existed, interviews, involved, keeweetinok, lakes, likely, northern, peace, perceived, portion, quotaboriginalityquot, school, uniformly, whether, younger, non, worse, mental, alberta, collected, confounders, sociodemographic, known, longer, experienced, appropriate, follow, determinants, considerable, physical, substantial, contribute, status, high, recruited, education, female",
+    "group": 1,
+    "_row": "aboriginal"
+  },
+  {
+    "term": "analysis",
+    "freq": 13,
+    "assocs": "improve, favor, capture, respect, level, emotion, prospective, purpose, rural, primarily, change, absenteeism, accompanied, composites, concluded, degrees, describe, due, enrolled, glucose, oral, potential, vision, work, greater, abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, combination, seen, adverse, extend",
+    "group": 1,
+    "_row": "analysis"
+  },
+  {
+    "term": "associated",
+    "freq": 13,
+    "assocs": "deficit, pain, emergency, room, treated, phc, mhc, absenteeism, accompanied, composites, concluded, covariance, defined, degrees, describe, due, enrolled, oral, potential, vision, work, insulin, capture, burden, diet, visits, alone, lower, generic, emotion, prospective, purpose, validity, single",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "baseline",
+    "freq": 13,
+    "assocs": "follow, high, multicenter, accessibility, aspects, barriers, compound, constitute, disappeared, discussion, enhancement, existed, interviews, involved, keeweetinok, lakes, likely, northern, peace, perceived, portion, quotaboriginalityquot, school, uniformly, whether, younger, total, worse, adverse, arm, extend, evaluate, non, greater, female, demonstrate, randomization, alberta",
+    "group": 1,
+    "_row": "baseline"
+  },
+  {
+    "term": "self",
+    "freq": 14,
+    "assocs": "alberta, rural, accessibility, aspects, barriers, compound, constitute, disappeared, discussion, enhancement, existed, interviews, involved, keeweetinok, lakes, likely, non, northern, peace, perceived, portion, quotaboriginalityquot, school, uniformly, whether, younger, conducted, worse, mental, outcome, less, confounders, sociodemographic, region, known, longer",
+    "group": 1,
+    "_row": "self"
+  },
+  {
+    "term": "treatment",
+    "freq": 14,
+    "assocs": "arm, multicenter, areas, automatic, benefit, bootstrapped, cardioverter, class, cumulative, defibrillator, diuretics, ejection, first, fixed, fraction, gains, icd, implantable, impute, lives, loss, madit, missing, nitrogen, nyha, offset, performed, qrs, separately, sought, survival, survivors, together, towards, trend, urine, adverse, extend, greater, profile, calculated, ii, subgroup, subjects, evaluate, randomization, characteristics, develop, multivariable",
+    "group": 1,
+    "_row": "treatment"
+  },
+  {
+    "term": "assess",
+    "freq": 15,
+    "assocs": "covariance, single, important, comorbid, cchs, cycle, depression, hospitalizations, hypothesized, largest, logistic, priori, resource, setting, visits, deficit, stroke",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "individuals",
+    "freq": 15,
+    "assocs": "presumed, advanced, defined, diet, emotion, prospective, purpose, impaired, pain, managed, capture, treated, insulin, lower, mhc, comparisons, cross, sectional, alone, phc, abilities, detect, dwelling, extent, larger, lead, might, mild, moderate, negative, past, persisted, proportion, rescaling, sparse, states, superiority, v, ambulation, dexterity, highest, median, mobility, shorter, whose, communities",
+    "group": 1,
+    "_row": "individuals"
+  },
+  {
+    "term": "mark",
+    "freq": 15,
+    "assocs": "intensity, presumed, feeling, higher, thermometer, advanced, short",
+    "group": 1,
+    "_row": "mark"
+  },
+  {
+    "term": "studied",
+    "freq": 15,
+    "assocs": "established, change, respect, primarily, mellitus, abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, analyzed, camos, copd, fashion, findings, gt, multicentre, nphs, obstructive, osteoporosis, regardless, decrement, included, favor, events, lipid",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "population",
+    "freq": 15,
+    "assocs": "average, conventional, deviation, generate, histograms, interpretation, left, misleading, norm, often, perfect, poorer, predominantly, returned, sample, scale, sd, sent, show, skew, whereas, adult, general, assigned, status, e, indicate, standard, previously, dead, distributed, investigate, normally, suggest, rand, canadian, respondent, complete",
+    "group": 1,
+    "_row": "population"
+  },
+  {
+    "term": "method",
+    "freq": 16,
+    "assocs": "adapted, approach, assumptions, birth, cause, database, diagnosed, dm, hale, indirect, linked, ontario, prevalence, sullivan, versus, without, men, women, less, people, expectancy",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "clinical",
+    "freq": 17,
+    "assocs": "two, included, cardiovascular, action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, risk, hu, accord, form, relationship, major, regression, agreement, factors, therefore, trial, variables, classification, activities, adherence, attitudes, beliefs, concurrent, directed, examine, humanistic, multifaceted, satisfaction, team, time, value, three",
+    "group": 1,
+    "_row": "clinical"
+  },
+  {
+    "term": "several",
+    "freq": 17,
+    "assocs": "pain, capture, defined, emotion, prospective, purpose, treated, diet, mhc, phc, insulin, absenteeism, accompanied, composites, concluded, degrees, describe, due, enrolled, oral, potential, vision, work, managed, presumed, lower, advanced",
+    "group": 1,
+    "_row": "several"
+  },
+  {
+    "term": "care",
+    "freq": 18,
+    "assocs": "activities, adherence, attitudes, beliefs, concurrent, directed, examine, humanistic, multifaceted, region, satisfaction, team, time, outcome, month, rural, increased, lifestyle, provide, improve, primarily, important, visits, level, favor, covariance, canada, conducted",
+    "group": 1,
+    "_row": "care"
+  },
+  {
+    "term": "life",
+    "freq": 18,
+    "assocs": "reduce, trial, multivariable, among, demonstrate, adapted, approach, assumptions, birth, cause, database, diagnosed, dm, hale, indirect, linked, ontario, prevalence, sullivan, versus, without, action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, men, women, hu",
+    "group": 1,
+    "_row": "life"
+  },
+  {
+    "term": "significant",
+    "freq": 18,
+    "assocs": "abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, events, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipid, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, weight, low, change, respect, glycemia, combination, however, evaluate, adverse, extend, glucose, primarily, term, major",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "year",
+    "freq": 18,
+    "assocs": "estimate, men, women, arm, adapted, approach, assumptions, birth, cause, database, diagnosed, dm, hale, indirect, linked, ontario, prevalence, sullivan, versus, without, profile, areas, automatic, benefit, bootstrapped, cardioverter, class, cumulative, defibrillator, diuretics, ejection, first, fixed, fraction, gains, icd, implantable, impute, lives, loss, madit, missing, nitrogen, nyha, offset, performed, qrs, separately, sought, survival, survivors, together, towards, trend, urine, multicenter, ii, subgroup",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "hrql",
+    "freq": 19,
+    "assocs": "pain, deficit, burden, absenteeism, accompanied, capture, composites, concluded, degrees, describe, due, emergency, enrolled, oral, phc, potential, room, treated, vision, work, mhc, generic, defined, emotion, prospective, purpose, considerable, covariance, alone, lower, diet",
+    "group": 1,
+    "_row": "hrql"
+  },
+  {
+    "term": "index",
+    "freq": 19,
+    "assocs": "administered, similar",
+    "group": 1,
+    "_row": "index"
+  },
+  {
+    "term": "related",
+    "freq": 19,
+    "assocs": "abilities, detect, dwelling, extent, larger, lead, might, mild, moderate, negative, past, persisted, proportion, rescaling, sparse, states, superiority, v, dead, part, possible, seen, impaired, favor, advanced",
+    "group": 1,
+    "_row": "related"
+  },
+  {
+    "term": "mean",
+    "freq": 19,
+    "assocs": "weight, profile, abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, change, respect, consisted, adverse, events, extend, lipid, assigned, established, however, combination, low, evaluate",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "ft",
+    "freq": 19,
+    "assocs": "action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, relationship, hu, risk, accord, major, classification, cardiovascular, trial, value, feeling, higher, thermometer, regression, variables, multivariable, agreement, factors, therefore, form, reduce, model, short, intensity, among, randomization, participants, blood, glucose, specific, high, may",
+    "group": 2,
+    "_row": "ft"
+  },
+  {
+    "term": "based",
+    "freq": 20,
+    "assocs": "average, conventional, deviation, generate, histograms, interpretation, left, misleading, norm, often, perfect, poorer, predominantly, returned, sample, scale, sd, sent, show, skew, whereas, assigned, general, adult, indicate, distributed, normally, standard, dead, status, e, investigate, suggest, rand, profile, consisted",
+    "group": 1,
+    "_row": "based"
+  },
+  {
+    "term": "group",
+    "freq": 20,
+    "assocs": "change, abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, adverse, extend, weight, combination, primarily, respect, evaluate, events, lipid, low, multicenter, level, improve, glycemia, favor, established, however, mass",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "sf",
+    "freq": 21,
+    "assocs": "action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, cardiovascular, relationship, hu, risk, value, accord, major, classification, trial, agreement, factors, therefore, feeling, higher, thermometer, variables, regression, multivariable, form, reduce, model, short, correlation",
+    "group": 2,
+    "_row": "sf"
+  },
+  {
+    "term": "control",
+    "freq": 22,
+    "assocs": "primarily, improve, activities, adherence, attitudes, beliefs, concurrent, directed, examine, humanistic, multifaceted, satisfaction, team, time, outcome, region, month, level, favor, increased, lifestyle, rural, provide, included, visits, covariance",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "disease",
+    "freq": 22,
+    "assocs": "lower, alone, chronic",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "lt",
+    "freq": 24,
+    "assocs": "glycemia, events, lipid, abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, change, low, combination, respect, evaluate, adverse, extend, weight, primarily, glucose, insulin, favor, level",
+    "group": 1,
+    "_row": "lt"
+  },
+  {
+    "term": "measure",
+    "freq": 24,
+    "assocs": "may, cardiovascular, background, average, conventional, deviation, generate, histograms, interpretation, left, misleading, norm, often, perfect, poorer, predominantly, returned, sample, scale, sd, sent, show, skew, whereas, action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, accord, relationship, hu, investigate, suggest, agreement, factors, therefore, risk, indicate, general",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "overall",
+    "freq": 24,
+    "assocs": "single, comorbid, stroke, respondent, categories, part, possible, covariance, deficit, cross, sectional, construct",
+    "group": 1,
+    "_row": "overall"
+  },
+  {
+    "term": "comparable",
+    "freq": 25,
+    "assocs": "included, change, primarily, glycemia, established, mellitus",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "type",
+    "freq": 26,
+    "assocs": "cross, sectional, advanced, communities, impaired, emotion, prospective, purpose, categories, presumed, abilities, detect, dwelling, extent, larger, lead, might, mild, moderate, negative, past, persisted, proportion, rescaling, sparse, states, superiority, v, pain, favor",
+    "group": 1,
+    "_row": "type"
+  },
+  {
+    "term": "patient",
+    "freq": 27,
+    "assocs": "primarily, evaluate, included, total, multicenter, improve, level, adverse, extend, month, outcome, arm, events, lipid, randomization, low, change, among, activities, adherence, attitudes, beliefs, concurrent, directed, examine, humanistic, multifaceted, satisfaction, team, time, abnormalities, acceptable, achieved, addition, adequately, although, blind, c, cholesterol, dcp, diagnosis, dl, double, dual, eligibility, end, episodes, fasting, glimepiride, glycosylated, hbac, hemoglobin, hypo, hypoglycemia, immediate, inadequately, incidence, kg, l, lipoprotein, m, maintenance, metformin, mg, microiu, minimum, ml, parallel, peptide, percent, period, pioglitazone, placebo, plasma, pmol, point, rates, received, regimen, release, rosiglitazone, se, sequentially, stabilization, thiazolidinedione, titrated, tolerability, triglycerides, triple, week, favor, high, profile",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "utilities",
+    "freq": 28,
+    "assocs": "absolute, apart, aqol, australia, better, choice, cost, countries, depend, enable, eq, fit, gave, generalised, glm, least, mae, mapped, mau, members, multi, norway, ols, paper, public, qwb, rank, rmse, root, square, strongest, sufferers, transform, uk, upon, usa, range, instrument, discriminated, algorithm, six, r, predicted, error, linear, statistically, canada, conducted, parametric, however, distributed, normally, develop, n, recruited",
+    "group": 1,
+    "_row": "utilities"
+  },
+  {
+    "term": "d",
+    "freq": 34,
+    "assocs": "value, range, absolute, apart, aqol, australia, better, choice, cost, countries, depend, enable, eq, fit, gave, generalised, glm, instrument, least, mae, mapped, mau, members, multi, norway, ols, paper, public, qwb, rank, rmse, root, square, strongest, sufferers, transform, uk, upon, usa, algorithm, six, r, predicted, error, linear, action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, statistically, relationship, risk, hu, variables, model, except, major, however, feeling, higher, thermometer",
+    "group": 2,
+    "_row": "d"
+  },
+  {
+    "term": "differ",
+    "freq": 36,
+    "assocs": "communities, categories, conducted, alberta, worse, abilities, detect, dwelling, extent, larger, lead, might, mild, moderate, negative, past, persisted, proportion, rescaling, sparse, states, superiority, v",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "score",
+    "freq": 50,
+    "assocs": "indicate, investigate, suggest, general, average, conventional, deviation, generate, histograms, interpretation, left, misleading, norm, often, perfect, poorer, predominantly, returned, sample, scale, sd, sent, show, skew, whereas, adult, assigned, dead, e, evidence, distributed, normally, rand, status",
+    "group": 3,
+    "_row": "score"
+  },
+  {
+    "term": "health",
+    "freq": 54,
+    "assocs": "status, adult, average, conventional, deviation, generate, histograms, interpretation, left, misleading, norm, often, perfect, poorer, predominantly, returned, sample, scale, sd, sent, show, skew, whereas, e, assigned, standard, general, physical, substantial, mental, female, complete, dead",
+    "group": 3,
+    "_row": "health"
+  },
+  {
+    "term": "diabetes",
+    "freq": 64,
+    "assocs": "alone, defined, considerable, diet, lower, mhc, treated, pain, phc, insulin, managed",
+    "group": 3,
+    "_row": "diabetes"
+  },
+  {
+    "term": "hui",
+    "freq": 86,
+    "assocs": "relationship, hu, action, clinicaltrials, common, cvd, derived, dimensions, economic, explained, gov, hus, iccs, identifier, iii, interclass, nct, per, poor, pressure, quartile, registration, selected, sub, variance, accord, risk, classification, cardiovascular, major, value, advanced, trial, variables, impaired, presumed, regression, feeling, higher, thermometer",
+    "group": 2,
+    "_row": "hui"
+  }
+]

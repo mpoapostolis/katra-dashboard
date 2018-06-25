@@ -1,0 +1,352 @@
+[
+  {
+    "term": "one",
+    "freq": 133,
+    "assocs": "",
+    "group": 1,
+    "_row": "one"
+  },
+  {
+    "term": "evalu",
+    "freq": 133,
+    "assocs": "",
+    "group": 1,
+    "_row": "evalu"
+  },
+  {
+    "term": "data",
+    "freq": 139,
+    "assocs": "",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "associated",
+    "freq": 141,
+    "assocs": "",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "examination",
+    "freq": 142,
+    "assocs": "",
+    "group": 1,
+    "_row": "examination"
+  },
+  {
+    "term": "participant",
+    "freq": 144,
+    "assocs": "",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "sound",
+    "freq": 146,
+    "assocs": "obstetrics",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "among",
+    "freq": 147,
+    "assocs": "",
+    "group": 1,
+    "_row": "among"
+  },
+  {
+    "term": "increase",
+    "freq": 154,
+    "assocs": "",
+    "group": 1,
+    "_row": "increase"
+  },
+  {
+    "term": "show",
+    "freq": 155,
+    "assocs": "",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "shift",
+    "freq": 159,
+    "assocs": "",
+    "group": 1,
+    "_row": "shift"
+  },
+  {
+    "term": "object",
+    "freq": 162,
+    "assocs": "",
+    "group": 1,
+    "_row": "object"
+  },
+  {
+    "term": "audiometr",
+    "freq": 170,
+    "assocs": "",
+    "group": 1,
+    "_row": "audiometr"
+  },
+  {
+    "term": "relate",
+    "freq": 170,
+    "assocs": "",
+    "group": 1,
+    "_row": "relate"
+  },
+  {
+    "term": "method",
+    "freq": 175,
+    "assocs": "",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "tinnitus",
+    "freq": 180,
+    "assocs": "",
+    "group": 1,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "assess",
+    "freq": 191,
+    "assocs": "",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "control",
+    "freq": 207,
+    "assocs": "",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "hz",
+    "freq": 215,
+    "assocs": "",
+    "group": 2,
+    "_row": "hz"
+  },
+  {
+    "term": "patient",
+    "freq": 216,
+    "assocs": "onset, intratympanic, steroid, success, fluctuating, meniere, modest, morbidity, nondiabetics, perfusion, posttreatment, pretreatment, sds, twelve, dexamethasone, improve, sudden, vertigo, idiopathic, failure",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "comparable",
+    "freq": 219,
+    "assocs": "",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "differ",
+    "freq": 226,
+    "assocs": "",
+    "group": 2,
+    "_row": "differ"
+  },
+  {
+    "term": "nihl",
+    "freq": 236,
+    "assocs": "",
+    "group": 2,
+    "_row": "nihl"
+  },
+  {
+    "term": "measurable",
+    "freq": 243,
+    "assocs": "",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "effect",
+    "freq": 247,
+    "assocs": "",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "db",
+    "freq": 248,
+    "assocs": "",
+    "group": 2,
+    "_row": "db"
+  },
+  {
+    "term": "risk",
+    "freq": 252,
+    "assocs": "factor",
+    "group": 2,
+    "_row": "risk"
+  },
+  {
+    "term": "occup",
+    "freq": 268,
+    "assocs": "",
+    "group": 1,
+    "_row": "occup"
+  },
+  {
+    "term": "year",
+    "freq": 298,
+    "assocs": "",
+    "group": 2,
+    "_row": "year"
+  },
+  {
+    "term": "audiometric",
+    "freq": 311,
+    "assocs": "",
+    "group": 2,
+    "_row": "audiometric"
+  },
+  {
+    "term": "high",
+    "freq": 319,
+    "assocs": "",
+    "group": 2,
+    "_row": "high"
+  },
+  {
+    "term": "induce",
+    "freq": 321,
+    "assocs": "",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "ear",
+    "freq": 334,
+    "assocs": "right",
+    "group": 2,
+    "_row": "ear"
+  },
+  {
+    "term": "expose",
+    "freq": 342,
+    "assocs": "ethyl, solvent",
+    "group": 2,
+    "_row": "expose"
+  },
+  {
+    "term": "subject",
+    "freq": 344,
+    "assocs": "",
+    "group": 2,
+    "_row": "subject"
+  },
+  {
+    "term": "pure",
+    "freq": 347,
+    "assocs": "",
+    "group": 2,
+    "_row": "pure"
+  },
+  {
+    "term": "age",
+    "freq": 352,
+    "assocs": "",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "khz",
+    "freq": 354,
+    "assocs": "",
+    "group": 2,
+    "_row": "khz"
+  },
+  {
+    "term": "worker",
+    "freq": 362,
+    "assocs": "",
+    "group": 2,
+    "_row": "worker"
+  },
+  {
+    "term": "tone",
+    "freq": 363,
+    "assocs": "",
+    "group": 2,
+    "_row": "tone"
+  },
+  {
+    "term": "significance",
+    "freq": 372,
+    "assocs": "",
+    "group": 2,
+    "_row": "significance"
+  },
+  {
+    "term": "test",
+    "freq": 372,
+    "assocs": "",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "level",
+    "freq": 378,
+    "assocs": "",
+    "group": 2,
+    "_row": "level"
+  },
+  {
+    "term": "group",
+    "freq": 493,
+    "assocs": "",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "frequencies",
+    "freq": 497,
+    "assocs": "",
+    "group": 2,
+    "_row": "frequencies"
+  },
+  {
+    "term": "studied",
+    "freq": 603,
+    "assocs": "",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "threshold",
+    "freq": 674,
+    "assocs": "",
+    "group": 2,
+    "_row": "threshold"
+  },
+  {
+    "term": "exposure",
+    "freq": 680,
+    "assocs": "",
+    "group": 3,
+    "_row": "exposure"
+  },
+  {
+    "term": "loss",
+    "freq": 857,
+    "assocs": "",
+    "group": 3,
+    "_row": "loss"
+  },
+  {
+    "term": "noise",
+    "freq": 1340,
+    "assocs": "",
+    "group": 3,
+    "_row": "noise"
+  }
+]

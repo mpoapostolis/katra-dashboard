@@ -1,0 +1,352 @@
+[
+  {
+    "term": "evalu",
+    "freq": 284,
+    "assocs": "",
+    "group": 1,
+    "_row": "evalu"
+  },
+  {
+    "term": "among",
+    "freq": 284,
+    "assocs": "",
+    "group": 1,
+    "_row": "among"
+  },
+  {
+    "term": "sound",
+    "freq": 288,
+    "assocs": "",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "auditoria",
+    "freq": 289,
+    "assocs": "",
+    "group": 1,
+    "_row": "auditoria"
+  },
+  {
+    "term": "object",
+    "freq": 297,
+    "assocs": "",
+    "group": 1,
+    "_row": "object"
+  },
+  {
+    "term": "show",
+    "freq": 303,
+    "assocs": "",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "associated",
+    "freq": 305,
+    "assocs": "",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "patient",
+    "freq": 307,
+    "assocs": "",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "increase",
+    "freq": 312,
+    "assocs": "",
+    "group": 1,
+    "_row": "increase"
+  },
+  {
+    "term": "pure",
+    "freq": 314,
+    "assocs": "",
+    "group": 1,
+    "_row": "pure"
+  },
+  {
+    "term": "relate",
+    "freq": 316,
+    "assocs": "",
+    "group": 1,
+    "_row": "relate"
+  },
+  {
+    "term": "participant",
+    "freq": 318,
+    "assocs": "",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "data",
+    "freq": 333,
+    "assocs": "",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "hz",
+    "freq": 334,
+    "assocs": "",
+    "group": 1,
+    "_row": "hz"
+  },
+  {
+    "term": "audiometr",
+    "freq": 342,
+    "assocs": "",
+    "group": 1,
+    "_row": "audiometr"
+  },
+  {
+    "term": "assess",
+    "freq": 348,
+    "assocs": "",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "tinnitus",
+    "freq": 349,
+    "assocs": "",
+    "group": 1,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "tone",
+    "freq": 354,
+    "assocs": "",
+    "group": 1,
+    "_row": "tone"
+  },
+  {
+    "term": "audiometric",
+    "freq": 379,
+    "assocs": "",
+    "group": 1,
+    "_row": "audiometric"
+  },
+  {
+    "term": "protect",
+    "freq": 389,
+    "assocs": "intervention, biosis, cambridge, cinahl, previews, device, embase, pubmed, meta, randomised, update, bias, search, cochrane",
+    "group": 1,
+    "_row": "protect"
+  },
+  {
+    "term": "control",
+    "freq": 391,
+    "assocs": "rct, cba, cbas, curtains, devicesin, downward, feedbackon, legislationone, osh, pharmaceutical, programmesone, purchasing, roughly, studieswe, hlpp, hlpps, rcts, evidence, md, uncontrollable, interrupted, verification, legislated, stricter, coal, segregate",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "method",
+    "freq": 398,
+    "assocs": "",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "comparable",
+    "freq": 413,
+    "assocs": "rct, cba, cbas, curtains, devicesin, downward, feedbackon, legislationone, osh, pharmaceutical, programmesone, purchasing, roughly, studieswe",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "risk",
+    "freq": 453,
+    "assocs": "factor",
+    "group": 1,
+    "_row": "risk"
+  },
+  {
+    "term": "differ",
+    "freq": 489,
+    "assocs": "",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "nihl",
+    "freq": 497,
+    "assocs": "",
+    "group": 1,
+    "_row": "nihl"
+  },
+  {
+    "term": "effect",
+    "freq": 498,
+    "assocs": "rct, evidence, hlpp, hlpps, rcts, cba, cbas, curtains, devicesin, downward, feedbackon, legislationone, osh, pharmaceutical, programmesone, purchasing, roughly, studieswe, uncontrollable, interrupted, stricter, md, verification, legislated, coal, segregate, long, biosis, cambridge, cinahl, previews, follow, term, reduce, intervention, author, muffs, pubmed, embase, another, installation, update",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "measurable",
+    "freq": 501,
+    "assocs": "",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "year",
+    "freq": 525,
+    "assocs": "",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "db",
+    "freq": 526,
+    "assocs": "right, advocacy, cramer, nonuse, festival",
+    "group": 2,
+    "_row": "db"
+  },
+  {
+    "term": "khz",
+    "freq": 533,
+    "assocs": "",
+    "group": 2,
+    "_row": "khz"
+  },
+  {
+    "term": "subject",
+    "freq": 537,
+    "assocs": "",
+    "group": 1,
+    "_row": "subject"
+  },
+  {
+    "term": "occup",
+    "freq": 538,
+    "assocs": "",
+    "group": 1,
+    "_row": "occup"
+  },
+  {
+    "term": "high",
+    "freq": 539,
+    "assocs": "",
+    "group": 2,
+    "_row": "high"
+  },
+  {
+    "term": "induce",
+    "freq": 583,
+    "assocs": "",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "age",
+    "freq": 590,
+    "assocs": "",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "ear",
+    "freq": 599,
+    "assocs": "right, left",
+    "group": 2,
+    "_row": "ear"
+  },
+  {
+    "term": "expose",
+    "freq": 608,
+    "assocs": "",
+    "group": 1,
+    "_row": "expose"
+  },
+  {
+    "term": "significance",
+    "freq": 662,
+    "assocs": "",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "test",
+    "freq": 794,
+    "assocs": "",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "level",
+    "freq": 859,
+    "assocs": "",
+    "group": 2,
+    "_row": "level"
+  },
+  {
+    "term": "frequences",
+    "freq": 860,
+    "assocs": "",
+    "group": 2,
+    "_row": "frequences"
+  },
+  {
+    "term": "worker",
+    "freq": 880,
+    "assocs": "",
+    "group": 2,
+    "_row": "worker"
+  },
+  {
+    "term": "group",
+    "freq": 950,
+    "assocs": "",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "threshold",
+    "freq": 1012,
+    "assocs": "",
+    "group": 2,
+    "_row": "threshold"
+  },
+  {
+    "term": "studied",
+    "freq": 1173,
+    "assocs": "hlpps, rct, rcts, hlpp, cba, cbas, curtains, devicesin, downward, feedbackon, legislationone, osh, pharmaceutical, programmesone, purchasing, roughly, studieswe, evidence, md, interrupted, uncontrollable, stricter, verification, legislated, coal, segregate, follow, long, term, installation, muffs, biosis, cambridge, cinahl, previews, pubmed, engine, author, eleven, another, low, reduce, embase, found, update, underground",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "exposure",
+    "freq": 1345,
+    "assocs": "",
+    "group": 2,
+    "_row": "exposure"
+  },
+  {
+    "term": "loss",
+    "freq": 1592,
+    "assocs": "",
+    "group": 2,
+    "_row": "loss"
+  },
+  {
+    "term": "noise",
+    "freq": 2697,
+    "assocs": "",
+    "group": 3,
+    "_row": "noise"
+  },
+  {
+    "term": "hear",
+    "freq": 3526,
+    "assocs": "",
+    "group": 3,
+    "_row": "hear"
+  }
+]

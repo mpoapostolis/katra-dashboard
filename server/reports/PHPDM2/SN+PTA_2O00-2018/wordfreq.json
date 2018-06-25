@@ -1,0 +1,352 @@
+[
+  {
+    "term": "induce",
+    "freq": 16,
+    "assocs": "random, agent, antioxidant, nihl, airbase, audio, beta, bloodstream, carotene, cell, combination, contributor, critically, death, dose, economic, elevations, encouraging, gunfire, hours, magnesium, metrics, nct, novel, now, oral, oxidative, placebo, plasma, prospective, realistic, rodent, shown, stamping, supplies, translation, vitamins, human, shift, clinical, strategies, therapeutic, insult, temporarily, permanent, player, continuous",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "young",
+    "freq": 16,
+    "assocs": "abr, absence, embedded, exists, latter, light, make, nineteen, nit, oae, reflected, release, snr, srt, subclinical, occur, subjective, non, reception, sentences, however, improved, state, due, brainstem, develop, transient, deficits, follow, hz, impedance, discussed, remains, continuous, debate",
+    "group": 1,
+    "_row": "young"
+  },
+  {
+    "term": "ci",
+    "freq": 16,
+    "assocs": "might, prevalence, risk, type, authors, beaver, biomedical, center, clinicians, competing, created, dam, despite, doctor, entire, etiologies, fall, g, generates, hd, hds, hobbies, incomes, item, lifestyle, managing, messages, multivariable, neurological, offspring, outside, percentage, probe, relevant, scale, scope, sensation, tingling, vision, depression, limit, among, confidence, four, within, therefore, medical, based, diabetes, decibels, distinguish, mid, noninstitutionalized, nutrition, u, vasculature, cross, greater, sectional, mild, variable, visual, epidemiological, identification, independent, national, odds, possible, sex, quantified, interval, role, common",
+    "group": 1,
+    "_row": "ci"
+  },
+  {
+    "term": "experienced",
+    "freq": 16,
+    "assocs": "masker, shape, masked, estimate, approximately, asymmetric, efficient, especially, excellent, fewer, forward, min, naive, narrower, peaks, published, simultaneous, ascribed, brief, dip, fluctuating, intelligibility, listeningquot, minimum, monotonically, near, nonmonotonic, pip, psychometric, quiescence, quotdip, root, shallower, sinusoidally, slopes, solely, square, unmodulated, take, advantage, modulated, target, adaptive, filter, detect",
+    "group": 1,
+    "_row": "experienced"
+  },
+  {
+    "term": "data",
+    "freq": 17,
+    "assocs": "isolated, lead, point, anonymized, biologically, chl, counteracts, either, end, ent, erlangen, finally, heterogeneous, hospital, hypothesize, neuronal, nt, physiological, plausible, pose, rarely, resonance, retrospective, serious, shl, stochastic, suicide, t",
+    "group": 1,
+    "_row": "data"
+  },
+  {
+    "term": "mean",
+    "freq": 17,
+    "assocs": "sd, boat, building, fibre, laminators, ma, pga, registration, regularly, reinforced, sixteen, styrene, sum, support, yr",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "expose",
+    "freq": 17,
+    "assocs": "acceptable, nihl, dpoae, emission, otoacoustic, workers, occupational, absent, capital, divided, fold, matched, o, paulo, physiopathological, transversal",
+    "group": 1,
+    "_row": "expose"
+  },
+  {
+    "term": "adult",
+    "freq": 18,
+    "assocs": "independent, decibels, diabetes, distinguish, mid, noninstitutionalized, nutrition, u, vasculature, worse, mild, recall, greater, among, national, condition, neural, respect, represent, adjusted, type",
+    "group": 1,
+    "_row": "adult"
+  },
+  {
+    "term": "evaluate",
+    "freq": 18,
+    "assocs": "acquired, b, compressed, cs, fs, gd, gradual, indispensable, integrity, mld, modifications, monaural, na, normative, psychophysical, revision, sin, spectrotemporal, spoken, ve, lesions, signal, comprehension, cortical, understand, reasonable, assume, processes, psychoacoustic, brainstem, degree, certain, gap, system",
+    "group": 1,
+    "_row": "evaluate"
+  },
+  {
+    "term": "hl",
+    "freq": 18,
+    "assocs": "point, american, babble, binaurally, concurrent, cord, criteria, decrements, experiment, fitness, good, graphically, half, inclusion, institute, instrument, maximum, mcardle, minute, mixed, multitalker, northwestern, nu, numerically, octave, personnel, predictor, puretone, quasi, r, retrocochlear, session, speakers, sprint, task, valid, whereas, wilson, win, recognition, s, quiet, correct, fixed, hz, average, n, two, university, collected, purpose, bilaterally, materials, perspective, al, et, issue, middle, occur, design, sensorineural, present, indicate, national, interval, traditional, follow",
+    "group": 1,
+    "_row": "hl"
+  },
+  {
+    "term": "abilities",
+    "freq": 19,
+    "assocs": "capacity, part, predict, negative, rehabilitation, ac, afferent, algorithm, articulation, ascending, aspects, best, beyond, chain, component, composed, conceptual, conjunction, cornerstone, description, desirable, diagnostic, efferent, imparied, lecture, lobe, parallel, phonology, profiles, simple, subcortical, three, wider, across, allows, assembled, audiologists, automated, constructed, context, cover, differentiate, heard, help, lifespan, nih, nonspecialists, project, quotgold, small, snapshot, specific, standardquot, status, subscales, toolbox, trained, wide, include, left, local, motor, control, personal, e, corresponding, language, tool, situational",
+    "group": 1,
+    "_row": "abilities"
+  },
+  {
+    "term": "khz",
+    "freq": 19,
+    "assocs": "confounding, disease, hundred, residing, difficulties, value, trend, odds, ratio, respect, closed, eighteen, nine",
+    "group": 1,
+    "_row": "khz"
+  },
+  {
+    "term": "several",
+    "freq": 20,
+    "assocs": "represent, adjusted, accounting, ameliorating, australia, australian, chances, cis, counseling, delineate, familial, logistic, maternal, men, nature, overcome, paternal, play, region, separate, strong, sydney, west, women, yrs, without, moderate, survey, known, regression, contribute, difficult, genetic, forced, older, environment, smoked, findings, diabetes, independent",
+    "group": 1,
+    "_row": "several"
+  },
+  {
+    "term": "differ",
+    "freq": 21,
+    "assocs": "improved, deficits, anonymized, biologically, chl, counteracts, either, end, ent, erlangen, finally, heterogeneous, hospital, hypothesize, neuronal, nt, physiological, plausible, pose, rarely, resonance, retrospective, serious, shl, stochastic, suicide, t, develop, comparison, pathway, lower, brainstem",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "model",
+    "freq": 21,
+    "assocs": "ac, afferent, algorithm, articulation, ascending, aspects, best, beyond, chain, component, composed, conceptual, conjunction, cornerstone, description, desirable, diagnostic, efferent, imparied, lecture, lobe, parallel, phonology, profiles, simple, subcortical, wider, c, local, predict, gave, corresponding, language, basic, comparison, multiple, promise, three, consist, large, optimal, communicating, form, give, perspective, distributed, peripheral, e, assumption, audiovisual, calculated, capacity, concluded, cortical, impedance, motor, negative, part, phase, planning, reading, recall, reference, rehabilitation, since, statistical, understand, applied, serial, direct, furthermore, order, psychological, response",
+    "group": 2,
+    "_row": "model"
+  },
+  {
+    "term": "participant",
+    "freq": 21,
+    "assocs": "health, approach, encounter, sociodemographic, extended, preventing, range, emotional, loud, limit",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "relate",
+    "freq": 21,
+    "assocs": "susceptibility, import, less, though, questionnaire, variable, findings, defined",
+    "group": 1,
+    "_row": "relate"
+  },
+  {
+    "term": "central",
+    "freq": 22,
+    "assocs": "language, peripheral, cortical, understand, c, ac, afferent, algorithm, articulation, ascending, aspects, best, beyond, chain, component, composed, conceptual, conjunction, cornerstone, description, desirable, diagnostic, efferent, imparied, lecture, lobe, parallel, phonology, profiles, simple, subcortical, wider, three, comparison, corresponding, local, calculated, phase, brainstem, consist, direct, basic, predict, lesions, communicating, large, post",
+    "group": 1,
+    "_row": "central"
+  },
+  {
+    "term": "factor",
+    "freq": 22,
+    "assocs": "confidence, identification, sex, possible, environment, authors, beaver, biomedical, center, clinicians, competing, created, dam, despite, doctor, entire, etiologies, fall, g, generates, hd, hds, hobbies, incomes, item, lifestyle, managing, messages, multivariable, neurological, offspring, outside, percentage, probe, relevant, scale, scope, sensation, tingling, vision, depression, quantified, interval, role, future, four, therefore, genetic, might, seen, within, variable, epidemiological, population, contribute, risk, form, prevalence, susceptibility, visual, encounter, sociodemographic, addition",
+    "group": 1,
+    "_row": "factor"
+  },
+  {
+    "term": "listeners",
+    "freq": 22,
+    "assocs": "american, babble, binaurally, concurrent, cord, criteria, decrements, experiment, fitness, good, graphically, half, inclusion, institute, instrument, maximum, mcardle, minute, mixed, multitalker, northwestern, nu, numerically, octave, personnel, predictor, puretone, quasi, r, retrocochlear, session, speakers, sprint, task, valid, whereas, wilson, win, fixed, quiet, recognition, correct, collected, two, s, present, hz, point, n, university, perspective, middle, materials, purpose, stimulus, traditional, al, et, standard, bilaterally, issue, occur",
+    "group": 1,
+    "_row": "listeners"
+  },
+  {
+    "term": "word",
+    "freq": 22,
+    "assocs": "american, babble, binaurally, concurrent, cord, criteria, decrements, experiment, fitness, good, graphically, half, inclusion, institute, instrument, maximum, mcardle, minute, mixed, multitalker, northwestern, nu, numerically, octave, personnel, predictor, puretone, quasi, r, recognition, retrocochlear, session, speakers, sprint, task, valid, whereas, wilson, win, correct, quiet, s, purpose, fixed, point, perspective, middle, n, materials, university, collected, hz, bilaterally, two, present, order, al, et, issue, occur, obtain, local, indicate, interval, traditional, sensorineural, three, correlate, average, analyzed, follow, design, protocol, standard, slightly",
+    "group": 1,
+    "_row": "word"
+  },
+  {
+    "term": "associated",
+    "freq": 22,
+    "assocs": "confidence, sex, survey, accounting, ameliorating, australia, australian, chances, cis, counseling, delineate, familial, logistic, maternal, men, nature, overcome, paternal, play, region, separate, strong, sydney, west, women, yrs, quantified, gender, interval, role, therefore, regression",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "social",
+    "freq": 25,
+    "assocs": "appeared, appropriate, audioscan, band, detail, drawn, eventually, faaf, hiya, insignificant, interesting, invited, larger, lessons, look, mobile, move, multi, nil, plus, presumed, smith, technique, third, threefold, attempt, oto, calculated, phase, abnormalities, follow, need, carried, al, broad, difficult, et, sub, suppressed, standard, also",
+    "group": 1,
+    "_row": "social"
+  },
+  {
+    "term": "self",
+    "freq": 25,
+    "assocs": "authors, beaver, biomedical, center, clinicians, competing, created, dam, despite, doctor, entire, etiologies, fall, g, generates, hd, hds, hobbies, incomes, item, lifestyle, managing, messages, multivariable, neurological, offspring, outside, percentage, probe, relevant, scale, scope, sensation, tingling, vision, difficulties, sensitive, firearms, depression, encounter, sociodemographic, four, risk, epidemiological, sex, within, possible, limit, therefore, audiologic, visual, people, might, variable, short, stress, questionnaire, odds",
+    "group": 2,
+    "_row": "self"
+  },
+  {
+    "term": "frequencies",
+    "freq": 25,
+    "assocs": "national, mild, among, average, decibels, distinguish, mid, noninstitutionalized, nutrition, u, vasculature, diabetes, low, greater, independent, type, prevalence, worse, gt, might, s",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "level",
+    "freq": 25,
+    "assocs": "approximately, asymmetric, efficient, especially, excellent, fewer, forward, min, naive, narrower, peaks, published, simultaneous, filter, target, psychoacoustic, shape, notch, estimate, bayesian, converge, quick, spectrum, detect, masked",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "pure",
+    "freq": 27,
+    "assocs": "middle, national, purpose",
+    "group": 1,
+    "_row": "pure"
+  },
+  {
+    "term": "db",
+    "freq": 27,
+    "assocs": "american, babble, binaurally, concurrent, cord, criteria, decrements, experiment, fitness, good, graphically, half, inclusion, institute, instrument, maximum, mcardle, minute, mixed, multitalker, northwestern, nu, numerically, octave, personnel, predictor, puretone, quasi, r, retrocochlear, session, speakers, sprint, task, valid, whereas, wilson, win, recognition, s, quiet, fixed, hz, correct, point, n, university, collected, occur, two, purpose, average, al, et, bilaterally, materials, perspective, issue, middle, present, follow, indicate, design, correlate, protocol, standard, interval, traditional, national",
+    "group": 1,
+    "_row": "db"
+  },
+  {
+    "term": "impaired",
+    "freq": 28,
+    "assocs": "independent, decibels, diabetes, distinguish, mid, noninstitutionalized, nutrition, u, vasculature, mild, greater, recall, among, national, adjusted, worse, represent, type, whether, might, setting",
+    "group": 1,
+    "_row": "impaired"
+  },
+  {
+    "term": "significant",
+    "freq": 28,
+    "assocs": "transient, amplitude, however",
+    "group": 1,
+    "_row": "significant"
+  },
+  {
+    "term": "high",
+    "freq": 28,
+    "assocs": "extended, music, recreational, global, habits, htl, implement, promote, technical, health, slightly, amplitude, adolescent, lt, low, categories, mge, actions, become, besides, demands, holistic, immission, nightclubs, pmps, reproducibility, transient, dba, conventional, revealed, loud, decrease, school, evoked",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "year",
+    "freq": 30,
+    "assocs": "progress, traumatic, post, follow, admitted, chi, concerning, died, equal, excluded, given, highlighted, impossible, rule, six, today, trace, wish, two, abnormalities",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "tone",
+    "freq": 31,
+    "assocs": "three, capacity, part, perspective, recall, middle, obtain, correct, independent, local, national",
+    "group": 1,
+    "_row": "tone"
+  },
+  {
+    "term": "comparable",
+    "freq": 31,
+    "assocs": "recreational, music, show, increase, establish, whose, amplitude, global, habits, htl, implement, promote, technical, improved, adolescent, low, lead, without, lt, actions, become, besides, demands, holistic, immission, nightclubs, pmps, reproducibility, anonymized, biologically, chl, counteracts, either, end, ent, erlangen, finally, heterogeneous, hospital, hypothesize, neuronal, nt, physiological, plausible, pose, rarely, resonance, retrospective, serious, shl, stochastic, suicide, t",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "function",
+    "freq": 33,
+    "assocs": "ac, afferent, algorithm, articulation, ascending, aspects, best, beyond, chain, component, composed, conceptual, conjunction, cornerstone, description, desirable, diagnostic, efferent, imparied, lecture, lobe, parallel, phonology, profiles, simple, subcortical, wider, basic, corresponding, c, language, local, form, comparison, predict, consist, calculated, phase, communicating, three, large, e, direct, assumption, audiovisual, capacity, gave, motor, multiple, part, promise, reading, reference, statistical, concluded, cortical, give, impedance, negative, perspective, planning, psychological, recall, rehabilitation, since, understand, even, peripheral, applied, benefit",
+    "group": 2,
+    "_row": "function"
+  },
+  {
+    "term": "normal",
+    "freq": 35,
+    "assocs": "form, perform, bilaterally, authors, beaver, biomedical, center, clinicians, competing, created, dam, despite, doctor, entire, etiologies, fall, g, generates, hd, hds, hobbies, incomes, item, lifestyle, managing, messages, multivariable, neurological, offspring, outside, percentage, probe, relevant, scale, scope, sensation, tingling, vision, psychological, visual, short, score, depression, basic, direct, traditional, local, perspective, four, therefore, epidemiological, communicating, within, individual, interval, purpose, three",
+    "group": 2,
+    "_row": "normal"
+  },
+  {
+    "term": "tinnitus",
+    "freq": 39,
+    "assocs": "comorbidities, pitch, hyperacusis, answered, database, default, discomfortquot, distress, external, frequently, hypervigilance, input, interplay, maneuvers, movements, neck, network, notion, november, overactivation, overlap, pain, pathophysiologic, physical, quotdo, quotnoquot, quotyesquot, responders, somatic, st, suffer, tri, unspecific, vertigo, vestibular, younger, higher, characteristics, sub, mechanism, question, improved, demographic, criterion",
+    "group": 2,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "audiometric",
+    "freq": 43,
+    "assocs": "four, depression, form, available, medical, authors, beaver, biomedical, center, clinicians, competing, created, dam, despite, doctor, entire, etiologies, fall, g, generates, hd, hds, hobbies, incomes, item, lifestyle, managing, messages, multivariable, neurological, offspring, outside, percentage, probe, relevant, scale, scope, sensation, tingling, vision, psychological, epidemiological, risk, within, therefore, total, life, audiologic, even, basic, identification, often, limit, debate, encounter, sociodemographic",
+    "group": 2,
+    "_row": "audiometric"
+  },
+  {
+    "term": "report",
+    "freq": 43,
+    "assocs": "authors, beaver, biomedical, center, clinicians, competing, created, dam, despite, doctor, entire, etiologies, fall, g, generates, hd, hds, hobbies, incomes, item, lifestyle, managing, messages, multivariable, neurological, offspring, outside, percentage, probe, relevant, scale, scope, sensation, tingling, vision, encounter, sociodemographic, depression, epidemiological, possible, within, visual, four, therefore, audiologic, limit, short, people, risk, sex, stress, firearms, population, difficulties, evidence, variable, also, might, confidence, outcomes, psychosocial, debate, sensitive, identification, cohort",
+    "group": 2,
+    "_row": "report"
+  },
+  {
+    "term": "patient",
+    "freq": 44,
+    "assocs": "comorbidities, pitch, anonymized, biologically, chl, counteracts, either, end, ent, erlangen, finally, heterogeneous, hospital, hypothesize, neuronal, nt, physiological, plausible, pose, rarely, resonance, retrospective, serious, shl, stochastic, suicide, t, mechanism, lower, lead, change, general, higher, improved, overall, side, propose, conduct, deficits",
+    "group": 2,
+    "_row": "patient"
+  },
+  {
+    "term": "group",
+    "freq": 45,
+    "assocs": "actions, become, besides, demands, holistic, immission, nightclubs, pmps, reproducibility, lt, global, habits, htl, implement, music, promote, technical, revealed, recreational, dba, transient, loud, health, amplitude, adolescent, evoked, approach, categories, extended, mge, slightly, school, need, establish, whose, player, administer",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "speech",
+    "freq": 45,
+    "assocs": "subjective, brainstem, advantage, modulated, reception, sentences",
+    "group": 2,
+    "_row": "speech"
+  },
+  {
+    "term": "age",
+    "freq": 45,
+    "assocs": "accounting, ameliorating, australia, australian, chances, cis, counseling, delineate, familial, logistic, maternal, men, nature, overcome, paternal, play, region, separate, strong, sydney, west, women, yrs, survey, moderate, regression, adjusted, known, confidence, older, without, sex, gender, difficult, contribute, genetic, import, less, though",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "studied",
+    "freq": 47,
+    "assocs": "often, evidence, problem, emission, need, epidemiological, depression, even",
+    "group": 2,
+    "_row": "studied"
+  },
+  {
+    "term": "exposure",
+    "freq": 50,
+    "assocs": "evoked, adolescent, emission, extended, transient, number, music, sd, global, habits, htl, implement, promote, technical",
+    "group": 2,
+    "_row": "exposure"
+  },
+  {
+    "term": "threshold",
+    "freq": 52,
+    "assocs": "lower, anonymized, biologically, chl, counteracts, either, end, ent, erlangen, finally, heterogeneous, hospital, hypothesize, neuronal, nt, physiological, plausible, pose, rarely, resonance, retrospective, serious, shl, stochastic, suicide, t, like, overall, people, develop, depression, often, improved, lead",
+    "group": 2,
+    "_row": "threshold"
+  },
+  {
+    "term": "loss",
+    "freq": 54,
+    "assocs": "accounting, ameliorating, australia, australian, chances, cis, counseling, delineate, familial, logistic, maternal, men, nature, overcome, paternal, play, region, separate, strong, sydney, west, women, yrs, regression, moderate, older, known, confidence, contribute, forced, position, findings, establish, whose, although, interval, difficult, genetic, choice, import, less, though, without, role, sex, quantified",
+    "group": 3,
+    "_row": "loss"
+  },
+  {
+    "term": "test",
+    "freq": 69,
+    "assocs": "capacity, part, predict, three, ac, afferent, algorithm, articulation, ascending, aspects, best, beyond, chain, component, composed, conceptual, conjunction, cornerstone, description, desirable, diagnostic, efferent, imparied, lecture, lobe, parallel, phonology, profiles, simple, subcortical, wider, language, local, c, assess, peripheral, basic, calculated, corresponding, cortical, form, phase, understand, comparison, negative, perspective, rehabilitation, communicating, consist",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "noise",
+    "freq": 91,
+    "assocs": "however, abr, absence, embedded, exists, latter, light, make, nineteen, nit, oae, reflected, release, snr, srt, subclinical, state, emission, continuous, reception, sentences, non, subjective",
+    "group": 2,
+    "_row": "noise"
+  },
+  {
+    "term": "hear",
+    "freq": 162,
+    "assocs": "adjusted, moderate, accounting, ameliorating, australia, australian, chances, cis, counseling, delineate, familial, less, logistic, maternal, men, nature, overcome, paternal, play, region, separate, strong, sydney, west, women, yrs, represent, older, trend, sex, known",
+    "group": 3,
+    "_row": "hear"
+  }
+]

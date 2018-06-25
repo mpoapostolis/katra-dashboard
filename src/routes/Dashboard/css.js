@@ -70,6 +70,13 @@ export const input = css`
   margin-left: 20px;
 `;
 
+export const option = css`
+  margin-left: 20px;
+  border:none;
+  padding:2px;
+  background:#0000001f;
+`
+
 export const dateCont = css`
   display: flex;
   align-items: center;

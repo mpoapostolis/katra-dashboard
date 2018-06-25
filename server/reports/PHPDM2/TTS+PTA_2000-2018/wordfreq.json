@@ -1,0 +1,352 @@
+[
+  {
+    "term": "mri",
+    "freq": 16,
+    "assocs": "imaging, resonance, t, patient, case, calculated, derived, earplugs, ex, fitted, foamed, guidelines, hence, institution, neck, nomograph, normograph, paired, procedure, scan, surveys, unavoidable, undergoing, head, report, backache, bera, chronic, detrimental, electrical, exemplifies, far, strength, sudden, tesla, unilateral, unit, magnetic, side, total, various, l, routine, considered, sequence",
+    "group": 1,
+    "_row": "mri"
+  },
+  {
+    "term": "mean",
+    "freq": 17,
+    "assocs": "noted, least, well, beginning, region, particular",
+    "group": 1,
+    "_row": "mean"
+  },
+  {
+    "term": "normal",
+    "freq": 17,
+    "assocs": "emitter, excellent, hss, hypersound, movie, technology, ultrasound, otologic, presence, new, symptoms, onset, air, audio, gt, underwent, considered",
+    "group": 1,
+    "_row": "normal"
+  },
+  {
+    "term": "mg",
+    "freq": 17,
+    "assocs": "randomisation, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa, calibrated, challenge, assigned, acute, treatment, allocated, clinicaltrials, gov, registered, analysis, receive, dose, beginning, drug, safe, major, phase, third, oral, relevance, sequence, florida, university, prevent, role, central, blind, double, included, nct, occupational, reduce, trial, serum, adult, background, excluded, seen, recreational, criteria, shown, findings, delivered",
+    "group": 1,
+    "_row": "mg"
+  },
+  {
+    "term": "placebo",
+    "freq": 17,
+    "assocs": "randomisation, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa, assigned, calibrated, challenge, clinicaltrials, gov, registered, treatment, blind, double, acute, analysis, nct, oral, dose, prevent, trial, receive, reduce, included, beginning, drug, safe, major, phase, third, relevance, sequence, allocated, florida, university, central, criteria, adult, reduction, role, background, occupational, serum, outcome, shown, across",
+    "group": 1,
+    "_row": "placebo"
+  },
+  {
+    "term": "distortion",
+    "freq": 18,
+    "assocs": "action, analyzing, floor, listening, night, ratio, summating, specific, sensitive, immediately, prospective, potential, respective, marked, club",
+    "group": 1,
+    "_row": "distortion"
+  },
+  {
+    "term": "product",
+    "freq": 18,
+    "assocs": "action, analyzing, floor, listening, night, ratio, summating, specific, sensitive, immediately, prospective, potential, respective, marked, club",
+    "group": 1,
+    "_row": "product"
+  },
+  {
+    "term": "animal",
+    "freq": 19,
+    "assocs": "standard, ample, anesthesia, automated, awake, commonly, contrast, distinct, etiology, fairly, inhibition, lack, manipulations, mice, near, pathologies, perceptual, ppi, prepulse, prerequisite, quick, reflex, robust, screening, simultaneously, startle, techniques, throughput, tool, traditional, utilizing, model, abr, across, multiple, translation, accurate, function",
+    "group": 1,
+    "_row": "animal"
+  },
+  {
+    "term": "clinic",
+    "freq": 19,
+    "assocs": "agent, therapeutic, acceptance, airbase, bloodstream, carotene, consumption, contributor, critically, death, depends, described, economic, encouraging, insult, international, issue, metrics, novel, now, realistic, rodent, series, social, stamping, strategies, supplies, swedish, trial, oral, population, large, benefit, plasma, gunfire, player, human, evaluate, complete, nct, shown",
+    "group": 1,
+    "_row": "clinic"
+  },
+  {
+    "term": "day",
+    "freq": 19,
+    "assocs": "receive, serum, administration, bandwidth, cobalamin, concentration, cyanocobalamin, dbhl, degrees, dysfunction, eighth, injection, ml, pg, physiological, supra, tympanograms, vitamin, treatment, allocated",
+    "group": 1,
+    "_row": "day"
+  },
+  {
+    "term": "n",
+    "freq": 19,
+    "assocs": "drug, relevance, challenge, assigned, disease, randomisation, acute, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa, calibrated, seen, reduce, trial",
+    "group": 1,
+    "_row": "n"
+  },
+  {
+    "term": "control",
+    "freq": 20,
+    "assocs": "experiment",
+    "group": 1,
+    "_row": "control"
+  },
+  {
+    "term": "dba",
+    "freq": 20,
+    "assocs": "well, personal, risk, bilaterally, classroom, ensemble, exhibit, instructional, jazz, place, quantified, regular, yet, based, known, college, eq, student, difficult, lt, basic, equivalent, post",
+    "group": 1,
+    "_row": "dba"
+  },
+  {
+    "term": "difference",
+    "freq": 21,
+    "assocs": "assigned, randomisation, drug, phase, sequence, dose, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa, acute, reduce, excluded, calibrated, challenge, reduction, disease, treatment, analysis, major, oral, clinicaltrials, gov, registered",
+    "group": 1,
+    "_row": "difference"
+  },
+  {
+    "term": "min",
+    "freq": 21,
+    "assocs": "higher, later, postexposure, difficult, systematic",
+    "group": 1,
+    "_row": "min"
+  },
+  {
+    "term": "sound",
+    "freq": 21,
+    "assocs": "challenge, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa, calibrated, florida, university, assigned, acute, delivered, randomisation, safe, major, third, relevance, ci, dose, criteria, findings, age, analysis",
+    "group": 1,
+    "_row": "sound"
+  },
+  {
+    "term": "comparable",
+    "freq": 22,
+    "assocs": "non, seen, acute, lt, bilaterally, classroom, ensemble, exhibit, instructional, jazz, place, quantified, regular, yet, band, active",
+    "group": 1,
+    "_row": "comparable"
+  },
+  {
+    "term": "high",
+    "freq": 23,
+    "assocs": "extended, conventional, careers, ltor, median, nonprofessional, notably, poorer, rehearsal, unchanged, yr, advantageous",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "otoacoustic",
+    "freq": 24,
+    "assocs": "action, analyzing, floor, listening, night, ratio, specific, summating, sensitive",
+    "group": 1,
+    "_row": "otoacoustic"
+  },
+  {
+    "term": "dpoae",
+    "freq": 25,
+    "assocs": "absolute, fine, monaurally, properties, resolution, structure, later, postexposure, course, overexposure, broadband, even",
+    "group": 1,
+    "_row": "dpoae"
+  },
+  {
+    "term": "participants",
+    "freq": 26,
+    "assocs": "leading, binding, cc, centered, convincing, ct, domain, dptls, esrr, estrogen, exploratory, input, io, ligand, molecular, nineteen, nucleotide, output, pathways, ps, receptor, rs, rscc, synonymous, variant, genotype, associated, future, dp, acquired, polymorphism, beta, non, narrow, florida, university",
+    "group": 1,
+    "_row": "participants"
+  },
+  {
+    "term": "emission",
+    "freq": 26,
+    "assocs": "amplitude, teoae, anovas, car, eight, fewer, never, premature, pspl, pts, action, analyzing, floor, listening, night, ratio, specific, summating, decrement",
+    "group": 1,
+    "_row": "emission"
+  },
+  {
+    "term": "exposed",
+    "freq": 27,
+    "assocs": "",
+    "group": 1,
+    "_row": "exposed"
+  },
+  {
+    "term": "music",
+    "freq": 27,
+    "assocs": "difficult, addition, availability, care, configuration, degeneration, digital, distinguish, essential, explicitly, first, hr, initiated, insight, likelihood, lowest, must, neural, playlist, postmusic, powered, quotnotchquot, real, retest, week, world, design, period, player, observational, otoprotective, bilaterally, classroom, ensemble, exhibit, instructional, jazz, place, quantified, regular, yet, data, evaluate",
+    "group": 1,
+    "_row": "music"
+  },
+  {
+    "term": "assess",
+    "freq": 27,
+    "assocs": "system, operant, overall, accurate, ample, anesthesia, automated, awake, commonly, contrast, distinct, etiology, fairly, inhibition, lack, manipulations, mice, near, pathologies, perceptual, ppi, prepulse, prerequisite, quick, reflex, robust, screening, simultaneously, startle, techniques, throughput, tool, traditional, utilizing",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "show",
+    "freq": 29,
+    "assocs": "teoae, anovas, car, eight, fewer, linear, never, premature, pspl, pts, inner",
+    "group": 1,
+    "_row": "show"
+  },
+  {
+    "term": "test",
+    "freq": 29,
+    "assocs": "selected, present, absence, bone, carhart, discomfort, divers, fail, hull, italian, mf, peyser, pulse, sonar, status, tdt, ten, vestibular, wants, worsening, end, months, six",
+    "group": 1,
+    "_row": "test"
+  },
+  {
+    "term": "change",
+    "freq": 30,
+    "assocs": "evaluate, difficult, college",
+    "group": 1,
+    "_row": "change"
+  },
+  {
+    "term": "pure",
+    "freq": 36,
+    "assocs": "reduction, collected, imposing, live, shorter, trend, variance",
+    "group": 2,
+    "_row": "pure"
+  },
+  {
+    "term": "hz",
+    "freq": 38,
+    "assocs": "among, adverse, annual, belonged, blows, counseling, depth, dip, findings, highest, kendo, moreover, patterns, regarding, senior, team, greater, incidence",
+    "group": 2,
+    "_row": "hz"
+  },
+  {
+    "term": "effect",
+    "freq": 40,
+    "assocs": "within",
+    "group": 1,
+    "_row": "effect"
+  },
+  {
+    "term": "loss",
+    "freq": 42,
+    "assocs": "safe, third, acute, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "tone",
+    "freq": 43,
+    "assocs": "contralateral, efferent, free, ipsilateral, medical, nbn, ototoxic, served, sixteen, suppression, hl, low, disease, presence, reduction, drug, give",
+    "group": 2,
+    "_row": "tone"
+  },
+  {
+    "term": "audiometric",
+    "freq": 46,
+    "assocs": "prevalence, ample, anesthesia, automated, awake, commonly, contrast, distinct, etiology, fairly, inhibition, lack, manipulations, mice, near, pathologies, perceptual, ppi, prepulse, prerequisite, quick, reflex, robust, screening, simultaneously, startle, techniques, throughput, tool, traditional, utilizing",
+    "group": 1,
+    "_row": "audiometric"
+  },
+  {
+    "term": "measurable",
+    "freq": 46,
+    "assocs": "bilaterally, classroom, ensemble, exhibit, instructional, jazz, place, quantified, regular, yet, difficult, based, non, personal, musicians, purpose",
+    "group": 1,
+    "_row": "measurable"
+  },
+  {
+    "term": "khz",
+    "freq": 47,
+    "assocs": "contralateral, efferent, free, ipsilateral, medical, nbn, ototoxic, served, sixteen, suppression, disease, hl, low, drug, material, higher, b",
+    "group": 2,
+    "_row": "khz"
+  },
+  {
+    "term": "frequencies",
+    "freq": 48,
+    "assocs": "extended, careers, ltor, median, nonprofessional, notably, poorer, rehearsal, unchanged, yr, range, region",
+    "group": 1,
+    "_row": "frequencies"
+  },
+  {
+    "term": "ear",
+    "freq": 48,
+    "assocs": "right, left, program, conservation, environment, personal",
+    "group": 2,
+    "_row": "ear"
+  },
+  {
+    "term": "level",
+    "freq": 49,
+    "assocs": "",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "subject",
+    "freq": 50,
+    "assocs": "volunteer, b, young, contralateral, efferent, free, ipsilateral, medical, nbn, ototoxic, served, sixteen, suppression, hl, low, presence",
+    "group": 2,
+    "_row": "subject"
+  },
+  {
+    "term": "induce",
+    "freq": 51,
+    "assocs": "nct, trial, randomisation, nihl, drug, oral, clinicaltrials, gov, registered, c, reduce",
+    "group": 1,
+    "_row": "induce"
+  },
+  {
+    "term": "significance",
+    "freq": 55,
+    "assocs": "",
+    "group": 2,
+    "_row": "significance"
+  },
+  {
+    "term": "group",
+    "freq": 57,
+    "assocs": "drug, assigned, disease, reduce, randomisation, volunteer, receive, b, treatment, allocated, low, contralateral, efferent, free, ipsilateral, medical, nbn, ototoxic, served, sixteen, suppression, approved, discontinued, disorder, ebselen, enrolled, fl, funding, gainsville, gpx, haematological, inclusion, independent, insert, interpretation, jan, judged, lend, longer, march, met, mimic, peroxidase, pharmaceuticals, preclinical, radiological, representing, se, support, tolerated, twice, usa, beginning, hl, serum, acute, calibrated, challenge",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "db",
+    "freq": 66,
+    "assocs": "drug, disease, assigned",
+    "group": 2,
+    "_row": "db"
+  },
+  {
+    "term": "tts",
+    "freq": 68,
+    "assocs": "c, hl, disease, contralateral, efferent, free, ipsilateral, low, medical, nbn, ototoxic, served, sixteen, suppression, narrow, drug, b",
+    "group": 2,
+    "_row": "tts"
+  },
+  {
+    "term": "studied",
+    "freq": 74,
+    "assocs": "binding, cc, centered, convincing, ct, domain, dptls, esrr, estrogen, exploratory, input, io, ligand, molecular, nineteen, nucleotide, output, pathways, ps, receptor, rs, rscc, synonymous, variant, associated, future, genotype, beta, acquired, previous, leading, evidence, dp, polymorphism",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "shift",
+    "freq": 87,
+    "assocs": "indoor, greater, according, alpha, arena, december, hockey, league, logistic, nine, november, october, odds, officials, osha, proportion, southeastern, sum, western, wyoming, right, plt, left, events, game",
+    "group": 3,
+    "_row": "shift"
+  },
+  {
+    "term": "exposure",
+    "freq": 96,
+    "assocs": "difficult, selected, paradigm",
+    "group": 1,
+    "_row": "exposure"
+  },
+  {
+    "term": "threshold",
+    "freq": 123,
+    "assocs": "events, indoor, warranted, observational",
+    "group": 3,
+    "_row": "threshold"
+  },
+  {
+    "term": "noise",
+    "freq": 137,
+    "assocs": "leisure, hazard",
+    "group": 3,
+    "_row": "noise"
+  }
+]

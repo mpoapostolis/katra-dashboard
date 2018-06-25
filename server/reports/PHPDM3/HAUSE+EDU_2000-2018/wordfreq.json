@@ -1,0 +1,352 @@
+[
+  {
+    "term": "tinnitus",
+    "freq": 119,
+    "assocs": "retraining, thi, bothersome, treatment, ted, tm, trt, wlc, decrease, veteran, month, hypotheses, modest, several, size",
+    "group": 1,
+    "_row": "tinnitus"
+  },
+  {
+    "term": "manage",
+    "freq": 122,
+    "assocs": "",
+    "group": 2,
+    "_row": "manage"
+  },
+  {
+    "term": "knowledge",
+    "freq": 125,
+    "assocs": "bangladeshi, bdhs, indiscriminate, inequality, multinominal, propound, quite, ramifications, wealth, mode, epidemic, head, household, root, bangladesh, turn, wider, tabulation, transmission, ever, demographic, women, higher, secondarily, regardless, answer, socio, grounded",
+    "group": 1,
+    "_row": "knowledge"
+  },
+  {
+    "term": "service",
+    "freq": 125,
+    "assocs": "provision",
+    "group": 2,
+    "_row": "service"
+  },
+  {
+    "term": "clinic",
+    "freq": 126,
+    "assocs": "",
+    "group": 2,
+    "_row": "clinic"
+  },
+  {
+    "term": "perform",
+    "freq": 127,
+    "assocs": "untrained, word, fluent, monosyllabic, outside, novel, talker",
+    "group": 2,
+    "_row": "perform"
+  },
+  {
+    "term": "base",
+    "freq": 128,
+    "assocs": "",
+    "group": 2,
+    "_row": "base"
+  },
+  {
+    "term": "factor",
+    "freq": 128,
+    "assocs": "efa, iranian, kinds, o, persian, pierson, alpha, cronbach",
+    "group": 2,
+    "_row": "factor"
+  },
+  {
+    "term": "include",
+    "freq": 128,
+    "assocs": "",
+    "group": 2,
+    "_row": "include"
+  },
+  {
+    "term": "outcome",
+    "freq": 129,
+    "assocs": "postintervention, lace, lessening, va, format, temper",
+    "group": 2,
+    "_row": "outcome"
+  },
+  {
+    "term": "care",
+    "freq": 131,
+    "assocs": "cqi, arrangement, thorough, palliative, chaplains, hospice, pocket, wait",
+    "group": 2,
+    "_row": "care"
+  },
+  {
+    "term": "data",
+    "freq": 131,
+    "assocs": "collect",
+    "group": 2,
+    "_row": "data"
+  },
+  {
+    "term": "related",
+    "freq": 132,
+    "assocs": "tm, decrease, veteran, hypotheses, thi, ted, trt, wlc, bothersome, modest",
+    "group": 2,
+    "_row": "related"
+  },
+  {
+    "term": "self",
+    "freq": 135,
+    "assocs": "accuracy, itemised, nineteen",
+    "group": 2,
+    "_row": "self"
+  },
+  {
+    "term": "follow",
+    "freq": 139,
+    "assocs": "",
+    "group": 2,
+    "_row": "follow"
+  },
+  {
+    "term": "may",
+    "freq": 141,
+    "assocs": "",
+    "group": 2,
+    "_row": "may"
+  },
+  {
+    "term": "program",
+    "freq": 141,
+    "assocs": "allocated, denver, membership, ryff, undertook, ace",
+    "group": 2,
+    "_row": "program"
+  },
+  {
+    "term": "develop",
+    "freq": 143,
+    "assocs": "essential",
+    "group": 2,
+    "_row": "develop"
+  },
+  {
+    "term": "associated",
+    "freq": 147,
+    "assocs": "social, subgroup, breathlessness, chd, chest, irrespective, loneliness, longitudinal, netherlands, nl, nonuse, sh, somatization, srtn, poor",
+    "group": 2,
+    "_row": "associated"
+  },
+  {
+    "term": "test",
+    "freq": 149,
+    "assocs": "couple, cohabiting, cvct, endorsed, ina, influential, inl, kigali, leader, leveraged, lusaka, rwanda, rwandan, zambian, joint, zambia, promote, network, mentor, faith, sector, saharan",
+    "group": 2,
+    "_row": "test"
+  },
+  {
+    "term": "provide",
+    "freq": 150,
+    "assocs": "yet, palliative",
+    "group": 2,
+    "_row": "provide"
+  },
+  {
+    "term": "need",
+    "freq": 150,
+    "assocs": "",
+    "group": 2,
+    "_row": "need"
+  },
+  {
+    "term": "individual",
+    "freq": 151,
+    "assocs": "desensitization, anl, mid, quottquot, systematic, unlikely, hence, attempt",
+    "group": 2,
+    "_row": "individual"
+  },
+  {
+    "term": "method",
+    "freq": 151,
+    "assocs": "",
+    "group": 2,
+    "_row": "method"
+  },
+  {
+    "term": "year",
+    "freq": 153,
+    "assocs": "",
+    "group": 2,
+    "_row": "year"
+  },
+  {
+    "term": "level",
+    "freq": 154,
+    "assocs": "household, bangladeshi, bdhs, indiscriminate, inequality, multinominal, propound, quite, ramifications, wealth, epidemic, mode, root, tabulation",
+    "group": 1,
+    "_row": "level"
+  },
+  {
+    "term": "inform",
+    "freq": 157,
+    "assocs": "",
+    "group": 2,
+    "_row": "inform"
+  },
+  {
+    "term": "measurable",
+    "freq": 161,
+    "assocs": "baseline, lace, lessening, postintervention, whether",
+    "group": 2,
+    "_row": "measurable"
+  },
+  {
+    "term": "user",
+    "freq": 165,
+    "assocs": "",
+    "group": 2,
+    "_row": "user"
+  },
+  {
+    "term": "assess",
+    "freq": 166,
+    "assocs": "scale",
+    "group": 2,
+    "_row": "assess"
+  },
+  {
+    "term": "differ",
+    "freq": 168,
+    "assocs": "",
+    "group": 2,
+    "_row": "differ"
+  },
+  {
+    "term": "hiv",
+    "freq": 171,
+    "assocs": "mode, bangladeshi, bdhs, indiscriminate, inequality, multinominal, propound, quite, ramifications, wealth, epidemic, transmission, head, root, household, grounded, demographic, bangladesh, turn, secondarily, wider, tabulation, women, ever",
+    "group": 1,
+    "_row": "hiv"
+  },
+  {
+    "term": "intervention",
+    "freq": 179,
+    "assocs": "embark",
+    "group": 2,
+    "_row": "intervention"
+  },
+  {
+    "term": "improve",
+    "freq": 186,
+    "assocs": "",
+    "group": 2,
+    "_row": "improve"
+  },
+  {
+    "term": "adult",
+    "freq": 189,
+    "assocs": "",
+    "group": 2,
+    "_row": "adult"
+  },
+  {
+    "term": "report",
+    "freq": 197,
+    "assocs": "",
+    "group": 2,
+    "_row": "report"
+  },
+  {
+    "term": "communicate",
+    "freq": 203,
+    "assocs": "",
+    "group": 1,
+    "_row": "communicate"
+  },
+  {
+    "term": "impair",
+    "freq": 204,
+    "assocs": "alright, package, plwha, pressing, semen, vaginal",
+    "group": 2,
+    "_row": "impair"
+  },
+  {
+    "term": "significance",
+    "freq": 210,
+    "assocs": "",
+    "group": 2,
+    "_row": "significance"
+  },
+  {
+    "term": "age",
+    "freq": 220,
+    "assocs": "",
+    "group": 2,
+    "_row": "age"
+  },
+  {
+    "term": "health",
+    "freq": 221,
+    "assocs": "ps, hh, chdkq, hlsi, tofhla, weaker",
+    "group": 2,
+    "_row": "health"
+  },
+  {
+    "term": "effect",
+    "freq": 224,
+    "assocs": "",
+    "group": 2,
+    "_row": "effect"
+  },
+  {
+    "term": "train",
+    "freq": 246,
+    "assocs": "",
+    "group": 1,
+    "_row": "train"
+  },
+  {
+    "term": "loss",
+    "freq": 258,
+    "assocs": "",
+    "group": 1,
+    "_row": "loss"
+  },
+  {
+    "term": "educ",
+    "freq": 268,
+    "assocs": "bangladeshi, bdhs, indiscriminate, inequality, multinominal, propound, quite, ramifications, wealth, epidemic, mode, household, bangladesh, head, tabulation, demographic, root",
+    "group": 1,
+    "_row": "educ"
+  },
+  {
+    "term": "group",
+    "freq": 303,
+    "assocs": "",
+    "group": 1,
+    "_row": "group"
+  },
+  {
+    "term": "patient",
+    "freq": 304,
+    "assocs": "",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "participant",
+    "freq": 357,
+    "assocs": "",
+    "group": 1,
+    "_row": "participant"
+  },
+  {
+    "term": "studied",
+    "freq": 449,
+    "assocs": "",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "hear",
+    "freq": 1530,
+    "assocs": "",
+    "group": 3,
+    "_row": "hear"
+  }
+]

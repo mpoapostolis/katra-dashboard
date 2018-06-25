@@ -1,0 +1,352 @@
+[
+  {
+    "term": "based",
+    "freq": 14,
+    "assocs": "cohort, caution, death, elastomers, employed, enumerated, expectation, incidence, manufacture, minimum, mortality, national, ortho, period, polyurethane, production, registration, single, site, small, smr, srr, unexceptional, value, verify, bis, methylene, ratio, cancer, bladder",
+    "group": 1,
+    "_row": "based"
+  },
+  {
+    "term": "cypa",
+    "freq": 14,
+    "assocs": "aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, good, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, per, evaluate, genetic, chloroaniline, divided, total, mean, affected, n, report, exposure, relationship, individual, indicate, however",
+    "group": 2,
+    "_row": "cypa"
+  },
+  {
+    "term": "mnc",
+    "freq": 14,
+    "assocs": "aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, good, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, per, evaluate, genetic, chloroaniline, divided, total, mean, affected, n, report, exposure, relationship, individual, indicate, however",
+    "group": 2,
+    "_row": "mnc"
+  },
+  {
+    "term": "mnf",
+    "freq": 14,
+    "assocs": "aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, good, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, per, evaluate, genetic, chloroaniline, divided, total, mean, affected, n, report, exposure, relationship, individual, indicate, however",
+    "group": 2,
+    "_row": "mnf"
+  },
+  {
+    "term": "measure",
+    "freq": 16,
+    "assocs": "exposure, alleles, enzyme, fragment, influenced, length, polymorphism, restriction, rflp, creatinine, n, pcr, adjusted, chloroaniline, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, genotype, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, good, number, genetic, report, bis, methylene, indicate, however, evaluate, mean, per, total, investigate, individual",
+    "group": 1,
+    "_row": "measure"
+  },
+  {
+    "term": "general",
+    "freq": 16,
+    "assocs": "ability, adl, att, circumference, cms, components, ef, existed, fast, figure, free, frequently, glucose, glycated, hamd, height, hemoglobin, insulin, june, lang, meaningless, mem, nam, next, ort, past, recollection, reflected, resistance, skills, socio, waist, mellitus, recognition, part, syndrome, detect, human, independent, day, several, ms, hyperlipidemia, pressure, statistical, subject, gt, selected, except, degree, regards",
+    "group": 1,
+    "_row": "general"
+  },
+  {
+    "term": "elderly",
+    "freq": 16,
+    "assocs": "exercise, province, marital, attention, ad, appropriate, basis, given, labor, manual, nature, pay, physical, poor, senior, spouse, work, zhejiang, engaged, prevalence, sleep, low, activity, six, status, alzheimers, especially, old, abuse, beneficial, categories, cigarette, counterparts, crucial, hours, intervention, leisure, life, modest, multi, multidimensional, paid, readily, remains, respondents, series, smartphone, social, strategies, sub, substance, tv, unclear, unexpectedly, unique, watching, xiamen",
+    "group": 1,
+    "_row": "elderly"
+  },
+  {
+    "term": "among",
+    "freq": 17,
+    "assocs": "exposure, n, chloroaniline, adjusted, oxidative, carcinogen, concentration, creatinine, hydroxydeoxyguanosine, lc, methylenebis, ohdg, personal, producing, unexposed, alleles, enzyme, fragment, influenced, length, restriction, rflp, play, polymorphism, pcr, plasma, role, good, genetic, coupled, damage, dna, elevation, even, evidence, induces, job, liquid, microg, neither, process, rather, taiwan, tandem, titles, undertook, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, indicate, genotype, classification",
+    "group": 1,
+    "_row": "among"
+  },
+  {
+    "term": "high",
+    "freq": 17,
+    "assocs": "coupled, damage, dna, elevation, even, evidence, induces, job, liquid, microg, neither, process, rather, taiwan, tandem, titles, undertook, plasma, important, play, role",
+    "group": 1,
+    "_row": "high"
+  },
+  {
+    "term": "method",
+    "freq": 17,
+    "assocs": "good, total",
+    "group": 1,
+    "_row": "method"
+  },
+  {
+    "term": "lower",
+    "freq": 17,
+    "assocs": "hamilton, overweight, heart, lt, scale, duration, logistic, whereas, absence, address, dose, dyskinesia, equivalent, fab, failed, fluctuation, forward, hypothesis, iii, levodopa, motor, parkinsons, pd, unified, updrs, analysis, regression, part",
+    "group": 1,
+    "_row": "lower"
+  },
+  {
+    "term": "montreal",
+    "freq": 17,
+    "assocs": "mild, vascular, protective, prevented, modified, regular, deteriorating, aggressive, compliance, conducted, course, hyperlipidaemia, se, shown, uncontrolled, veterans",
+    "group": 1,
+    "_row": "montreal"
+  },
+  {
+    "term": "stroke",
+    "freq": 17,
+    "assocs": "disabling, implications, attended, chart, experience, final, holistic, ontario, outpatient, pain, partially, perspective, phase, phq, post, predictors, september, southwestern, symptomology, tobacco, common, enrolled, increase, deficits, subsequent, clinical, months, likely, review, visit, rehabilitation, retrospective, report, considerably, lifestyle",
+    "group": 1,
+    "_row": "stroke"
+  },
+  {
+    "term": "population",
+    "freq": 18,
+    "assocs": "information, alzheimers, province, marital, relationship",
+    "group": 1,
+    "_row": "population"
+  },
+  {
+    "term": "g",
+    "freq": 19,
+    "assocs": "aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, good, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, per, evaluate, genetic, chloroaniline, divided, n, total, mean, affected, exposure, report, relationship, indicate, individual, however",
+    "group": 2,
+    "_row": "g"
+  },
+  {
+    "term": "participants",
+    "freq": 19,
+    "assocs": "dyslipidemia, average, caregivers, centers, complained, criteria, date, eight, five, issued, might, nine, northern, reversely, thousand, perform, metabolic, hundred, diagnosed, chinese, seven, marital, regression, relationship, three",
+    "group": 1,
+    "_row": "participants"
+  },
+  {
+    "term": "disease",
+    "freq": 20,
+    "assocs": "improve, hyperlipidaemia, matched, vascular, presence, conducted, aggressive, compliance, course, se, shown, uncontrolled, veterans, protective, prevented, modified, aim, one",
+    "group": 1,
+    "_row": "disease"
+  },
+  {
+    "term": "volume",
+    "freq": 20,
+    "assocs": "brain, predominantly, approved, approximately, automated, board, cingulate, dallas, dementia, deviation, drawn, hippocampal, hippocampus, institutional, later, materials, midlife, multiethnic, posterior, preclinical, precuneus, sample, segmental, smaller, written, younger, estimate, underwent, standard, larger, older, magnetic, resonance, analysis, cardiovascular, determine, showed, consent, lipoprotein, triglyceride, initial, marker, eligible, men, previous, review, visit, image",
+    "group": 1,
+    "_row": "volume"
+  },
+  {
+    "term": "mn",
+    "freq": 20,
+    "assocs": "aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, good, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, per, evaluate, genetic, chloroaniline, divided, total, mean, affected, n, report, exposure, relationship, individual, indicate, however",
+    "group": 2,
+    "_row": "mn"
+  },
+  {
+    "term": "higher",
+    "freq": 21,
+    "assocs": "good, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, creatinine, divided, genotype, number, total, pcr, indicate, polymorphism, genetic, bis, methylene, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, absence, address, dose, dyskinesia, equivalent, fab, failed, fluctuation, forward, hypothesis, iii, levodopa, motor, parkinsons, pd, unified, updrs, per, overweight, mean, duration, report",
+    "group": 1,
+    "_row": "higher"
+  },
+  {
+    "term": "workers",
+    "freq": 21,
+    "assocs": "exposure, chloroaniline, n, concentration, hydroxydeoxyguanosine, lc, methylenebis, ohdg, oxidative, personal, producing, unexposed, carcinogen, plasma, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, creatinine, polymorphism, pcr, coupled, damage, dna, elevation, even, evidence, induces, job, liquid, microg, neither, process, rather, taiwan, tandem, titles, undertook, genetic, factories, play, number, recently, classification, bis, methylene, acetylator, acetyltransferase, carcinogenesis, chain, crude, environment, gene, generation, impact, intermediate, ml, nat, occupational, pg, polymerase, rapid, reaction, slow, stress, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary",
+    "group": 2,
+    "_row": "workers"
+  },
+  {
+    "term": "depression",
+    "freq": 21,
+    "assocs": "absence, address, dose, dyskinesia, equivalent, fab, failed, fluctuation, forward, hypothesis, iii, levodopa, motor, parkinsons, pd, unified, updrs, overweight, hamilton, scale, attended, chart, experience, final, holistic, ontario, outpatient, pain, partially, perspective, phase, phq, post, predictors, september, southwestern, symptomology, tobacco, lt, negative, purpose, clinical, proportion, common",
+    "group": 1,
+    "_row": "depression"
+  },
+  {
+    "term": "hypertension",
+    "freq": 22,
+    "assocs": "decline, aggressive, compliance, course, se, shown, uncontrolled, veterans, relate, prevented, protective, modified, hyperlipidaemia, data, people, one, antihypertensive, centenarians, clear, future, index, intake, j, japanese, longitudinal, middle, nonagenarians, noted, obtained, octogenarians, predictive, randomly, septuagenarians, sonic, version, vascular, regular, improve, deteriorating, investigate, confounders, treated, presence, conducted, follow, combination, sleep, especially, old, baseline, still",
+    "group": 1,
+    "_row": "hypertension"
+  },
+  {
+    "term": "plt",
+    "freq": 22,
+    "assocs": "good, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, alleles, enzyme, fragment, influenced, length, restriction, rflp, per, adjusted, total, evaluate, genetic, report, mean, chloroaniline, divided, affected, n, similar, indicate, exposure, relationship, individual",
+    "group": 2,
+    "_row": "plt"
+  },
+  {
+    "term": "educated",
+    "freq": 23,
+    "assocs": "abuse, beneficial, categories, cigarette, counterparts, crucial, hours, intervention, leisure, life, modest, multi, multidimensional, paid, readily, remains, respondents, series, smartphone, social, strategies, sub, substance, tv, unclear, unexpectedly, unique, watching, xiamen, domain, attention, better, health, six, respect, low, adequate, successful, activity, moderate, day, exercise, week, specific, detect, design, language, less, account, inversely, eligible, previous, contributed, ex, never, odds, lifestyle, engaged, china, model, play, three",
+    "group": 1,
+    "_row": "educated"
+  },
+  {
+    "term": "impaired",
+    "freq": 23,
+    "assocs": "modified, aggressive, compliance, course, se, shown, uncontrolled, veterans, one, protective, prevented, deteriorating, vascular, mild, regular, improve, hyperlipidaemia, confounders, may, treated, mmse, presence, conducted, aim, sleep, relate, decline, data, matched, treatment",
+    "group": 1,
+    "_row": "impaired"
+  },
+  {
+    "term": "mci",
+    "freq": 23,
+    "assocs": "degree, act, available, bmi, diabetestdm, diet, endocrinology, habitual, hbac, hbalc, hdl, light, mediterranean, qinhuangdao, reduces, referred, renal, routine, system, tdm, liver, c, cholesterol, type, lipid, physical, non, statistical, histories",
+    "group": 1,
+    "_row": "mci"
+  },
+  {
+    "term": "exposed",
+    "freq": 24,
+    "assocs": "alleles, enzyme, fragment, influenced, length, restriction, rflp, polymorphism, chloroaniline, pcr, exposure, genetic, adjusted, creatinine, n, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, number, bis, methylene, good, per, evaluate, report, however, divided, concentration, hydroxydeoxyguanosine, lc, mean, methylenebis, personal, producing, unexposed, affected, total, acetylator, acetyltransferase, carcinogenesis, chain, crude, environment, gene, generation, impact, intermediate, ml, nat, occupational, pg, polymerase, rapid, reaction, slow, stress",
+    "group": 2,
+    "_row": "exposed"
+  },
+  {
+    "term": "function",
+    "freq": 24,
+    "assocs": "apoe, apolipoprotein, attracted, e, entered, han, much, serum, normal, sex",
+    "group": 1,
+    "_row": "function"
+  },
+  {
+    "term": "cell",
+    "freq": 24,
+    "assocs": "aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, creatinine, number, pcr, polymorphism, bis, methylene, good, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, per, evaluate, genetic, chloroaniline, divided, total, mean, affected, n, report, exposure, relationship, individual, indicate, however",
+    "group": 2,
+    "_row": "cell"
+  },
+  {
+    "term": "differ",
+    "freq": 25,
+    "assocs": "evaluate, however, genotype, alleles, enzyme, fragment, influenced, length, pcr, polymorphism, restriction, rflp, adjusted, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary",
+    "group": 1,
+    "_row": "differ"
+  },
+  {
+    "term": "diabetes",
+    "freq": 25,
+    "assocs": "people, antihypertensive, centenarians, clear, future, index, intake, j, japanese, longitudinal, middle, nonagenarians, noted, obtained, octogenarians, predictive, randomly, septuagenarians, sonic, version, histories, pressure, blood, follow, decline, combination, especially, old, baseline, still, dyslipidemia, medical, recruited, hundred",
+    "group": 1,
+    "_row": "diabetes"
+  },
+  {
+    "term": "ci",
+    "freq": 26,
+    "assocs": "aggressive, compliance, course, se, shown, uncontrolled, veterans, one, modified, protective, prevented, regular, improve, deteriorating, hyperlipidaemia, confounders, treated, vascular, presence, conducted, mild, may, relate, data, important, sleep, matched, decline, effect",
+    "group": 3,
+    "_row": "ci"
+  },
+  {
+    "term": "year",
+    "freq": 27,
+    "assocs": "baseline, older, brain, considerably, analysis, consent, predominantly, eligible, previous, underwent, medical, magnetic, resonance, approved, approximately, automated, board, cingulate, dallas, dementia, deviation, drawn, hippocampal, hippocampus, institutional, later, materials, midlife, multiethnic, posterior, preclinical, precuneus, sample, segmental, smaller, written, younger, antihypertensive, centenarians, clear, future, index, intake, j, japanese, longitudinal, middle, nonagenarians, noted, obtained, octogenarians, predictive, randomly, septuagenarians, sonic, version",
+    "group": 1,
+    "_row": "year"
+  },
+  {
+    "term": "level",
+    "freq": 28,
+    "assocs": "exposure, n, plasma, carcinogen, coupled, damage, dna, elevation, even, evidence, induces, job, liquid, microg, neither, oxidative, process, rather, taiwan, tandem, titles, undertook, ohdg, concentration, hydroxydeoxyguanosine, lc, methylenebis, personal, producing, unexposed, classification, chloroaniline, provide, characteristic, important, mass, survey, play, creatinine, investigate, questionnaire",
+    "group": 2,
+    "_row": "level"
+  },
+  {
+    "term": "assess",
+    "freq": 29,
+    "assocs": "hyperlipidaemia, rate, vascular, conducted, presence, hamilton, protective, regular, lt, aggressive, compliance, course, se, shown, uncontrolled, veterans, absence, address, dose, dyskinesia, equivalent, fab, failed, fluctuation, forward, hypothesis, iii, levodopa, motor, parkinsons, pd, unified, updrs, scale, negative",
+    "group": 1,
+    "_row": "assess"
+  },
+  {
+    "term": "age",
+    "freq": 30,
+    "assocs": "collected, aat, arrival, asl, attenuated, attributed, calculated, cerebrovascular, challenge, co, conditions, cortical, distributed, end, established, flair, fluid, fold, grey, hypercapnic, hyperintensity, intracranial, labelling, late, lobes, localised, loe, matter, mm, mri, multiple, normocapnic, novel, occult, often, pathophysiology, persisted, prolongation, protocol, reactivity, relevant, rest, sd, sixteen, spin, structural, t, temporal, tidal, voxel, whilst, white, whole, wmh, cbf, image, weight, arterial",
+    "group": 1,
+    "_row": "age"
+  },
+  {
+    "term": "significance",
+    "freq": 30,
+    "assocs": "comparison, delay, scan, mean, weight, aat, arrival, asl, attenuated, attributed, calculated, cerebrovascular, challenge, co, conditions, cortical, distributed, end, established, flair, fluid, fold, grey, hypercapnic, hyperintensity, intracranial, labelling, late, lobes, localised, loe, matter, mm, mri, multiple, normocapnic, novel, occult, often, pathophysiology, persisted, protocol, reactivity, relevant, rest, sd, sixteen, spin, structural, t, temporal, tidal, voxel, whilst, white, wmh, image, baseline",
+    "group": 1,
+    "_row": "significance"
+  },
+  {
+    "term": "studied",
+    "freq": 33,
+    "assocs": "aggressive, compliance, course, se, shown, uncontrolled, veterans, protective, modified, hyperlipidaemia, presence, vascular, improve, deteriorating, conducted, confounders, one, prevented, regular, investigate, decline",
+    "group": 1,
+    "_row": "studied"
+  },
+  {
+    "term": "control",
+    "freq": 33,
+    "assocs": "pcr, polymorphism, alleles, enzyme, fragment, influenced, length, restriction, rflp, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, evaluate, good, genotype, creatinine, number, genetic, bis, methylene, adjusted, per, chloroaniline, mean, total, exposure, n, divided, report, affected",
+    "group": 2,
+    "_row": "control"
+  },
+  {
+    "term": "smokers",
+    "freq": 34,
+    "assocs": "along, apnea, asked, benefit, cdt, cessation, clock, coexistence, complete, drawing, eighteen, either, extents, little, main, neurocognitive, obstructive, osa, pronounced, synergizes, tended, verbal, vft, worst, test, chronic, potential, contributed, ex, never, without, worse, interaction, effect, whether, current, known, better",
+    "group": 1,
+    "_row": "smokers"
+  },
+  {
+    "term": "risk",
+    "freq": 35,
+    "assocs": "modified, regular, consent, aggressive, compliance, course, se, shown, uncontrolled, veterans, decline, mmse, vascular, protective, may, relate, improve",
+    "group": 3,
+    "_row": "risk"
+  },
+  {
+    "term": "mboca",
+    "freq": 36,
+    "assocs": "exposure, n, chloroaniline, creatinine, adjusted, pcr, polymorphism, alleles, enzyme, fragment, influenced, length, restriction, rflp, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, genotype, number, genetic, carcinogen, oxidative, plasma, ohdg, coupled, damage, dna, elevation, even, evidence, induces, job, liquid, microg, neither, process, rather, taiwan, tandem, titles, undertook, bis, methylene, good, concentration, hydroxydeoxyguanosine, lc, methylenebis, personal, producing, unexposed, per, report, mean, evaluate, classification, indicate",
+    "group": 2,
+    "_row": "mboca"
+  },
+  {
+    "term": "moca",
+    "freq": 36,
+    "assocs": "pressure",
+    "group": 1,
+    "_row": "moca"
+  },
+  {
+    "term": "score",
+    "freq": 36,
+    "assocs": "part, scale, hamilton, heart, independent, ability, adl, att, circumference, cms, components, ef, existed, fast, figure, free, frequently, glucose, glycated, hamd, height, hemoglobin, insulin, june, lang, meaningless, mem, nam, next, ort, past, recollection, reflected, resistance, skills, socio, waist, pressure, several, mellitus, lt, syndrome, gt, overweight, clinical, included, absence, address, dose, dyskinesia, equivalent, fab, failed, fluctuation, forward, hypothesis, iii, levodopa, motor, parkinsons, pd, unified, updrs",
+    "group": 1,
+    "_row": "score"
+  },
+  {
+    "term": "associated",
+    "freq": 38,
+    "assocs": "approved, approximately, automated, board, cingulate, dallas, dementia, deviation, drawn, hippocampal, hippocampus, institutional, later, materials, midlife, multiethnic, posterior, preclinical, precuneus, sample, segmental, smaller, written, younger, estimate, older, standard, cardiovascular, larger, brain, eligible, previous, regression, analysis, men, review, visit, underwent, heart, consent, predominantly, perform",
+    "group": 1,
+    "_row": "associated"
+  },
+  {
+    "term": "group",
+    "freq": 41,
+    "assocs": "divided, pcr, polymorphism, alleles, enzyme, fragment, influenced, length, restriction, rflp, adjusted, aa, appear, assay, binucleated, block, cytochrome, cytokinesis, frequency, genotoxicity, ltg, lymphocyte, micronucleated, micronuclei, micronucleus, recommend, susceptible, urinary, creatinine, genotype, number, per, good, genetic, chloroaniline, bis, methylene, exposure, evaluate, n, mean, indicate",
+    "group": 2,
+    "_row": "group"
+  },
+  {
+    "term": "factor",
+    "freq": 45,
+    "assocs": "aggressive, compliance, course, se, shown, uncontrolled, veterans, protective, modified, deteriorating, regular, one, confounders, prevented, improve, conducted, hyperlipidaemia, may, relate, vascular, presence, treated, effect, decline, sleep, exercise, mmse",
+    "group": 3,
+    "_row": "factor"
+  },
+  {
+    "term": "patient",
+    "freq": 62,
+    "assocs": "negative, r, hospital, identified, likely, enrolled, department, analyzed, clinical, c",
+    "group": 1,
+    "_row": "patient"
+  },
+  {
+    "term": "cognition",
+    "freq": 97,
+    "assocs": "modified, aggressive, compliance, course, se, shown, uncontrolled, veterans, deteriorating",
+    "group": 3,
+    "_row": "cognition"
+  }
+]
