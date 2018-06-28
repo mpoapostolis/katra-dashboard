@@ -13,10 +13,9 @@ export const left = css`
 
 export const right = css`
   width: 49%;
-  height: 100vh;
+  height: 100%;
   display: flex;
   img {
-    border:solid 5px green;
     max-width: 35vw;
   }
 `;
@@ -24,9 +23,7 @@ export const right = css`
 export const inputCont = css`
   display: flex;
   margin: 10px;
-  &:hover {
-    font-weight: 600;
-  }
+  font-size:small;
 `;
 
 export const input = css`cursor: pointer;`;

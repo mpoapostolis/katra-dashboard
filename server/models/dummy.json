@@ -1,37 +1,46 @@
 [{
         "name": "PHPDM4_s1",
-        "AIC": 61.26942
+        "AIC": 61.26942,
+        "details":"Hearing Aid Usage ~ Age (R) + Education"
     },
     {
         "name": "PHPDM4_s2",
-        "AIC": 61.02113
+        "AIC": 61.02113,
+        "details":"Hearing Aid Usage ~ Age + Education (R)"
     },
     {
         "name": "PHPDM4_s3",
-        "AIC": 57.47052
+        "AIC": 57.47052,
+        "details":"Hearing Aid Usage ~ Age  (R) + Social Engagement "
     },
     {
         "name": "PHPDM4_s4",
-        "AIC": 57.47052
+        "AIC": 57.47052,
+        "details":"Hearing Aid Usage ~ Age + Social Engagement  (R)"
     },
     {
         "name": "PHPDM4_s5",
-        "AIC": 54.15827
+        "AIC": 54.15827,
+        "details":"Hearing Aid Usage ~ Education (R)  + Social Engagement"
     },
     {
         "name": "PHPDM4_s6",
-        "AIC": 54.31244
+        "AIC": 54.31244,
+        "details":"Hearing Aid Usage ~ Education + Social Engagement (R)"
     },
     {
         "name": "PHPDM4_s7",
-        "AIC": 66.99797
+        "AIC": 66.99797,
+        "details":"Hearing Aid Usage ~ Age (R)  + Education + Social Engagement"
     },
     {
         "name": "PHPDM4_s8",
-        "AIC": 66.85743
+        "AIC": 66.85743,
+        "details":"Hearing Aid Usage ~ Age + Education (R) + Social Engagement"
     },
     {
         "name": "PHPDM4_s9",
-        "AIC": 66.99797
+        "AIC": 66.99797,
+        "details":"Hearing Aid Usage ~ Age + Education + Social Engagement (R)"
     }
 ]

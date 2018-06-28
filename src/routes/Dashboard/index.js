@@ -152,7 +152,7 @@ class DashBoard extends Component {
               field={'stopWords'}
               label={'stop words'}
             />
-            <p className={styles.alert}>Please write any additional stopwords you might want to include in the current stopword list*</p>
+            <p className={styles.alert}>Please write any additional stopwords you might want to include in the current stopword list and press Enter*</p>
           </div>
 
           <div className={submit}>
