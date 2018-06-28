@@ -1,0 +1,37 @@
+[{
+        "name": "PHPDM4_s1",
+        "AIC": 61.26942
+    },
+    {
+        "name": "PHPDM4_s2",
+        "AIC": 61.02113
+    },
+    {
+        "name": "PHPDM4_s3",
+        "AIC": 57.47052
+    },
+    {
+        "name": "PHPDM4_s4",
+        "AIC": 57.47052
+    },
+    {
+        "name": "PHPDM4_s5",
+        "AIC": 54.15827
+    },
+    {
+        "name": "PHPDM4_s6",
+        "AIC": 54.31244
+    },
+    {
+        "name": "PHPDM4_s7",
+        "AIC": 66.99797
+    },
+    {
+        "name": "PHPDM4_s8",
+        "AIC": 66.85743
+    },
+    {
+        "name": "PHPDM4_s9",
+        "AIC": 66.99797
+    }
+]

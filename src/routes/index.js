@@ -11,6 +11,7 @@ import Login from './Login';
 import AuthWrapper from '../components/AuthWrapper';
 import Error404 from '../components/Error404';
 import Reports from './Reports';
+import Models from './Models';
 import { menuItems } from '../utils';
 
 const mapPathToComponents = (path) => {
@@ -19,6 +20,8 @@ const mapPathToComponents = (path) => {
       return Dashboard;
     case 'reports':
       return Reports;
+    case 'models':
+      return Models;
 
     default:
       return Error404;

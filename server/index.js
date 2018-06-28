@@ -3,11 +3,13 @@ const express = require("express");
 const app = express();
 const { generateToken, refreshToken } = require("./auth");
 const path = require('path')
+
 const PORT = 8080;
 
 const urlencodedParser = bodyParser.urlencoded({ extended: false });
 
 app.use('/api/assets', express.static(__dirname + '/reports'));
+app.use('/api/models', express.static(__dirname + '/models'));
 
 app.post("/api/login", urlencodedParser, (req, res) => {
   const { grant_type, username, password } = req.body;

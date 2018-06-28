@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 import * as styles from './css';
 import DatePicker from 'react-datepicker';
 import TextField from '../../components/TextField';
 import Label from '../../components/Label';
 import actions from '../../redux/actions';
-import { bindActionCreators } from 'redux';
-import { connect } from 'react-redux';
+import {bindActionCreators} from 'redux';
+import {connect} from 'react-redux';
 import models from '../../utils/models';
 import concat from 'ramda/src/concat';
 import pluck from 'ramda/src/pluck';
@@ -16,10 +16,10 @@ import Button from '@material-ui/core/Button';
 import 'react-datepicker/dist/react-datepicker.css';
 import { fstat } from 'fs';
 
-const fact_1_data = uniq(flatten(pluck('data', models)));
+const fact_1_data = uniq (flatten (pluck ('data', models)));
 class DashBoard extends Component {
-  constructor(props) {
-    super(props);
+  constructor (props) {
+    super (props);
     this.state = {
       startDate: null,
       endDate: null,
@@ -39,22 +39,20 @@ class DashBoard extends Component {
   setFormData = (obj) => this.setState(obj);
   handleDelete = (label) => {
     const tmpList = this.state.stopWords;
-    const index = tmpList.indexOf(label);
-    tmpList.splice(index, 1);
-    this.setState({ stopWords: tmpList });
+    const index = tmpList.indexOf (label);
+    tmpList.splice (index, 1);
+    this.setState ({stopWords: tmpList});
   };
-  handleEnter = (evt) => {
-    const { stopWords } = this.state;
-    const { value } = evt.currentTarget;
+  handleEnter = evt => {
+    const {stopWords} = this.state;
+    const {value} = evt.currentTarget;
     if (value)
       this.setState({ stopWords: [...stopWords, evt.currentTarget.value] });
   };
 
-  startTextMining = () => {
+  startTextMining = () => {};
 
-  }
-
-  render() {
+  render () {
     const {
       container,
       fieldset,
@@ -82,17 +80,18 @@ class DashBoard extends Component {
     const modelHasData = (arr) => arr.includes(fact_1);
     const range = [...Array(101).keys()].map(e => 2018 - e)
 
-    const filteredModels = models.filter((obj) => modelHasData(obj.data));
-    const fact_2_data = uniq(flatten(pluck('factors', filteredModels)));
+    const filteredModels = models.filter (obj => modelHasData (obj.data));
+    const fact_2_data = uniq (flatten (pluck ('factors', filteredModels)));
 
-    const [model] = models.filter(
-      (obj) => obj.data.includes(fact_1) && obj.factors.includes(fact_2)
+    const [model] = models.filter (
+      obj => obj.data.includes (fact_1) && obj.factors.includes (fact_2)
     );
     const searchWords = `${fact_1.replace(/ /g, '_')}+${fact_2.replace(/ /g, '_')}`
     let stopWordsString = ''
     stopWords.forEach(element => {
       stopWordsString += `,${element}`
     });
+    console.log (fact_1, fact_2);
     const modelName = model ? model.modelName : ' ';
     const url = `/reports?model=${modelName}&search_word=${searchWords}&stopwords=${stopWordsString.slice(1)}&startDate=${fStartDate}&endDate=${fEndDate}`
     return (
@@ -157,7 +156,11 @@ class DashBoard extends Component {
           </div>
 
           <div className={submit}>
-            <Button variant="contained" onClick={() => this.props.history.push(url)} component="span">
+            <Button
+              variant="contained"
+              onClick={() => this.props.history.push (url)}
+              component="span"
+            >
               START TEXT MINING
             </Button>
           </div>
@@ -167,7 +170,7 @@ class DashBoard extends Component {
   }
 }
 
-function mapDispatchToProps(dispatch) {
-  return bindActionCreators({}, dispatch);
+function mapDispatchToProps (dispatch) {
+  return bindActionCreators ({}, dispatch);
 }
-export default connect(null, mapDispatchToProps)(DashBoard);
+export default connect (null, mapDispatchToProps) (DashBoard);
