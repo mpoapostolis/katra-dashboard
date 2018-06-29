@@ -26,7 +26,11 @@ export const inputCont = css`
   font-size:small;
 `;
 
-export const input = css`cursor: pointer;`;
+export const input = css`
+  cursor: pointer;
+  border:none;
+  font-size:small;
+  `;
 
 export const fieldset = css`
   margin: 20px;

@@ -33,7 +33,7 @@ export default class Models extends Component {
     const { models, results } = this.state
     const filterdArr = models.filter((e, index) => results[index])
     const aicValues = pluck('AIC', filterdArr)
-    const maximum = Math.max(...aicValues)
+    const maximum = Math.min(...aicValues)
     const index = aicValues.indexOf(maximum)
 
     this.setState({
@@ -43,20 +43,25 @@ export default class Models extends Component {
   }
 
   render() {
-    const { models, images, index } = this.state;
+    const { models, images, currentMode, index } = this.state;
     const methods = [
       'Linear Mixed Models',
       'Linear Models',
       'Log Linear Reggression',
       'Cluster Factoring',
     ];
-
+    const isPHPDM4 = currentMode === 'PHPDM4'
     return (
       <div className={container}>
         <div className={left}>
           <fieldset className={fieldset}>
-            <legend>1. Choose models:</legend>
-            {models.map((model, key) => (
+            <legend>1. Choose models: <select className={input} onChange={e => this.setState({ currentMode: e.target.value })}>
+              <option>PHPDM1</option>
+              <option>PHPDM2</option>
+              <option>PHPDM3</option>
+              <option>PHPDM4</option>
+            </select></legend>
+            {isPHPDM4 && models.map((model, key) => (
               <div key={key} className={inputCont}>
                 <input
                   onChange={e => this.handleChange(key, e.target.checked)}
@@ -76,9 +81,10 @@ export default class Models extends Component {
 
           <fieldset className={fieldset}>
             <legend>2. Choose method of Comparison:</legend>
-            {methods.map((method, key) => (
+            {isPHPDM4 && methods.map((method, key) => (
               <div key={key} className={inputCont}>
                 <input
+                  disabled={key !== 0}
                   onChange={e => this.setState({ method })}
                   className={input}
                   type="checkbox"
@@ -98,7 +104,7 @@ export default class Models extends Component {
           {images.length ? <fieldset className={fieldset}>
             <legend>Results:</legend>
             {images.map((obj, key) =>
-              <img key={key} style={{ border: key === index ? 'solid 5px green' : '' }} src="/api/models/PHPDM4_s1.png" alt="" />
+              <img key={key} style={{ border: key === index ? 'solid 5px green' : '' }} src={`/api/models/${obj.name}.png`} alt="" />
             )}
           </fieldset> : <div />}
         </div>
